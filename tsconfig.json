@@ -8,6 +8,9 @@
     "target": "es6",          // Transpile to ES6 or higher
     "skipLibCheck": true      // Skip type checking of declaration files
   },
+  "ts-node": {
+        "esm": true
+  },
   "include": [
     "**/*.ts"                 // Include all .ts files
   ],
