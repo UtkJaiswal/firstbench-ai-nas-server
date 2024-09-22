@@ -9,7 +9,8 @@
     "skipLibCheck": true      // Skip type checking of declaration files
   },
   "ts-node": {
-        "esm": true
+        "esm": true,
+        "experimentalSpecifierResolution": "node"
   },
   "include": [
     "**/*.ts"                 // Include all .ts files
