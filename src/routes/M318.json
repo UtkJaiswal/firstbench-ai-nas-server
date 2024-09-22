@@ -1,0 +1,417 @@
+{
+    "subject": "mathematics",
+    "grade": "3rd  grade",
+    "learning_outcome": "Extends patterns in simple shapes and numbers.",
+    "questions": [
+        {
+            "question": {
+                "en": "Which shape comes next in the pattern: square, circle, triangle, _____?",
+                "te": "నమూనాలో వచ్చే ఆకారం: వర్గం, వృత్తం, త్రిభుజం, _____?",
+                "ur": "پیٹرن میں اگلا شکل کون سی ہے: مربع، دائرہ، مثلث، _____؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Rectangle",
+                    "te": "రెక్టంగుల్",
+                    "ur": "مستطیل"
+                },
+                "B": {
+                    "en": "Hexagon",
+                    "te": "షడ్భుజం",
+                    "ur": "شش ضلعی"
+                },
+                "C": {
+                    "en": "Pentagon",
+                    "te": "పెంటగన్",
+                    "ur": "پانچ ضلعی"
+                },
+                "D": {
+                    "en": "Oval",
+                    "te": "ఓవల్",
+                    "ur": "اوول"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "In the pattern, the shapes are progressing from a square to a circle to a triangle, so the next shape should be a hexagon.",
+                "te": "నమూనాలో, ఆకారాలు ఒక వర్గం నుండి ఒక వృత్తం నుండి ఒక త్రిభుజం వరకు పురుగుతూ ఉంటాయి, కాబట్టి తరువాత ఆకారం షడ్భుజం అవుతుంది.",
+                "ur": "پیٹرن میں، شکلیں ایک مربع سے ایک دائرہ تک اور ایک مثلث تک بڑھ رہی ہیں، لہذا اگلا شکل ایک شش ضلعی ہونا چاہئے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What comes next in the pattern: 2, 4, 6, __?",
+                "te": "నమూదుచేసే మార్గంలో తరువాత ఏమి వస్తుంది: 2, 4, 6, __?",
+                "ur": "پیٹرن میں اگلا کیا ہے: 2، 4، 6، __؟"
+            },
+            "options": {
+                "A": {
+                    "en": "8",
+                    "te": "8",
+                    "ur": "8"
+                },
+                "B": {
+                    "en": "10",
+                    "te": "10",
+                    "ur": "10"
+                },
+                "C": {
+                    "en": "12",
+                    "te": "12",
+                    "ur": "12"
+                },
+                "D": {
+                    "en": "14",
+                    "te": "14",
+                    "ur": "14"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The pattern is increasing by 2 each time, so the next number is 6 + 2 = 8.",
+                "te": "మార్గం ప్రతి సమయం 2 తరహా పెరుగుతుంది, కాబట్టి తరువాత సంఖ్య 6 + 2 = 8.",
+                "ur": "پیٹرن ہر بار 2 سے بڑھ رہا ہے، لہذا اگلا نمبر 6 + 2 = 8 ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape comes next in the pattern: square, circle, triangle, square, circle, ____?",
+                "te": "కాంక్రీటు, వృత్తం, త్రిభుజం, కాంక్రీటు, వృత్తం, ____ వచ్చే ఆకారం ఏది?",
+                "ur": "مربع، دائرہ، مثلث، مربع، دائرہ، ____ میں کونسا شکل آئے گا؟"
+            },
+            "options": {
+                "A": {
+                    "en": "square",
+                    "te": "కాంక్రీటు",
+                    "ur": "مربع"
+                },
+                "B": {
+                    "en": "triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "مثلث"
+                },
+                "C": {
+                    "en": "rectangle",
+                    "te": "రెక్టంగుల్",
+                    "ur": "مستطیل"
+                },
+                "D": {
+                    "en": "star",
+                    "te": "స్టార్",
+                    "ur": "ستارہ"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "The pattern is square, circle, triangle, square, circle, square, and the next shape is a square.",
+                "te": "ఆకారాలు కాంక్రీటు, వృత్తం, త్రిభుజం, కాంక్రీటు, వృత్తం, కాంక్రీటు మరియు తరువాతి ఆకారం మరియు కాంక్రీటు.",
+                "ur": "پیٹرن مربع، دائرہ، مثلث، مربع، دائرہ، مربع ہے، اور اگلا شکل مربع ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape comes next in the pattern: square, circle, triangle, square, circle, ____?",
+                "te": "నమూనాలో వెళ్ళుతున్న ఆకారం ఏది: వర్గం, వృత్తం, త్రిభుజం, వర్గం, వృత్తం, ____?",
+                "ur": "پیٹرن میں اگلا شکل کون سی ہے: مربع، دائرہ، مثلث، مربع، دائرہ، ____؟"
+            },
+            "options": {
+                "A": {
+                    "en": "triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "مثلث"
+                },
+                "B": {
+                    "en": "square",
+                    "te": "వర్గం",
+                    "ur": "مربع"
+                },
+                "C": {
+                    "en": "circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                },
+                "D": {
+                    "en": "rectangle",
+                    "te": "అంగులంవల్ల",
+                    "ur": "مستطیل"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "The pattern is square, circle, triangle, square, circle, triangle...",
+                "te": "నమూనా వర్గం, వృత్తం, త్రిభుజం, వర్గం, వృత్తం, త్రిభుజం కాదు...",
+                "ur": "پیٹرن مربع، دائرہ، مثلث، مربع، دائرہ، مثلث ہے..."
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which pattern comes next in the sequence: 2, 4, 6, ___?",
+                "te": "అనుక్రమంలో వచ్చే విన్యాసం ఏమిటి: 2, 4, 6, ___?",
+                "ur": "تسلسل میں اگلی پیٹرن کون سا ہے: 2, 4, 6, ___؟"
+            },
+            "options": {
+                "A": {
+                    "en": "7",
+                    "te": "7",
+                    "ur": "7"
+                },
+                "B": {
+                    "en": "8",
+                    "te": "8",
+                    "ur": "8"
+                },
+                "C": {
+                    "en": "10",
+                    "te": "10",
+                    "ur": "10"
+                },
+                "D": {
+                    "en": "12",
+                    "te": "12",
+                    "ur": "12"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "In the sequence, each number is increasing by 2. So, the next number would be 6 + 2 = 8.",
+                "te": "అనుక్రమంలో, ప్రతి సంఖ్య రెండుతో పెరుగుతుంది. కాబట్టి, తదితరగా ఉండే సంఖ్య ఉండవచ్చు 6 + 2 = 8.",
+                "ur": "تسلسل میں، ہر نمبر 2 سے بڑھ رہا ہے۔ لہذا، اگلا نمبر 6 + 2 = 8 ہوگا۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape comes next in the pattern: square, circle, triangle, square, circle, __?",
+                "te": "నమూనాలో వచ్చే ఏది ఆగిపెట్టారు: చదరం, వృత్తం, త్రిభుజం, చదరం, వృత్తం, __?",
+                "ur": "نمونے میں اگلی شکل کون سی ہے: مربع، دائرہ، مثلث، مربع، دائرہ، __؟"
+            },
+            "options": {
+                "A": {
+                    "en": "square",
+                    "te": "చదరం",
+                    "ur": "مربع"
+                },
+                "B": {
+                    "en": "triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "مثلث"
+                },
+                "C": {
+                    "en": "rectangle",
+                    "te": "ఆయతం",
+                    "ur": "چوکور"
+                },
+                "D": {
+                    "en": "hexagon",
+                    "te": "షట్కోణం",
+                    "ur": "شش ضلعی"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "The pattern is square, circle, triangle, square, circle, square, circle, triangle, and it repeats.",
+                "te": "నమూనాను చదరం, వృత్తం, త్రిభుజం, చదరం, వృత్తం, చదరం, వృత్తం, త్రిభుజం అని పునరావృత్తి చేస్తుంది.",
+                "ur": "نمونہ مربع، دائرہ، مثلث، مربع، دائرہ، مربع، دائرہ، مثلث ہے اور یہ دہراتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "In a sequence of shapes, what comes next: square, circle, triangle, ______?",
+                "te": "ఆకృతుల క్రమంలో, తరువాతిగా ఏది వస్తుంది: చదరం, వృత్తం, త్రిభుజం, ______?",
+                "ur": "شکلوں کے تسلسل میں، اگلا کیا آتا ہے: مربع، دائرہ، مثلث، ______؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Rectangle",
+                    "te": "రెక్టంగుల్",
+                    "ur": "مستطیل"
+                },
+                "B": {
+                    "en": "Pentagon",
+                    "te": "పెంటగన్",
+                    "ur": "پینٹاگون"
+                },
+                "C": {
+                    "en": "Oval",
+                    "te": "ఓవల్",
+                    "ur": "اوول"
+                },
+                "D": {
+                    "en": "Hexagon",
+                    "te": "హెక్సగన్",
+                    "ur": "ہیکساگون"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "In the sequence of shapes, the next shape after square, circle, and triangle is an Oval.",
+                "te": "ఆకృతుల క్రమంలో, చదరం, వృత్తం, త్రిభుజం తరువాత వస్తున్న ఆకృతి ఒక ఓవల్.",
+                "ur": "شکلوں کے تسلسل میں، مربع، دائرہ، اور مثلث کے بعد اگلی شکل ایک اوول ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape comes next in the pattern: square, circle, triangle, square, circle, __?",
+                "te": "మార్గంలో వచ్చే ఆకారం ఏది: వర్గం, వృత్తం, త్రిభుజం, వర్గం, వృత్తం, __?",
+                "ur": "پیٹرن میں اگلا شکل کونسی ہے: مربع، دائرہ، مثلث، مربع، دائرہ، __؟"
+            },
+            "options": {
+                "A": {
+                    "en": "triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "مثلث"
+                },
+                "B": {
+                    "en": "square",
+                    "te": "వర్గం",
+                    "ur": "مربع"
+                },
+                "C": {
+                    "en": "circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                },
+                "D": {
+                    "en": "hexagon",
+                    "te": "షడ్భుజం",
+                    "ur": "شش ضلعی"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "The pattern is square, circle, triangle, so the next shape is a triangle.",
+                "te": "మార్గం వర్గం, వృత్తం, త్రిభుజం కాదు, కాబట్టి తదుపరి ఆకారం ఒక త్రిభుజం.",
+                "ur": "پیٹرن میں مربع، دائرہ، مثلث ہے، لہذا اگلا شکل ایک مثلث ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What comes next in the pattern: 2, 4, 6, __?",
+                "te": "నమూనాలో తరువాత ఏమి వస్తుంది: 2, 4, 6, __?",
+                "ur": "نمونہ میں اگلا کیا ہے: 2, 4, 6, __؟"
+            },
+            "options": {
+                "A": {
+                    "en": "8",
+                    "te": "8",
+                    "ur": "8"
+                },
+                "B": {
+                    "en": "10",
+                    "te": "10",
+                    "ur": "10"
+                },
+                "C": {
+                    "en": "12",
+                    "te": "12",
+                    "ur": "12"
+                },
+                "D": {
+                    "en": "14",
+                    "te": "14",
+                    "ur": "14"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The pattern increases by 2 each time, so the next number is 6 + 2 = 8.",
+                "te": "నమూనా ప్రతి సమయం 2 తరవాత పెరిగిస్తుంది, కాబట్టి తరువాత సంఖ్య 6 + 2 = 8 ఉంటుంది.",
+                "ur": "نمونہ ہر بار 2 سے بڑھتا ہے، لہذا اگلا نمبر 6 + 2 = 8 ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape comes next in the pattern: square, circle, triangle, square, circle, ___?",
+                "te": "నమూనాలో తరలు ఏది తరువాత వస్తుంది: వర్గం, వృత్తం, త్రిభుజం, వర్గం, వృత్తం, ___?",
+                "ur": "نمونہ میں کونسا شکل اگلا ہے: مربع، دائرہ، مثلث، مربع، دائرہ، ___؟"
+            },
+            "options": {
+                "A": {
+                    "en": "triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "مثلث"
+                },
+                "B": {
+                    "en": "square",
+                    "te": "వర్గం",
+                    "ur": "مربع"
+                },
+                "C": {
+                    "en": "rectangle",
+                    "te": "ఆయతం",
+                    "ur": "چوکور"
+                },
+                "D": {
+                    "en": "pentagon",
+                    "te": "పంచభుజం",
+                    "ur": "پانچ کون"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "The pattern is square, circle, triangle, square, circle, triangle...",
+                "te": "నమూనాలో వర్గం, వృత్తం, త్రిభుజం, వర్గం, వృత్తం, త్రిభుజం...",
+                "ur": "نمونہ مربع، دائرہ، مثلث، مربع، دائرہ، مثلث ہے..."
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        }
+    ]
+}

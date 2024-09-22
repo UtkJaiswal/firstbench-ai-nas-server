@@ -1,0 +1,417 @@
+{
+    "subject": "I EVS(ENVIRONMENTAL SCIENCE)",
+    "grade": "3rd  grade",
+    "learning_outcome": "Identifies relationships with and among family members.",
+    "questions": [
+        {
+            "question": {
+                "en": "Which family member helps you with your homework?",
+                "te": "మీ హోమ్‌వర్క్‌తో ఎంతో సహాయం చేస్తున్న మీ కుటుంబ సభ్యం ఎవరు?",
+                "ur": "آپ کے ہوم ورک میں کس خاندانی رکن کی مدد ہوتی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Mother",
+                    "te": "తల్లి",
+                    "ur": "ماں"
+                },
+                "B": {
+                    "en": "Sibling",
+                    "te": "సహోదరుడు",
+                    "ur": "بھائی یا بہن"
+                },
+                "C": {
+                    "en": "Grandparent",
+                    "te": "పేదనాన్న",
+                    "ur": "دادا یا دادی"
+                },
+                "D": {
+                    "en": "Father",
+                    "te": "నాన్న",
+                    "ur": "باپ"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Mothers often help their children with homework and studies.",
+                "te": "తల్లిలు అక్కడ కుటుంబ సభ్యులకు హోమ్‌వర్క్ మరియు అధ్యయనంలో సహాయం చేస్తారు.",
+                "ur": "ماؤں عموماً اپنے بچوں کی ہوم ورک اور مطالعے میں مدد کرتی ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a family member?",
+                "te": "కింద పేర్కొనువారు కుటుంబ సభ్యుడులు అయినవి ఏది?",
+                "ur": "مندرجہ ذیل میں سے کون کوئی خاندان کا رکن ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Teacher",
+                    "te": "టీచర్",
+                    "ur": "استاد"
+                },
+                "B": {
+                    "en": "Cousin",
+                    "te": "మామయ్య",
+                    "ur": "چچا"
+                },
+                "C": {
+                    "en": "Doctor",
+                    "te": "డాక్టర్",
+                    "ur": "ڈاکٹر"
+                },
+                "D": {
+                    "en": "Friend",
+                    "te": "స్నేహితుడు",
+                    "ur": "دوست"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "A cousin is a family member who shares a common ancestor with you.",
+                "te": "మామయ్య మీతో ఒక సామాన్య జ్యోతిష్యుడిని భాగస్వామిని భాగించే ఒక కుటుంబ సభ్యుడు.",
+                "ur": "چچا ایک خاندان کا رکن ہے جو آپ کے ساتھ ایک مشترکہ آبائی ہوتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Who is your mother's sister's daughter to you?",
+                "te": "మీ తల్లి సోదరి కుమారి మీకు ఏమిటి?",
+                "ur": "آپ کی ماں کی بہن کی بیٹی آپ کے لئے کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Cousin",
+                    "te": "మేనమామ",
+                    "ur": "چچیرا"
+                },
+                "B": {
+                    "en": "Niece",
+                    "te": "భామ",
+                    "ur": "بھانجی"
+                },
+                "C": {
+                    "en": "Aunt",
+                    "te": "అత్త",
+                    "ur": "خالہ"
+                },
+                "D": {
+                    "en": "Granddaughter",
+                    "te": "మరుమామ",
+                    "ur": "پوتی"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Your mother's sister's daughter is your niece.",
+                "te": "మీ తల్లి సోదరి కుమారి మీకు భామ.",
+                "ur": "آپ کی ماں کی بہن کی بیٹی آپ کی بھانجی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which family member helps you with your homework?",
+                "te": "మీ హోమ్ వర్క్ తో ఎలా సహాయం చేస్తారు?",
+                "ur": "آپ کے ہوم ورک میں کون آپ کی مدد کرتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Mother",
+                    "te": "తల్లి",
+                    "ur": "ماں"
+                },
+                "B": {
+                    "en": "Father",
+                    "te": "నాన్న",
+                    "ur": "والد"
+                },
+                "C": {
+                    "en": "Sibling",
+                    "te": "సోదరుడు",
+                    "ur": "بھائی یا بہن"
+                },
+                "D": {
+                    "en": "Grandparent",
+                    "te": "పేదనాన్న",
+                    "ur": "دادا یا دادی"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Mothers often help their children with homework and school assignments.",
+                "te": "తల్లిలు అక్కడ కాలేజీ పాఠాలు కలిగి పని చేస్తారు.",
+                "ur": "امیں عموماً اپنے بچوں کو ہوم ورک اور اسکول کے اسائنمنٹس میں مدد کرتی ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which family member helps you with your homework?",
+                "te": "మీ హోమ్ వర్క్ మీకు ఎవరు సహాయం చేస్తారు?",
+                "ur": "آپ کے ہوم ورک میں کون آپ کی مدد کرتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Mother",
+                    "te": "తల్లి",
+                    "ur": "ماں"
+                },
+                "B": {
+                    "en": "Father",
+                    "te": "నాన్న",
+                    "ur": "باپ"
+                },
+                "C": {
+                    "en": "Sibling",
+                    "te": "సహోదరుడు",
+                    "ur": "بھائی یا بہن"
+                },
+                "D": {
+                    "en": "Grandparent",
+                    "te": "పెద్దనాన్న",
+                    "ur": "دادا یا دادی"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Mothers often help their children with homework and school assignments.",
+                "te": "తల్లిలు అక్కడి పాఠాలను మరియు ప్రాధమిక కార్యకలను తమ కూతురులకు సహాయం చేస్తారు.",
+                "ur": "ماں عموماً اپنے بچوں کی تعلیمی مدد اور تکمیل کے کاموں میں مدد کرتی ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a family member?",
+                "te": "కింద వినియోగించబడుతున్న ఒక కుటుంబ సభ్యం ఏది?",
+                "ur": "مندرجہ ذیل میں سے کون سا خاندانی رکن ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Teacher",
+                    "te": "టీచర్",
+                    "ur": "استاد"
+                },
+                "B": {
+                    "en": "Cousin",
+                    "te": "మామయ్య",
+                    "ur": "چچا"
+                },
+                "C": {
+                    "en": "Doctor",
+                    "te": "డాక్టర్",
+                    "ur": "ڈاکٹر"
+                },
+                "D": {
+                    "en": "Friend",
+                    "te": "స్నేహితుడు",
+                    "ur": "دوست"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "A cousin is a family member who shares a common ancestor with you.",
+                "te": "మామయ్య మీతో సహజమైన మూలకను భాగమైన కుటుంబ సభ్యుడు.",
+                "ur": "ایک چچا ایک خاندانی رکن ہے جو آپ کے ساتھ ایک مشترکہ آباوجدہ کا حصہ ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which family member helps you with your homework?",
+                "te": "మీ హోమ్ వర్క్ మీకు ఎవరు సహాయం చేస్తారు?",
+                "ur": "آپ کے ہوم ورک میں کس خاندانی رکن کی مدد ہوتی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Mother",
+                    "te": "తల్లి",
+                    "ur": "ماں"
+                },
+                "B": {
+                    "en": "Father",
+                    "te": "నాన్న",
+                    "ur": "باپ"
+                },
+                "C": {
+                    "en": "Sister",
+                    "te": "సోదరి",
+                    "ur": "بہن"
+                },
+                "D": {
+                    "en": "Brother",
+                    "te": "సోదరు",
+                    "ur": "بھائی"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Mothers often help their children with homework and studies.",
+                "te": "తల్లిలు అక్కడ ఉన్న విద్యార్థులకు మరియు అధ్యయనంలో సహాయం చేస్తారు.",
+                "ur": "ماں عموماً اپنے بچوں کو ہوم ورک اور مطالعے میں مدد کرتی ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a family member?",
+                "te": "కింద ఏమిటి ఒక కుటుంబ సభ్యుడు?",
+                "ur": "مندرجہ ذیل میں سے کون سا ایک خاندانی رکن ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Teacher",
+                    "te": "టీచర్",
+                    "ur": "استاد"
+                },
+                "B": {
+                    "en": "Cousin",
+                    "te": "మేనమామయ్య",
+                    "ur": "چچا"
+                },
+                "C": {
+                    "en": "Doctor",
+                    "te": "డాక్టర్",
+                    "ur": "ڈاکٹر"
+                },
+                "D": {
+                    "en": "Friend",
+                    "te": "స్నేహితుడు",
+                    "ur": "دوست"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "A cousin is a family member who shares a common ancestor...",
+                "te": "మేనమామయ్య సామాన్య జీవిత కర్త నిండిన ఒక కుటుంబ సభ్యుడు...",
+                "ur": "ایک چچا ایک خاندانی رکن ہے جو ایک مشترکہ جدید کا حصہ ہے..."
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which family member helps you with your homework?",
+                "te": "మీ హోమ్‌వర్క్‌ను ఎంతో సహాయం చేస్తుంది?",
+                "ur": "آپ کے ہوم ورک میں کون مدد کرتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Mother",
+                    "te": "తల్లి",
+                    "ur": "ماں"
+                },
+                "B": {
+                    "en": "Father",
+                    "te": "నాన్న",
+                    "ur": "باپ"
+                },
+                "C": {
+                    "en": "Sibling",
+                    "te": "సహోదరుడు",
+                    "ur": "بھائی یا بہن"
+                },
+                "D": {
+                    "en": "Grandparent",
+                    "te": "పేదనాన్న",
+                    "ur": "دادا یا دادی"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Mothers often help their children with homework and school assignments.",
+                "te": "తల్లిలు అక్కడ కూడా తమ పిల్లలకు హోమ్‌వర్క్ మరియు పాఠశాల కార్యాలను సహాయం చేస్తారు.",
+                "ur": "ماں عموماً اپنے بچوں کو ہوم ورک اور اسکول کے اسائنمنٹس میں مدد کرتی ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Who is your father's father?",
+                "te": "మీ నాన్న యొక్క తండ్రి ఎవరు?",
+                "ur": "آپ کے والد کا والد کون ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Grandfather",
+                    "te": "తాతయ్య",
+                    "ur": "دادا"
+                },
+                "B": {
+                    "en": "Uncle",
+                    "te": "మామయ్య",
+                    "ur": "چاچا"
+                },
+                "C": {
+                    "en": "Brother",
+                    "te": "సోదరుడు",
+                    "ur": "بھائی"
+                },
+                "D": {
+                    "en": "Father",
+                    "te": "తండ్రి",
+                    "ur": "والد"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Your father's father is your grandfather.",
+                "te": "మీ నాన్న యొక్క తండ్రి మీ తాతయ్య.",
+                "ur": "آپ کے والد کا والد آپ کے دادا ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        }
+    ]
+}

@@ -1,0 +1,417 @@
+{
+    "subject": "I EVS(ENVIRONMENTAL SCIENCE)",
+    "grade": "3rd  grade",
+    "learning_outcome": "Describes the need for food for people of different groups, animals/birds, availability of food, and water use at home and surroundings.",
+    "questions": [
+        {
+            "question": {
+                "en": "What is the importance of food and water for living beings?",
+                "te": "జీవంతములకు ఆహారం మరియు నీటి ముఖ్యత ఏమిటి?",
+                "ur": "زندگی کے مختلف جانداروں کے لیے کھانا اور پانی کی اہمیت کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Provides energy and nutrients",
+                    "te": "శక్తి మరియు పోషకాలను అందిస్తుంది",
+                    "ur": "توانائی اور معدنیات فراہم کرتا ہے"
+                },
+                "B": {
+                    "en": "Causes pollution and waste",
+                    "te": "కాలుష్యం మరియు విలువ కలిగిస్తుంది",
+                    "ur": "آلودگی اور ضائع کرتا ہے"
+                },
+                "C": {
+                    "en": "Leads to deforestation",
+                    "te": "వనరక్షణ కు తరిగిస్తుంది",
+                    "ur": "جنگلات کی کاٹائی کا سبب بنتا ہے"
+                },
+                "D": {
+                    "en": "Increases global warming",
+                    "te": "ప్రపంచ ఉష్ణోగ్రత పెరుగుతుంది",
+                    "ur": "عالمی گرمی بڑھاتا ہے"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Food and water provide essential energy and nutrients for living beings to survive and thrive.",
+                "te": "ఆహారం మరియు నీటి జీవంతములకు జీవించడానికి మరియు పెరుగడానికి అవసరమైన శక్తి మరియు పోషకాలను అందిస్తాయి.",
+                "ur": "کھانا اور پانی زندگی کے مختلف جانداروں کے لیے ضروری توانائی اور معدنیات فراہم کرتے ہیں تاکہ وہ زندہ رہ سکیں اور ترقی کر سکیں۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a basic need for people and animals?",
+                "te": "మనుషులు మరియు జంతువులకు ఏదైనా ముఖ్య అవసరం ఏమిటి?",
+                "ur": "نیچے دی گئی میں کون سی چیز انسانوں اور جانوروں کی بنیادی ضرورت ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Mobile phones",
+                    "te": "మొబైల్ ఫోన్లు",
+                    "ur": "موبائل فون"
+                },
+                "B": {
+                    "en": "Food and water",
+                    "te": "ఆహారం మరియు నీటి",
+                    "ur": "کھانا اور پانی"
+                },
+                "C": {
+                    "en": "Toys",
+                    "te": "ఆటలు",
+                    "ur": "کھلونے"
+                },
+                "D": {
+                    "en": "Books",
+                    "te": "పుస్తకాలు",
+                    "ur": "کتب"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Food and water are basic needs for people and animals to survive.",
+                "te": "మనుషులు మరియు జంతువులకు జీవించడానికి ఆహారం మరియు నీటి ముఖ్య అవసరాలు.",
+                "ur": "کھانا اور پانی انسانوں اور جانوروں کے لیے ضروری ضروریات ہیں تاکہ وہ زندہ رہ سکیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Why is it important to have food and water for people and animals?",
+                "te": "మనుషులు మరియు ప్రాణువులకు ఆహారం మరియు నీటి అవసరం ఎందుకు ఉంది?",
+                "ur": "لوگوں اور جانوروں کے لئے کھانا اور پانی ہونا کیوں ضروری ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "To stay healthy and strong",
+                    "te": "ఆరోగ్యకరమైన మరియు బలవంతమైనటువంటి ఉండటానికి",
+                    "ur": "صحتمند اور مضبوط رہنے کے لئے"
+                },
+                "B": {
+                    "en": "To have fun and enjoy life",
+                    "te": "ఆనందించడానికి మరియు జీవనంను ఆనందించడానికి",
+                    "ur": "مزہ اور زندگی کا لطف اُٹھانے کے لئے"
+                },
+                "C": {
+                    "en": "To save money and resources",
+                    "te": "డబ్బు మరియు సంపదలను సేవించడానికి",
+                    "ur": "پیسے اور وسائل بچانے کے لئے"
+                },
+                "D": {
+                    "en": "To show off to others",
+                    "te": "ఇతరులకు చూపించడానికి",
+                    "ur": "دوسروں کو دکھانے کے لئے"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Having food and water is important for staying healthy and strong for both people and animals.",
+                "te": "ఆహారం మరియు నీటి ఉండటానికి ఆరోగ్యకరమైన మరియు బలవంతమైనటువంటి ఉండటానికి అత్యధిక ప్రాముఖ్యత ఉంది.",
+                "ur": "لوگوں اور جانوروں کے لئے صحتمند اور مضبوط رہنے کے لئے کھانا اور پانی رکھنا اہم ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is the importance of food for living beings?",
+                "te": "జీవులకు ఆహారం ఎందుకు ముఖ్యమైనది?",
+                "ur": "جانداروں کے لیے خوراک کی اہمیت کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Provides energy and nutrients",
+                    "te": "శక్తి మరియు పథ్యాలను అందిస్తుంది",
+                    "ur": "انرجی اور مغذی عناصر فراہم کرتا ہے"
+                },
+                "B": {
+                    "en": "Causes pollution",
+                    "te": "కాలుష్యం ఉంచేది",
+                    "ur": "آلودگی کا سبب بنتا ہے"
+                },
+                "C": {
+                    "en": "Not necessary for survival",
+                    "te": "జీవితం కోసం అవసరము లేదు",
+                    "ur": "زندگی کے لیے ضروری نہیں ہے"
+                },
+                "D": {
+                    "en": "Only for entertainment",
+                    "te": "వినోదం కోసం మాత్రమే",
+                    "ur": "صرف تفریح کے لیے"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Food provides energy and essential nutrients required for the proper functioning of living beings.",
+                "te": "ఆహారం జీవుల యథావస్థానం కోసం అవసరమైన శక్తి మరియు అవసాదాలను అందిస్తుంది.",
+                "ur": "خوراک جانداروں کے صحیح کام کے لیے ضروری انرجی اور ضروری مغذی عناصر فراہم کرتا ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is the importance of food for living beings?",
+                "te": "జీవంలకు ఆహారం ఎందుకు ముఖ్యమైనది?",
+                "ur": "زندگی والوں کے لئے خوراک کی اہمیت کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Provides energy and nutrients",
+                    "te": "శక్తి మరియు పోషకాలను అందిస్తుంది",
+                    "ur": "توانائی اور معدنیات فراہم کرتا ہے"
+                },
+                "B": {
+                    "en": "Causes harm to the environment",
+                    "te": "పర్యావరణాన్ని హాని చేస్తుంది",
+                    "ur": "ماحول کو نقصان پہنچاتا ہے"
+                },
+                "C": {
+                    "en": "Is not necessary for survival",
+                    "te": "బాకీదారులు కావాలి కాదు",
+                    "ur": "زندہ رہنے کے لئے ضروری نہیں ہے"
+                },
+                "D": {
+                    "en": "Only needed by humans",
+                    "te": "కేవలం మానవులకు మాత్రమే అవసరం",
+                    "ur": "صرف انسانوں کی ضرورت ہے"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Food provides essential energy and nutrients for living beings to survive and thrive.",
+                "te": "ఆహారం జీవంలకు జీవితంలో ఉన్నటం మరియు వికసితం కోసం అవసరమైన శక్తి మరియు పోషకాలను అందిస్తుంది.",
+                "ur": "خوراک زندہ وجودوں کے لئے زندگی گزارنے اور ترقی کے لئے ضروری توانائی اور معدنیات فراہم کرتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is the importance of food for living beings?",
+                "te": "జీవంలకు ఆహారము ఎందుకు ముఖ్యము?",
+                "ur": "جانداروں کے لیے کھانے کی اہمیت کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "To provide energy and nutrients",
+                    "te": "శక్తి మరియు పథ్యాలను అందించడం కోసం",
+                    "ur": "توانائی اور مغذیات فراہم کرنے کے لئے"
+                },
+                "B": {
+                    "en": "To entertain people",
+                    "te": "మనుషులను ఆనందించడం కోసం",
+                    "ur": "لوگوں کو تفریح دینے کے لئے"
+                },
+                "C": {
+                    "en": "To decorate the surroundings",
+                    "te": "పరిసరాన్ని అలంకరించడం కోసం",
+                    "ur": "ماحول کو سجانے کے لئے"
+                },
+                "D": {
+                    "en": "To build houses",
+                    "te": "ఇంటలను నిర్మించడం కోసం",
+                    "ur": "مکان بنانے کے لئے"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Food is important for living beings as it provides energy and essential nutrients for survival.",
+                "te": "ఆహారము జీవంలకు ముఖ్యము కాబట్టి అది జీవితంలో శక్తి మరియు అవసరమైన పథ్యాలను అందిస్తుంది.",
+                "ur": "کھانا جانداروں کے لیے اہم ہے کیونکہ یہ توانائی اور ضروری مغذیات فراہم کرتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is the importance of food for living beings?",
+                "te": "జీవులకు ఆహారం అత్యవసరమా?",
+                "ur": "زندگی والے کے لئے خوراک کی اہمیت کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Provides energy and nutrients",
+                    "te": "శక్తి మరియు పోషకాలను అందిస్తుంది",
+                    "ur": "توانائی اور نیوٹرینٹس فراہم کرتا ہے"
+                },
+                "B": {
+                    "en": "Causes pollution",
+                    "te": "కాలుష్యం కారణం ఉంది",
+                    "ur": "آلودگی کا سبب بنتا ہے"
+                },
+                "C": {
+                    "en": "Leads to dehydration",
+                    "te": "నీరు కోల్పోతుంది",
+                    "ur": "پانی کی کمی کا سبب بنتا ہے"
+                },
+                "D": {
+                    "en": "Increases air pollution",
+                    "te": "వాయు కాలుష్యం పెరుగుతుంది",
+                    "ur": "هوا کی آلودگی بڑھاتا ہے"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Food provides essential energy and nutrients required for the survival and growth of living beings.",
+                "te": "ఆహారం జీవుల జీవనం మరియు పెరుగుటకు అవసరమైన ముఖ్య శక్తి మరియు పోషకాలను అందిస్తుంది.",
+                "ur": "خوراک زندگی والوں کے لیے ضروری توانائی اور نیوٹرینٹس فراہم کرتا ہے جو ان کے بقاء اور نشونما کے لیے ضروری ہوتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Why is it important to have food and water for different groups of people, animals, and birds?",
+                "te": "వ్యక్తులు, పశువులు, పక్షులకు భిన్న గుంపులకు ఆహారం మరియు నీటి ఉంటే ఏమిటి ముఖ్యం?",
+                "ur": "مختلف گروہوں کے لوگوں، جانوروں اور پرندوں کے لیے کھانا اور پانی رکھنا اہم ہے کیوں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "To stay healthy and strong",
+                    "te": "ఆరోగ్యకరమైన మరియు బలవంతమైనటువంటి",
+                    "ur": "صحتمند اور مضبوط رہنے کے لیے"
+                },
+                "B": {
+                    "en": "To have fun and enjoy life",
+                    "te": "ఆనందించడానికి మరియు జీవితంను ఆనందించడానికి",
+                    "ur": "مزے اور زندگی کا لطف اٹھانے کے لیے"
+                },
+                "C": {
+                    "en": "To save money and resources",
+                    "te": "డబ్బు మరియు వనరసాయం సేవించడానికి",
+                    "ur": "پیسے اور وسائل کو بچانے کے لیے"
+                },
+                "D": {
+                    "en": "To show off to others",
+                    "te": "ఇతరులకు చూపించడానికి",
+                    "ur": "دوسروں کو دکھانے کے لیے"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Having food and water is essential for staying healthy and strong for people, animals, and birds.",
+                "te": "ఆహారం మరియు నీటి కలిగి ఉంటే వ్యక్తులు, పశువులు, పక్షులకు ఆరోగ్యకరమైన మరియు బలవంతమైనటువంటి ఉంటారు.",
+                "ur": "لوگوں، جانوروں اور پرندوں کے لیے خوراک اور پانی رکھنا صحتمند اور مضبوط رہنے کے لیے ضروری ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is the importance of food for living beings?",
+                "te": "జీవులకు ఆహారం ఎందుకు ముఖ్యం?",
+                "ur": "جانداروں کے لیے کھانے کی اہمیت کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "To provide energy and nutrients",
+                    "te": "శక్తి మరియు పోషకాలను అందించడానికి",
+                    "ur": "توانائی اور معدنیات فراہم کرنے کے لیے"
+                },
+                "B": {
+                    "en": "To decorate the surroundings",
+                    "te": "చరిత్రను అలంకరించడానికి",
+                    "ur": "آس پاس کو سنوارنے کے لیے"
+                },
+                "C": {
+                    "en": "To play games",
+                    "te": "ఆటలు ఆడడానికి",
+                    "ur": "کھیلنے کے لیے"
+                },
+                "D": {
+                    "en": "To make noise",
+                    "te": "శబ్దాన్ని చేస్తుంది",
+                    "ur": "شور مچانے کے لیے"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Food is essential for providing energy and nutrients to living beings for their survival and growth.",
+                "te": "ఆహారం జీవులకు జీవనం మరియు పెరగడానికి శక్తి మరియు పోషకాలను అందిస్తుంది.",
+                "ur": "کھانا جانداروں کے لیے توانائی اور معدنیات فراہم کرنے کے لیے ضروری ہے تاکہ وہ زندہ رہ سکیں اور بڑھ سکیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is the importance of food for living beings?",
+                "te": "జీవులకు ఆహారం ఎందుకు ముఖ్యం?",
+                "ur": "زندگی والوں کے لئے خوراک کی اہمیت کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Provides energy and nutrients",
+                    "te": "శక్తి మరియు పోషకాలను అందిస్తుంది",
+                    "ur": "توانائی اور مغذی عناصر فراہم کرتا ہے"
+                },
+                "B": {
+                    "en": "Food is not important",
+                    "te": "ఆహారం ముఖ్యమైనది కాదు",
+                    "ur": "خوراک اہم نہیں ہے"
+                },
+                "C": {
+                    "en": "Only needed by humans",
+                    "te": "మాత్రమే మనిషులకు అవసరం",
+                    "ur": "صرف انسانوں کی ضرورت ہے"
+                },
+                "D": {
+                    "en": "Used for entertainment",
+                    "te": "మనోరంజనానికి ఉపయోగించబడుతుంది",
+                    "ur": "تفریح کے لئے استعمال ہوتا ہے"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Food provides energy and essential nutrients required for the growth and functioning of living beings.",
+                "te": "ఆహారం జీవుల పెరుగుదల మరియు కార్యకలాపాల కోసం అవసరమైన శక్తి మరియు ప్రధాన పోషకాలను అందిస్తుంది.",
+                "ur": "خوراک زندگی والوں کے نشوونما اور کارروائی کے لئے ضروری شکتی اور ضروری مغذی عناصر فراہم کرتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        }
+    ]
+}

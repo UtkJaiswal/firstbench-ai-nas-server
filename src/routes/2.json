@@ -1,0 +1,305 @@
+{
+    "comprehensions": [
+      {
+        "comprehension": "One day, Sam found an injured bird in his backyard. He gently picked it up and took it to his mother. Together, they decided to help the bird recover. They gave it food and water every day. After a few weeks, the bird was healthy enough to fly. Sam was sad to see it go, but happy knowing the bird would be free again.",
+        "questions": [
+          {
+            "question": "What did Sam find in his backyard?",
+            "options": {
+              "A": "A cat",
+              "B": "A dog",
+              "C": "An injured bird",
+              "D": "A squirrel"
+            },
+            "correct_answer": "C",
+            "explanation": "The passage states that Sam found an injured bird in his backyard."
+          },
+          {
+            "question": "What did Sam and his mother give the bird?",
+            "options": {
+              "A": "Food and water",
+              "B": "A new nest",
+              "C": "A blanket",
+              "D": "Toys"
+            },
+            "correct_answer": "A",
+            "explanation": "The passage says they gave the bird food and water every day."
+          },
+          {
+            "question": "How did Sam feel when the bird flew away?",
+            "options": {
+              "A": "Happy",
+              "B": "Sad",
+              "C": "Excited",
+              "D": "Both sad and happy"
+            },
+            "correct_answer": "D",
+            "explanation": "Sam was sad to see the bird go but happy that it would be free."
+          },
+          {
+            "question": "How long did it take for the bird to recover?",
+            "options": {
+              "A": "A few days",
+              "B": "A few weeks",
+              "C": "A few months",
+              "D": "A year"
+            },
+            "correct_answer": "B",
+            "explanation": "The bird took a few weeks to recover, as mentioned in the passage."
+          },
+          {
+            "question": "Who helped Sam take care of the bird?",
+            "options": {
+              "A": "His father",
+              "B": "His sister",
+              "C": "His teacher",
+              "D": "His mother"
+            },
+            "correct_answer": "D",
+            "explanation": "Sam’s mother helped him take care of the bird, as the passage explains."
+          }
+        ]
+      },
+      {
+        "comprehension": "It was a rainy day, and Lily couldn’t go outside to play. She decided to read a new book that her teacher gave her. The book was about a young explorer who went on many adventures. As Lily read, she imagined herself as the explorer, traveling through jungles and crossing rivers. By the time the rain stopped, she had finished the whole book and felt like she had gone on an adventure herself.",
+        "questions": [
+          {
+            "question": "Why couldn't Lily go outside?",
+            "options": {
+              "A": "It was too hot",
+              "B": "It was raining",
+              "C": "It was snowing",
+              "D": "It was nighttime"
+            },
+            "correct_answer": "B",
+            "explanation": "The passage states that Lily couldn’t go outside because it was raining."
+          },
+          {
+            "question": "What did Lily do instead of going outside?",
+            "options": {
+              "A": "She played with toys",
+              "B": "She read a book",
+              "C": "She painted a picture",
+              "D": "She watched TV"
+            },
+            "correct_answer": "B",
+            "explanation": "Lily decided to read a book, as mentioned in the passage."
+          },
+          {
+            "question": "What was the book about?",
+            "options": {
+              "A": "A young explorer",
+              "B": "A superhero",
+              "C": "A princess",
+              "D": "A race car driver"
+            },
+            "correct_answer": "A",
+            "explanation": "The passage says that the book was about a young explorer."
+          },
+          {
+            "question": "How did Lily feel after finishing the book?",
+            "options": {
+              "A": "Bored",
+              "B": "Tired",
+              "C": "Like she had gone on an adventure",
+              "D": "Hungry"
+            },
+            "correct_answer": "C",
+            "explanation": "Lily felt like she had gone on an adventure herself after finishing the book."
+          },
+          {
+            "question": "When did Lily finish reading the book?",
+            "options": {
+              "A": "Before the rain started",
+              "B": "While it was still raining",
+              "C": "After the rain stopped",
+              "D": "The next day"
+            },
+            "correct_answer": "C",
+            "explanation": "The passage mentions that Lily finished the book by the time the rain stopped."
+          }
+        ]
+      },
+      {
+        "comprehension": "Jack and his family went on a camping trip. They set up their tent near a lake and spent the day fishing. Jack caught three fish, and his sister caught two. At night, they sat around the campfire, roasting marshmallows and telling stories. The stars were bright, and they could hear the sounds of crickets and owls. Jack loved being in nature with his family.",
+        "questions": [
+          {
+            "question": "Where did Jack and his family go on their trip?",
+            "options": {
+              "A": "To the beach",
+              "B": "To the mountains",
+              "C": "On a camping trip",
+              "D": "To a theme park"
+            },
+            "correct_answer": "C",
+            "explanation": "The passage states that Jack and his family went on a camping trip."
+          },
+          {
+            "question": "How many fish did Jack catch?",
+            "options": {
+              "A": "One",
+              "B": "Two",
+              "C": "Three",
+              "D": "Four"
+            },
+            "correct_answer": "C",
+            "explanation": "Jack caught three fish during the trip."
+          },
+          {
+            "question": "What did the family do at night?",
+            "options": {
+              "A": "They went to sleep",
+              "B": "They went fishing again",
+              "C": "They roasted marshmallows and told stories",
+              "D": "They played games"
+            },
+            "correct_answer": "C",
+            "explanation": "At night, the family roasted marshmallows and told stories around the campfire."
+          },
+          {
+            "question": "What sounds could they hear at night?",
+            "options": {
+              "A": "Waves crashing",
+              "B": "Cars honking",
+              "C": "Crickets and owls",
+              "D": "Dogs barking"
+            },
+            "correct_answer": "C",
+            "explanation": "The passage mentions the sounds of crickets and owls at night."
+          },
+          {
+            "question": "How did Jack feel about the camping trip?",
+            "options": {
+              "A": "He loved it",
+              "B": "He was bored",
+              "C": "He didn't like it",
+              "D": "He wanted to go home"
+            },
+            "correct_answer": "A",
+            "explanation": "The passage says that Jack loved being in nature with his family."
+          }
+        ]
+      },
+      {
+        "comprehension": "Emma loved visiting the zoo. Her favorite animals were the lions. She would always stop and watch them for a long time. One day, she saw a baby lion cub playing with its mother. Emma was excited and took pictures with her camera. She also visited the monkeys, giraffes, and elephants, but the lions were still her favorite.",
+        "questions": [
+          {
+            "question": "Where did Emma like to visit?",
+            "options": {
+              "A": "The aquarium",
+              "B": "The zoo",
+              "C": "The beach",
+              "D": "The museum"
+            },
+            "correct_answer": "B",
+            "explanation": "The passage states that Emma loved visiting the zoo."
+          },
+          {
+            "question": "What were Emma's favorite animals?",
+            "options": {
+              "A": "Monkeys",
+              "B": "Elephants",
+              "C": "Lions",
+              "D": "Giraffes"
+            },
+            "correct_answer": "C",
+            "explanation": "The passage mentions that Emma's favorite animals were the lions."
+          },
+          {
+            "question": "What did Emma see the lion cub doing?",
+            "options": {
+              "A": "Sleeping",
+              "B": "Playing with its mother",
+              "C": "Eating food",
+              "D": "Running around"
+            },
+            "correct_answer": "B",
+            "explanation": "Emma saw the lion cub playing with its mother."
+          },
+          {
+            "question": "What did Emma do when she saw the lion cub?",
+            "options": {
+              "A": "She took pictures with her camera",
+              "B": "She drew a picture",
+              "C": "She fed the lions",
+              "D": "She walked away"
+            },
+            "correct_answer": "A",
+            "explanation": "Emma took pictures of the lion cub with her camera."
+          },
+          {
+            "question": "Which animals did Emma visit besides the lions?",
+            "options": {
+              "A": "Tigers and bears",
+              "B": "Penguins and seals",
+              "C": "Monkeys, giraffes, and elephants",
+              "D": "Snakes and birds"
+            },
+            "correct_answer": "C",
+            "explanation": "Emma also visited the monkeys, giraffes, and elephants."
+          }
+        ]
+      },
+      {
+        "comprehension": "Tom loved riding his bike after school. He would ride around the park, feeling the wind on his face. One day, while riding, he saw a group of kids playing soccer. Tom stopped to watch them for a while and decided to join in. He had so much fun playing that he almost forgot about his bike. After the game, he thanked the kids and rode home, excited to play again the next day.",
+        "questions": [
+          {
+            "question": "What did Tom enjoy doing after school?",
+            "options": {
+              "A": "Playing video games",
+              "B": "Riding his bike",
+              "C": "Reading books",
+              "D": "Drawing pictures"
+            },
+            "correct_answer": "B",
+            "explanation": "Tom loved riding his bike after school, as stated in the passage."
+          },
+          {
+            "question": "Where did Tom ride his bike?",
+            "options": {
+              "A": "Around the park",
+              "B": "At the beach",
+              "C": "In his backyard",
+              "D": "On the street"
+            },
+            "correct_answer": "A",
+            "explanation": "Tom rode his bike around the park."
+          },
+          {
+            "question": "What sport were the kids playing?",
+            "options": {
+              "A": "Basketball",
+              "B": "Tennis",
+              "C": "Soccer",
+              "D": "Baseball"
+            },
+            "correct_answer": "C",
+            "explanation": "The kids were playing soccer, as Tom noticed while riding his bike."
+          },
+          {
+            "question": "Why did Tom stop riding his bike?",
+            "options": {
+              "A": "His bike broke",
+              "B": "He was tired",
+              "C": "He saw kids playing soccer",
+              "D": "It started raining"
+            },
+            "correct_answer": "C",
+            "explanation": "Tom stopped riding because he saw a group of kids playing soccer."
+          },
+          {
+            "question": "How did Tom feel after playing soccer?",
+            "options": {
+              "A": "Sad",
+              "B": "Excited",
+              "C": "Angry",
+              "D": "Bored"
+            },
+            "correct_answer": "B",
+            "explanation": "Tom felt excited after playing soccer and couldn't wait to play again."
+          }
+        ]
+      }
+    ]
+  }
+  

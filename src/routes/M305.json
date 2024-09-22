@@ -1,0 +1,417 @@
+{
+    "subject": "mathematics",
+    "grade": "3rd  grade",
+    "learning_outcome": "Analyses and applies an appropriate number operation in the situation/context.",
+    "questions": [
+        {
+            "question": {
+                "en": "In a farm, there are 56 cows. If 23 cows are sold, how many cows are left?",
+                "te": "ఒక గొర్రెలో 56 మంది ఎమెకులు ఉన్నాయి. 23 ఎమెకులు విక్రయించబడ్డాయి, ఎంత ఎమెకులు ఉన్నాయి?",
+                "ur": "ایک فارم میں 56 گائے ہیں۔ اگر 23 گائے فروخت ہو جائیں تو بچی ہوئی گائے کتنی ہوں گی؟"
+            },
+            "options": {
+                "A": {
+                    "en": "33",
+                    "te": "33",
+                    "ur": "33"
+                },
+                "B": {
+                    "en": "43",
+                    "te": "43",
+                    "ur": "43"
+                },
+                "C": {
+                    "en": "33",
+                    "te": "33",
+                    "ur": "33"
+                },
+                "D": {
+                    "en": "53",
+                    "te": "53",
+                    "ur": "53"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "To find out how many cows are left after selling 23 cows, subtract 23 from the total number of cows.",
+                "te": "23 ఎమెకులను విక్రయించిన తర్వాత ఎంత ఎమెకులు ఉన్నాయి అనే కోసం, మొత్తం ఎమెకులోని సంఖ్యను నుండి 23 ను తీసుకోండి.",
+                "ur": "23 گائے فروخت ہونے کے بعد باقی رہنے والی گائے کی تعداد معلوم کرنے کے لئے، کل گائے کی تعداد سے 23 منفی کریں۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "If there are 5 apples in one basket and 3 baskets in total, how many apples are there in all?",
+                "te": "ఒక పట్టిలో 5 ఆపిల్స్ ఉన్నాయి మరియు మొత్తం 3 పట్టిలు ఉన్నాయి, మొత్తం ఎంత ఆపిల్స్ ఉన్నాయి?",
+                "ur": "اگر ایک ٹوکری میں 5 سیب ہیں اور کل 3 ٹوکریاں ہیں، تو کل کتنے سیب ہوتے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "13",
+                    "te": "13",
+                    "ur": "13"
+                },
+                "B": {
+                    "en": "15",
+                    "te": "15",
+                    "ur": "15"
+                },
+                "C": {
+                    "en": "17",
+                    "te": "17",
+                    "ur": "17"
+                },
+                "D": {
+                    "en": "19",
+                    "te": "19",
+                    "ur": "19"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "To find the total number of apples, you need to multiply the number of apples in one basket by the total number of baskets.",
+                "te": "ఆపిల్స్ యొక్క మొత్తానికి విలువు కనుగొనడానికి, మొత్తం పట్టిలో ఉన్న ఆపిల్స్ సంఖ్యను గుణించాలి.",
+                "ur": "کل سیب کی تعداد معلوم کرنے کے لئے، ایک ٹوکری میں موجود سیبوں کی تعداد کو کل ٹوکریوں کی تعداد سے ضرب دینا ہوگا۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "If Sally has 5 apples and she buys 3 more, how many apples does she have in total?",
+                "te": "సాలీకి 5 ఆపిల్స్ ఉన్నాయి మరియు అవిని కొనుగోలు చేసింది, మొత్తంగా అవి ఎంత?",
+                "ur": "اگر سیلی کے پاس 5 سیب ہیں اور اس نے اور 3 خریدے ہیں، تو کل کتنے سیب ہوں گے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "6",
+                    "te": "6",
+                    "ur": "6"
+                },
+                "B": {
+                    "en": "7",
+                    "te": "7",
+                    "ur": "7"
+                },
+                "C": {
+                    "en": "8",
+                    "te": "8",
+                    "ur": "8"
+                },
+                "D": {
+                    "en": "9",
+                    "te": "9",
+                    "ur": "9"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "By adding the 5 apples Sally has with the 3 she bought, the total number of apples is 8.",
+                "te": "సాలీ కలిగిన 5 ఆపిల్స్తో కొనుగోలు చేసిన 3 అవిని కలిగినంతా సారిగా ఆపిల్స్ సంఖ్య 8 ఉంది.",
+                "ur": "جب سیلی کے پاس 5 سیب ہوتے ہیں اور اس نے 3 خریدے ہیں، تو کل سیب کی تعداد 8 ہوتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "If you have 5 apples and you buy 3 more, how many apples do you have in total?",
+                "te": "మీకు 5 ఆపిల్స్ ఉన్నాయి మరియు మీరు 3 మరియు కొనుగోలు చేస్తే, మొత్తం ఏమిటి?",
+                "ur": "اگر آپ کے پاس 5 سیب ہیں اور آپ نے 3 اور خرید لیے ہیں، تو کل آپ کتنے سیب رکھتے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "6",
+                    "te": "6",
+                    "ur": "6"
+                },
+                "B": {
+                    "en": "7",
+                    "te": "7",
+                    "ur": "7"
+                },
+                "C": {
+                    "en": "8",
+                    "te": "8",
+                    "ur": "8"
+                },
+                "D": {
+                    "en": "9",
+                    "te": "9",
+                    "ur": "9"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Adding 5 apples and 3 more gives a total of 8 apples.",
+                "te": "5 ఆపిల్స్ మరియు 3 మరియు కలుపుటలో, మొత్తం 8 ఆపిల్స్ ఉంటాయి.",
+                "ur": "5 سیب اور 3 اور ملانے سے کل 8 سیب ہوتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "In a garden, there are 15 red roses and 10 white roses. How many roses are there in total?",
+                "te": "ఒక ఉద్యానంలో, 15 ఎరుపు గులాబీలు మరియు 10 తెలుపు గులాబీలు ఉన్నాయి. మొత్తం ఎన్ని గులాబీలు ఉన్నాయి?",
+                "ur": "ایک باغ میں، 15 لال گلاب اور 10 سفید گلاب ہیں. کل کتنے گلاب ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "20",
+                    "te": "20",
+                    "ur": "20"
+                },
+                "B": {
+                    "en": "25",
+                    "te": "25",
+                    "ur": "25"
+                },
+                "C": {
+                    "en": "30",
+                    "te": "30",
+                    "ur": "30"
+                },
+                "D": {
+                    "en": "35",
+                    "te": "35",
+                    "ur": "35"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "To find the total number of roses, add the number of red roses and white roses together.",
+                "te": "గులాబీల మొత్తం ఎన్ని ఉంటాయన్నాడటం కోసం, ఎరుపు గులాబీలు మరియు తెలుపు గులాబీలను కలిపి పెట్టండి.",
+                "ur": "گلابوں کی کل تعداد معلوم کرنے کے لئے، لال گلاب اور سفید گلابوں کی تعداد کو اکٹھا جمع کریں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "If you have 5 apples and you buy 3 more, how many apples do you have in total?",
+                "te": "మీకు 5 ఆపిల్స్ ఉన్నాయి మరియు మీరు 3 మంది కొన్నారు, మొత్తం మీకు ఎంత ఆపిల్స్ ఉన్నాయి?",
+                "ur": "اگر آپ کے پاس 5 سیب ہیں اور آپ نے 3 اور خرید لیے ہیں، تو کل آپ کے پاس کتنے سیب ہوں گے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "6",
+                    "te": "6",
+                    "ur": "6"
+                },
+                "B": {
+                    "en": "7",
+                    "te": "7",
+                    "ur": "7"
+                },
+                "C": {
+                    "en": "8",
+                    "te": "8",
+                    "ur": "8"
+                },
+                "D": {
+                    "en": "9",
+                    "te": "9",
+                    "ur": "9"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Adding 5 apples and 3 more gives a total of 8 apples.",
+                "te": "5 ఆపిల్స్ మరియు 3 మంది కలిసితే ఒక మొత్తం 8 ఆపిల్స్ ఉంటాయి.",
+                "ur": "5 سیب اور 3 اور ملانے سے کل 8 سیب ہوتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "In a garden, there are 15 red roses and 10 white roses. How many roses are there in total?",
+                "te": "ఒక ఉద్యానంలో, 15 ఎర్ర గులాబీ పువ్వులు ఉన్నాయి మరియు 10 తెలుపు గులాబీ పువ్వులు ఉన్నాయి. మొత్తం ఎన్ని గులాబీ పువ్వులు ఉన్నాయి?",
+                "ur": "ایک باغ میں، 15 لال گلاب اور 10 سفید گلاب ہیں۔ کل کتنے گلاب ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "20",
+                    "te": "20",
+                    "ur": "20"
+                },
+                "B": {
+                    "en": "25",
+                    "te": "25",
+                    "ur": "25"
+                },
+                "C": {
+                    "en": "30",
+                    "te": "30",
+                    "ur": "30"
+                },
+                "D": {
+                    "en": "35",
+                    "te": "35",
+                    "ur": "35"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "To find the total number of roses, add the number of red roses and white roses together.",
+                "te": "గులాబీ పువ్వుల మొత్తాన్ని కనుగొనడానికి, ఎర్ర గులాబీ పువ్వుల సంఖ్యను మరియు తెలుపు గులాబీ పువ్వుల సంఖ్యను కలిగి ఉంచండి.",
+                "ur": "گلاب کی کل تعداد تلاش کرنے کے لئے، لال گلاب اور سفید گلاب کی تعداد کو اکٹھا جمع کریں۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "In a garden, there are 15 red flowers and 10 yellow flowers. How many flowers are there in total?",
+                "te": "ఒక తోటంలో, 15 ఎరుపు పువ్వులు ఉన్నాయి మరియు 10 పచ్చ పువ్వులు ఉన్నాయి. మొత్తం ఎన్ని పువ్వులు ఉన్నాయి?",
+                "ur": "ایک باغ میں، 15 لال پھول اور 10 پیلے پھول ہیں۔ کل کتنے پھول ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "20",
+                    "te": "20",
+                    "ur": "20"
+                },
+                "B": {
+                    "en": "25",
+                    "te": "25",
+                    "ur": "25"
+                },
+                "C": {
+                    "en": "30",
+                    "te": "30",
+                    "ur": "30"
+                },
+                "D": {
+                    "en": "35",
+                    "te": "35",
+                    "ur": "35"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "To find the total number of flowers, add the red and yellow flowers together.",
+                "te": "పువ్వుల మొత్తానికి, ఎరుపు మరియు పచ్చ పువ్వులను కలిపి చూడండి.",
+                "ur": "پھولوں کی کل تعداد دریافت کرنے کے لئے، لال اور پیلے پھولوں کو اکٹھا جمع کریں۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "If there are 5 apples and you add 3 more, how many apples are there?",
+                "te": "5 ఆపిల్స్ ఉంటే మరుపులో 3 చేర్చితే, ఎంత ఆపిల్స్ ఉంటాయి?",
+                "ur": "اگر 5 سیب ہوتے ہیں اور آپ 3 اور شامل کرتے ہیں، تو کتنے سیب ہوتے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "6",
+                    "te": "6",
+                    "ur": "6"
+                },
+                "B": {
+                    "en": "7",
+                    "te": "7",
+                    "ur": "7"
+                },
+                "C": {
+                    "en": "8",
+                    "te": "8",
+                    "ur": "8"
+                },
+                "D": {
+                    "en": "9",
+                    "te": "9",
+                    "ur": "9"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Adding 3 more apples to the existing 5 apples gives a total of 8 apples.",
+                "te": "ఇప్పుడు ఉండే 5 ఆపిల్స్‌కు మరుపులో 3 చేర్చితే ఒక మొత్తం 8 ఆపిల్స్ ఉంటాయి.",
+                "ur": "موجودہ 5 سیبوں میں 3 اور شامل کرنے سے کل 8 سیب ہوتے ہیں۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "In a basket, there are 15 apples. If 7 more apples are added to the basket, how many apples are there in total?",
+                "te": "ఒ పట్టికలో 15 ఆపిల్స్ ఉన్నాయి. పట్టికకు 7 మరియు ఆపిల్స్ కలిసినట్లు ఎంత ఉన్నాయి?",
+                "ur": "ایک ٹوکری میں 15 سیب ہیں۔ اگر 7 اور سیب ٹوکری میں شامل کیے جائیں، تو کل کتنے سیب ہوں گے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "17",
+                    "te": "17",
+                    "ur": "17"
+                },
+                "B": {
+                    "en": "22",
+                    "te": "22",
+                    "ur": "22"
+                },
+                "C": {
+                    "en": "25",
+                    "te": "25",
+                    "ur": "25"
+                },
+                "D": {
+                    "en": "30",
+                    "te": "30",
+                    "ur": "30"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "By adding 15 apples and 7 more apples, you get a total of 22 apples in the basket.",
+                "te": "15 ఆపిల్స్ మరియు 7 మరియు ఆపిల్స్ చేరితే, పట్టికలో మొత్తం 22 ఆపిల్స్ ఉన్నాయి.",
+                "ur": "15 سیب اور 7 اور سیب شامل کرنے سے، ٹوکری میں کل 22 سیب ہوتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        }
+    ]
+}

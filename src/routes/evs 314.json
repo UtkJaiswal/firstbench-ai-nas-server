@@ -1,0 +1,417 @@
+{
+    "subject": "I EVS(ENVIRONMENTAL SCIENCE)",
+    "grade": "3rd  grade",
+    "learning_outcome": "Voices opinions on good/bad touch; stereotypes for tasks/play/food in the family with respect to gender, and misuse/wastage of food and water in family and school.",
+    "questions": [
+        {
+            "question": {
+                "en": "Which of the following is an example of good touch?",
+                "te": "కింది ఏది మంచి ముట్టు ఉదాహరణాలు ఉంటాయి?",
+                "ur": "مندرجہ ذیل میں کون سی بات اچھی چھون ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Hugging a family member",
+                    "te": "ఒక కుటుంబ సభ్యుడును అంటుకును",
+                    "ur": "ایک خاندانی رکن کو گلے لگانا"
+                },
+                "B": {
+                    "en": "Pulling someone's hair without permission",
+                    "te": "అనుమతి లేక ఎవరి జుట్టును సీలుచేస్తే",
+                    "ur": "اجازت کے بغیر کسی کے بال کھینچنا"
+                },
+                "C": {
+                    "en": "Shaking hands with a teacher",
+                    "te": "ఒక ఉపాధ్యాయునితో హాండ్‌శేక్ చేస్తే",
+                    "ur": "ایک استاد کے ساتھ ہینڈ شیک کرنا"
+                },
+                "D": {
+                    "en": "Ignoring someone's personal space",
+                    "te": "ఎవరి వ్యక్తిగత ప్రాంతాన్ని నిరక్షించడం",
+                    "ur": "کسی کی ذاتی جگہ کو نظرانداز کرنا"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Hugging a family member is an example of a good touch that shows affection and care.",
+                "te": "ఒక కుటుంబ సభ్యుడును అంటుకును ఒక మంచి ముట్టు ఉదాహరణం మరియు అనుకూలత చూపిస్తుంది.",
+                "ur": "ایک خاندانی رکن کو گلے لگانا ایک اچھی چھون کا ایک مثال ہے جو محبت اور دیکھ بھال کا اظہار کرتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is an example of good touch?",
+                "te": "మంచి స్పర్శం యొక్క ఒక ఉదాహరణ ఏమిటి?",
+                "ur": "اچھا سپرش کا ایک مثال کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Hugging a close family member",
+                    "te": "సంబంధిత కుటుంబ సభ్యునికి ఆలింగనం",
+                    "ur": "قریبی خاندانی رکن کو گلے لگانا"
+                },
+                "B": {
+                    "en": "Stealing someone's belongings",
+                    "te": "ఎవరి సామాన్యాన్ని చేయడం",
+                    "ur": "کسی کی مالکیت چھیننا"
+                },
+                "C": {
+                    "en": "Ignoring a friend's feelings",
+                    "te": "ఒక స్నేహితుడి భావాలను నిరక్షణ చేస్తున్నట్లు",
+                    "ur": "دوست کے جذبات کو نظرانداز کرنا"
+                },
+                "D": {
+                    "en": "Sharing toys with classmates",
+                    "te": "విద్యార్థులతో ఖిలౌనాలను భాగంగా ఉపయోగించడం",
+                    "ur": "ساتھیوں کے ساتھ کھلونے شیئر کرنا"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Hugging a close family member is an example of good touch as it shows affection and care.",
+                "te": "సంబంధిత కుటుంబ సభ్యునికి ఆలింగనం మంచి స్పర్శం యొక్క ఒక ఉదాహరణము కాబట్టి ఇది అనుకూలత మరియు జాగ్రత్త చూపిస్తుంది.",
+                "ur": "قریبی خاندانی رکن کو گلے لگانا اچھا سپرش کا ایک مثال ہے کیونکہ یہ محبت اور دیکھ بھال کی نمائندگی کرتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is an example of good touch?",
+                "te": "మంచి టచ్ యొక్క ఒక ఉదాహరణను ఇవ్వండి?",
+                "ur": "اچھی ٹچ کا ایک مثال کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Hugging a close family member",
+                    "te": "సంబంధం ఉండే కుటుంబ సభ్యుడిని ఆలింగిస్తుంటే",
+                    "ur": "قریبی خاندانی رکن کو گلے لگانا"
+                },
+                "B": {
+                    "en": "Taking someone's belongings without permission",
+                    "te": "అనుమతి లేక ఎవరైనా సామాన్యాన్ని తీసుకోవడం",
+                    "ur": "اجازت کے بغیر کسی کی مالکیت لینا"
+                },
+                "C": {
+                    "en": "Ignoring someone when they are speaking",
+                    "te": "వారు మాట్లాడుతున్నప్పుడు వారను ఉపేక్షించడం",
+                    "ur": "کسی کی بات کو نظرانداز کرنا جب وہ بات کر رہے ہوں"
+                },
+                "D": {
+                    "en": "Sharing toys with friends",
+                    "te": "స్నేహితులతో ఖిలౌనాలను భాగం చేసేందుకు",
+                    "ur": "دوستوں کے ساتھ کھلونے شیئر کرنا"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Hugging a close family member is an example of a good touch that shows love and affection.",
+                "te": "సంబంధం ఉండే కుటుంబ సభ్యుడిని ఆలింగిస్తుంటే ప్రేమ మరియు అనుభవాన్ని చూపిస్తుంది.",
+                "ur": "قریبی خاندانی رکن کو گلے لگانا ایک اچھی ٹچ کا ایک مثال ہے جو محبت اور محبت دکھاتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of good touch?",
+                "te": "కింద పేరుతో ఏది మంచి ముట్టు ఉదాహరణ?",
+                "ur": "مندرجہ ذیل میں سے کون سی ایک اچھی چھون ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Hugging a family member",
+                    "te": "కుటుంబ సభ్యుడిని కాలుగాను",
+                    "ur": "ایک خاندانی رکن سے گلے لگانا"
+                },
+                "B": {
+                    "en": "Taking someone's belongings without permission",
+                    "te": "అనుమతి లేక ఎవరైనా సంపదలను తీసుకోవడం",
+                    "ur": "اجازت کے بغیر کسی کی مالکیت لینا"
+                },
+                "C": {
+                    "en": "Ignoring a friend when they are talking",
+                    "te": "అవాడి మాటలు వినటంలో మిత్రుడిని నిరాకరించడం",
+                    "ur": "جب دوست بات کर رہا ہو تو اسے نظرانداز کرنا"
+                },
+                "D": {
+                    "en": "Pushing someone forcefully",
+                    "te": "ఎవరైనా బలపరమైనది ప్రెస్ చేయడం",
+                    "ur": "کسی کو زبردستی دھکیلنا"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Hugging a family member is an example of a good touch that shows affection and care.",
+                "te": "కుటుంబ సభ్యుడిని కాలుగాను అందించే మంచి ముట్టు ప్రేమాన్ని మరియు జాగ్రత్తను చూపిస్తుంది.",
+                "ur": "ایک خاندانی رکن سے گلے لگانا ایک اچھی چھون کا ایک مثال ہے جو محبت اور دیکھ بھال کو ظاہر کرتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is an example of good touch?",
+                "te": "మంచి స్పర్శం యొక్క ఒక ఉదాహరణ ఏమిటి?",
+                "ur": "اچھے سپرش کا ایک مثال کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Hugging a family member",
+                    "te": "కుటుంబ సభ్యుడును ఆలింగనం చేయడం",
+                    "ur": "خاندان کے رکن کو گلے لگانا"
+                },
+                "B": {
+                    "en": "Taking someone's belongings without permission",
+                    "te": "అనుమతి లేక ఎవరి వస్తువులను తీసుకోవడం",
+                    "ur": "کسی کی اجازت کے بغیر کسی کی مالکیت لینا"
+                },
+                "C": {
+                    "en": "Ignoring someone when they are talking",
+                    "te": "వారు మాటలు చెప్పుటలో ఉంటే వారను లెక్కించడం",
+                    "ur": "کسی کی بات کرتے وقت ان کو نظرانداز کرنا"
+                },
+                "D": {
+                    "en": "Sharing toys with friends",
+                    "te": "స్నేహితులతో ఖిలౌనాలను భాగం చేయడం",
+                    "ur": "دوستوں کے ساتھ کھلونے شیئر کرنا"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Hugging a family member is an example of a good touch that shows love and affection.",
+                "te": "కుటుంబ సభ్యుడును ఆలింగనం చేయడం ప్రేమ మరియు అనుగ్రహాన్ని చూపిస్తుంది.",
+                "ur": "خاندان کے رکن کو گلے لگانا ایک اچھے سپرش کا ایک مثال ہے جو محبت اور محبت دکھاتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of good touch?",
+                "te": "కింద పేరులో ఏమిటి మంచి స్పర్శం ఉదాహరణను?",
+                "ur": "مندرجہ ذیل میں سے کون سا مثال اچھے سپرش کی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Hugging a close family member",
+                    "te": "ఒక సమీప కుటుంబ సభ్యునిని కిస్ చేస్తున్నారు",
+                    "ur": "قریبی خاندانی رکن کو گلے لگانا"
+                },
+                "B": {
+                    "en": "Taking something without permission",
+                    "te": "అనుమతి లేక ఏదైనా తీసుకోవడం",
+                    "ur": "اجازت کے بغیر کچھ لینا"
+                },
+                "C": {
+                    "en": "Pushing someone forcefully",
+                    "te": "ఎవరను బలంగా దబ్బుతూ పోవడం",
+                    "ur": "کسی کو زبردستی دھکے دینا"
+                },
+                "D": {
+                    "en": "Ignoring someone's feelings",
+                    "te": "ఎవరి భావనలను నిరాకరించడం",
+                    "ur": "کسی کے جذبات کو نظرانداز کرنا"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Hugging a close family member is an example of a good touch that shows love and affection.",
+                "te": "ఒక సమీప కుటుంబ సభ్యునిని కిస్ చేస్తున్నారు ప్రేమ మరియు అనుగ్రహాన్ని చూపిస్తుంది.",
+                "ur": "قریبی خاندانی رکن کو گلے لگانا ایک اچھے سپرش کا ایک مثال ہے جو محبت اور محبت دکھاتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is an example of good touch?",
+                "te": "మంచి స్పర్శం యొక్క ఉదాహరణానికి ఏమిటి?",
+                "ur": "اچھے سپرش کا مثال کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Hugging a family member",
+                    "te": "ఒక కుటుంబ సభ్యునిని గౌలు చేయటం",
+                    "ur": "کسی خاندانی رکن سے گلے لگانا"
+                },
+                "B": {
+                    "en": "Taking someone's belongings without permission",
+                    "te": "అనుమతి లేకుండా ఎవరైనా వస్తువులను తీసుకోవడం",
+                    "ur": "اجازت کے بغیر کسی کی مالکیت لینا"
+                },
+                "C": {
+                    "en": "Ignoring someone's feelings",
+                    "te": "ఎవరైనా భావనలను లేదాకుండా చూసుకోవడం",
+                    "ur": "کسی کے جذبات کو نظرانداز کرنا"
+                },
+                "D": {
+                    "en": "Sharing food with a friend",
+                    "te": "ఒక స్నేహితుతో ఆహారం పంచుకుటకు",
+                    "ur": "دوست کے ساتھ کھانا شیئر کرنا"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Hugging a family member is an example of a good touch that shows affection and care.",
+                "te": "ఒక కుటుంబ సభ్యునిని గౌలు చేయటం అందాను మరియు జాగృతిని చూపించే మంచి స్పర్శం యొక్క ఉదాహరణం.",
+                "ur": "کسی خاندانی رکن سے گلے لگانا ایک اچھے سپرش کا مثال ہے جو محبت اور دیکھ بھال کا ظاہر کرتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of good touch?",
+                "te": "కింద పేరును యొక్క మద్దతుగా ఉన్న ఉదాహరణ ఏది?",
+                "ur": "مندرجہ ذیل میں سے کون سی ایک اچھی چھون ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Hugging a family member",
+                    "te": "ఒక కుటుంబ సభ్యునికి అందమైన నీదు ఇవ్వడం",
+                    "ur": "کسی خاندان کے رکن کو گلے لگانا"
+                },
+                "B": {
+                    "en": "Taking something without permission",
+                    "te": "అనుమతి లేక ఏదో తీసుకోవడం",
+                    "ur": "اجازت کے بغیر کچھ لینا"
+                },
+                "C": {
+                    "en": "Ignoring someone's personal space",
+                    "te": "ఎవరి వ్యక్తిగత ప్రదేశాన్ని నిరాకరించడం",
+                    "ur": "کسی کی ذاتی جگہ کو نظرانداز کرنا"
+                },
+                "D": {
+                    "en": "Sharing toys with a friend",
+                    "te": "స్నేహితునితో ఆటలు భాగంచడం",
+                    "ur": "دوست کے ساتھ کھلونے شیئر کرنا"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Hugging a family member is an example of a good touch as it shows affection and care.",
+                "te": "ఒక కుటుంబ సభ్యునికి అందమైన నీదు ఇవ్వడం అందమైన మద్దతుగా చూపిస్తుంది.",
+                "ur": "کسی خاندان کے رکن کو گلے لگانا اچھی چھون کا ایک مثال ہے کیونکہ یہ محبت اور دیکھ بھال کا اظہار کرتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is an example of bad touch?",
+                "te": "చెడు స్పర్శం యొక్క ఒక ఉదాహరణ ఏమిటి?",
+                "ur": "بد چھونے کا ایک مثال کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Hugging a family member",
+                    "te": "ఒక కుటుంబ సభ్యును కాలేస్తున్నారు",
+                    "ur": "ایک خاندانی رکن کو گلے لگانا"
+                },
+                "B": {
+                    "en": "A stranger touching you inappropriately",
+                    "te": "పరిపూర్ణంగా మీకు స్పర్శించే ఒక అజ్ఞాతుడు",
+                    "ur": "ایک اجنبی آپ کو نامناسب طریقے سے چھو رہا ہے"
+                },
+                "C": {
+                    "en": "Shaking hands with a teacher",
+                    "te": "ఉపాధ్యాయుడితో చేతులు కలిసినట్లు",
+                    "ur": "استاد کے ساتھ ہاتھ ملانا"
+                },
+                "D": {
+                    "en": "High-fiving a friend",
+                    "te": "ఒక స్నేహితునికి హై-ఫైవింగ్",
+                    "ur": "ایک دوست کو ہائی فائیونگ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Bad touch includes any unwanted or inappropriate physical contact, especially from strangers.",
+                "te": "చెడు స్పర్శం అన్నది ఏ కోరబడని లేదా అనుచిత శారీరిక సంపర్కాన్ని ఆలోచిస్తుంది, ప్రధానంగా అజ్ఞాతుల నుండి.",
+                "ur": "بد چھونے میں کسی بھی ناخواستہ یا نامناسب جسمانی رابطہ شامل ہے، خاص طور پر اجنبیوں سے."
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is an example of good touch?",
+                "te": "మంచి ముట్టు యొక్క ఒక ఉదాహరణను ఇవ్వండి?",
+                "ur": "اچھا ٹچ کا ایک مثال کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Hugging a family member",
+                    "te": "కుటుంబ సభ్యుడిని ఆలింగనం చేయడం",
+                    "ur": "کسی خاندانی رکن کو گلے لگانا"
+                },
+                "B": {
+                    "en": "Stealing someone's belongings",
+                    "te": "ఎవరి సంపదలను చుస్తుంటే",
+                    "ur": "کسی کی مالیات چوری کرنا"
+                },
+                "C": {
+                    "en": "Ignoring a friend's feelings",
+                    "te": "ఒక స్నేహితుడి భావనలను లేదాకూడా పరిగణించడం",
+                    "ur": "کسی دوست کے جذبات کو نظر انداز کرنا"
+                },
+                "D": {
+                    "en": "Yelling at a classmate",
+                    "te": "ఒక క్లాస్మేటుని గర్జన చేయడం",
+                    "ur": "ایک کلاس فیلو کو چیخنا"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Hugging a family member is an example of a good touch that shows affection and care.",
+                "te": "కుటుంబ సభ్యుడిని ఆలింగనం చేయడం ప్రేమ మరియు జాగృతిని చూపిస్తుంది.",
+                "ur": "کسی خاندانی رکن کو گلے لگانا ایک اچھا ٹچ کا ایک مثال ہے جو پیار اور دیکھ بھال کو ظاہر کرتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        }
+    ]
+}

@@ -1,0 +1,417 @@
+{
+    "subject": "I EVS(ENVIRONMENTAL SCIENCE)",
+    "grade": "3rd  grade",
+    "learning_outcome": "Identifies objects, signs (vessels, stove, transport, means of communication, signboards, etc.), places (types of houses/shelters, bus stand, petrol pumps, etc.), activities (works people do, cooking processes, etc.) at home/school/neighborhoods.",
+    "questions": [
+        {
+            "question": {
+                "en": "Which of the following is an activity people do at home?",
+                "te": "కింద పేరును మనిషులు ఇంటిలో చేసే ఒక చట్టం ఏమిటి?",
+                "ur": "مندرجہ ذیل میں سے کون سی چیز ہے جو لوگ گھر میں کرتے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Driving a bus",
+                    "te": "బస్ డ్రైవింగ్",
+                    "ur": "بس چلانا"
+                },
+                "B": {
+                    "en": "Cooking food",
+                    "te": "ఆహారం వంటించడం",
+                    "ur": "کھانا پکانا"
+                },
+                "C": {
+                    "en": "Operating a petrol pump",
+                    "te": "పెట్రోల్ పంప్ యొక్క ఆపరేటింగ్",
+                    "ur": "پٹرول پمپ چلانا"
+                },
+                "D": {
+                    "en": "Flying an airplane",
+                    "te": "విమానం నడిచడం",
+                    "ur": "ہوائی جہاز چلانا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Cooking food is an activity people commonly do at home to prepare meals.",
+                "te": "ఆహారం వంటించడం మనుషులు ఆహారాన్ని సిద్ధం చేయడానికి ఇంటిలో సాధారణంగా చేసే ఒక చట్టం ఉంది.",
+                "ur": "کھانا پکانا ایک چیز ہے جو لوگ عام طور پر گھر میں کھانے تیار کرنے کے لیے کرتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a means of communication?",
+                "te": "కింద పేరును సంచారం చేసే విధంగా ఉంది?",
+                "ur": "مندرجہ ذیل میں کون سا ابلاغ کا ذریعہ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Stove",
+                    "te": "పొయ్య",
+                    "ur": "چولہا"
+                },
+                "B": {
+                    "en": "Mobile phone",
+                    "te": "మొబైల్ ఫోన్",
+                    "ur": "موبائل فون"
+                },
+                "C": {
+                    "en": "Petrol pump",
+                    "te": "పెట్రోల్ పంపు",
+                    "ur": "پٹرول پمپ"
+                },
+                "D": {
+                    "en": "Vessels",
+                    "te": "పాత్రలు",
+                    "ur": "برتن"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "A mobile phone is a device used for communication through calls, messages, and internet.",
+                "te": "మొబైల్ ఫోన్ ఒక పరికరం, కాల్లతో, సందేశాలతో, ఇంటర్నెట్ ద్వారా సంచారం చేయడానికి ఉపయోగించబడుతుంది.",
+                "ur": "موبائل فون ایک آلہ ہے جو کالوں، پیغاموں، اور انٹرنیٹ کے ذریعے ابلاغ کے لیے استعمال ہوتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a means of communication?",
+                "te": "కింద పేరును చేసే సంవహన విధానము ఏదీ?",
+                "ur": "مندرجہ ذیل کون سا ابلاغی ذریعہ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Vessel",
+                    "te": "పాత్ర",
+                    "ur": "برتن"
+                },
+                "B": {
+                    "en": "Stove",
+                    "te": "ఉగాది",
+                    "ur": "چولہا"
+                },
+                "C": {
+                    "en": "Telephone",
+                    "te": "టెలిఫోన్",
+                    "ur": "ٹیلی فون"
+                },
+                "D": {
+                    "en": "Petrol pump",
+                    "te": "పెట్రోల్ పంప్",
+                    "ur": "پیٹرول پمپ"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "A telephone is used for communication by speaking to someone over a distance.",
+                "te": "టెలిఫోన్ దూరంలో ఎవరితో మాట్లాడటం ద్వారా సంవహనకు ఉపయోగిస్తారు.",
+                "ur": "ٹیلی فون کا استعمال دوری پر کسی سے بات کرنے کے لیے کیا جاتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a means of communication?",
+                "te": "కింద పేరును సంవహన మార్గం ఏమిటి?",
+                "ur": "مندرجہ ذیل کون سا ابلاغ کا ذریعہ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Stove",
+                    "te": "చుల్లా",
+                    "ur": "اسٹوو"
+                },
+                "B": {
+                    "en": "Bus stand",
+                    "te": "బస్ స్టాండ్",
+                    "ur": "بس اسٹینڈ"
+                },
+                "C": {
+                    "en": "Vessels",
+                    "te": "పాత్రలు",
+                    "ur": "برتن"
+                },
+                "D": {
+                    "en": "Petrol pump",
+                    "te": "పెట్రోల్ పంప్",
+                    "ur": "پٹرول پمپ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "A bus stand is a place where people wait for buses to arrive, making it a means of communication.",
+                "te": "బస్ స్టాండ్ ఒక ప్రాంతం అయితే మంది బస్సులు రావడానికి వేచి ఉంటారు, అది ఒక సంవహన మార్గం.",
+                "ur": "بس اسٹینڈ ایک جگہ ہے جہاں لوگ باسوں کا انتظار کرتے ہیں کہ وہ آئیں، اس لئے یہ ابلاغ کا ذریعہ ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a means of communication?",
+                "te": "కింద పేరుకు సంవహన యంత్రం ఏది?",
+                "ur": "مندرجہ ذیل میں سے کون سا ابلاغ کا ذریعہ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Stove",
+                    "te": "పాత్ర",
+                    "ur": "چولہا"
+                },
+                "B": {
+                    "en": "Bus stand",
+                    "te": "బస్ నిలయం",
+                    "ur": "بس اسٹینڈ"
+                },
+                "C": {
+                    "en": "Vessels",
+                    "te": "వేసల్స్",
+                    "ur": "برتن"
+                },
+                "D": {
+                    "en": "Petrol pump",
+                    "te": "పెట్రోల్ పంప్",
+                    "ur": "پٹرول پمپ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "A bus stand is a place where people wait for buses to arrive. It is a means of communication as people use buses to travel and communicate.",
+                "te": "బస్ నిలయం ఒక ప్రాంతం కాని ప్రాంతం లోపు మనుషులు బసులు రావడానికి ఎదుట ఉంటారు. మనుషులు ప్రయాణం చేయడానికి మరియు సంవహనం చేయడానికి వాటిని ఉపయోగిస్తారు.",
+                "ur": "ایک بس اسٹینڈ ایک جگہ ہے جہاں لوگ بسوں کے آنے کا انتظار کرتے ہیں۔ یہ ابلاغ کا ذریعہ ہے کیونکہ لوگ بسوں کا استعمال سفر کرنے اور بات چیت کرنے کے لیے کرتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a means of communication?",
+                "te": "క్రింది ఏది సంవాద సాధనమయినది?",
+                "ur": "مندرجہ ذیل میں کون سا ایک ابلاغ کا ذریعہ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Stove",
+                    "te": "ఉల్లి",
+                    "ur": "چولہا"
+                },
+                "B": {
+                    "en": "Mobile phone",
+                    "te": "మొబైల్ ఫోన్",
+                    "ur": "موبائل فون"
+                },
+                "C": {
+                    "en": "Vessel",
+                    "te": "భండారము",
+                    "ur": "برتن"
+                },
+                "D": {
+                    "en": "Petrol pump",
+                    "te": "పెట్రోల్ పంప్",
+                    "ur": "پٹرول پمپ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "A mobile phone is a device used for communication through calls, messages, and internet.",
+                "te": "మొబైల్ ఫోన్ ఒక సాధనం, కాల్స్, సందేశాలు మరియు ఇంటర్నెట్ ద్వారా సంవాదం కోసం ఉపయోగిస్తారు.",
+                "ur": "موبائل فون ایک آلہ ہے جو کالوں، پیغاموں اور انٹرنیٹ کے ذریعے ابلاغ کے لیے استعمال ہوتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a means of communication?",
+                "te": "కింద ఉన్నవి సంవహన విధానాలు ఏది?",
+                "ur": "مندرجہ ذیل کون سا ابلاغی ذریعہ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Stove",
+                    "te": "ఉల్లి",
+                    "ur": "چولہا"
+                },
+                "B": {
+                    "en": "Bus stand",
+                    "te": "బస్ నిలయం",
+                    "ur": "بس اسٹینڈ"
+                },
+                "C": {
+                    "en": "Petrol pump",
+                    "te": "పెట్రోల్ పంప్",
+                    "ur": "پٹرول پمپ"
+                },
+                "D": {
+                    "en": "Mobile phone",
+                    "te": "మొబైల్ ఫోన్",
+                    "ur": "موبائل فون"
+                }
+            },
+            "correct_answer": {
+                "en": "D"
+            },
+            "explanation": {
+                "en": "A mobile phone is a means of communication as it allows people to talk to each other from a distance.",
+                "te": "మొబైల్ ఫోన్ ఒక సంవహన విధానం కాబట్టి దూరంలోని వారు ఒకరిని మాట్లాడటం అనుమతిస్తుంది.",
+                "ur": "موبائل فون ابلاغی ذریعہ ہے کیونکہ یہ لوگوں کو دور سے ایک دوسرے سے بات کرنے کی اجازت دیتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a means of communication?",
+                "te": "కింద ఉన్నవి యొక్క సంవహన మాధ్యమం ఏది?",
+                "ur": "مندرجہ ذیل میں سے کون سا ایک سارہ ارتباط ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Stove",
+                    "te": "కమియలు",
+                    "ur": "استو"
+                },
+                "B": {
+                    "en": "Bus stand",
+                    "te": "బస్ స్టాండ్",
+                    "ur": "بس اسٹینڈ"
+                },
+                "C": {
+                    "en": "Vessels",
+                    "te": "పాత్రలు",
+                    "ur": "برتن"
+                },
+                "D": {
+                    "en": "Petrol pump",
+                    "te": "పెట్రోల్ పంప్",
+                    "ur": "پٹرول پمپ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "A bus stand is a place where people wait for buses, which is a means of communication.",
+                "te": "బస్ స్టాండ్ ఒక ప్రాంతం అయినా మనుషులు బస్సులకు ఎదురుగా ఉంటారు, ఇది ఒక సంవహన మాధ్యమం.",
+                "ur": "ایک بس اسٹینڈ ایک جگہ ہے جہاں لوگ بسوں کا انتظار کرتے ہیں، جو ایک رابطہ کا ذریعہ ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a means of communication?",
+                "te": "కింద ఇవి సంవహన విధానాలయ్యా?",
+                "ur": "مندرجہ ذیل میں سے کون سا ایک رابطہ کا ذریعہ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Vessel",
+                    "te": "పాత్ర",
+                    "ur": "برتن"
+                },
+                "B": {
+                    "en": "Stove",
+                    "te": "స్టోవ్",
+                    "ur": "چولہا"
+                },
+                "C": {
+                    "en": "Bus stand",
+                    "te": "బస్ స్టాండ్",
+                    "ur": "بس اسٹینڈ"
+                },
+                "D": {
+                    "en": "Petrol pump",
+                    "te": "పెట్రోల్ పంప్",
+                    "ur": "پٹرول پمپ"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "A bus stand is a place where people wait for buses and communicate with the bus drivers or conductors.",
+                "te": "బస్ స్టాండ్ ఒక ప్రదేశం అయితే, ప్రజలు బస్సులకు ఎదురుచూస్తున్నట్లు ఉంటారు మరియు బస్ డ్రైవర్ లేదా కండక్టర్లతో సంవహనం చేస్తారు.",
+                "ur": "ایک بس اسٹینڈ ایک جگہ ہے جہاں لوگ باسوں کا انتظار کرتے ہیں اور باس ڈرائیور یا کنڈکٹر کے ساتھ رابطہ کرتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a means of communication?",
+                "te": "కింద ఉన్నవి యోగాయోగం యొక్క ఒక మాధ్యమం ఏమిటి?",
+                "ur": "مندرجہ ذیل میں سے کون سا ابلاغ کا ذریعہ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Stove",
+                    "te": "ఉప్పు",
+                    "ur": "چولہا"
+                },
+                "B": {
+                    "en": "Bus stand",
+                    "te": "బస్ స్టాండ్",
+                    "ur": "بس اسٹینڈ"
+                },
+                "C": {
+                    "en": "Vessels",
+                    "te": "పాత్రలు",
+                    "ur": "برتن"
+                },
+                "D": {
+                    "en": "Telephone",
+                    "te": "టెలిఫోన్",
+                    "ur": "ٹیلیفون"
+                }
+            },
+            "correct_answer": {
+                "en": "D"
+            },
+            "explanation": {
+                "en": "A telephone is a means of communication used to talk to people who are far away.",
+                "te": "టెలిఫోన్ దూరంలో ఉన్న వారిని మాట్లాడటం కోసం ఉపయోగించబడే ఒక యోగాయోగ మాధ్యమంగా ఉంది.",
+                "ur": "ایک ٹیلیفون ابلاغ کا ذریعہ ہے جو دور کے لوگوں سے بات کرنے کے لیے استعمال ہوتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        }
+    ]
+}

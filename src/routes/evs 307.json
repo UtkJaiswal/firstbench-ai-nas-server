@@ -1,0 +1,417 @@
+{
+    "subject": "I EVS(ENVIRONMENTAL SCIENCE)",
+    "grade": "3rd  grade",
+    "learning_outcome": "Groups objects, birds, animals, features, activities according to differences/similarities using different senses (e.g., appearance, place of living, food, movement, likes and dislikes, or any other features).",
+    "questions": [
+        {
+            "question": {
+                "en": "Which of the following animals have wings?",
+                "te": "కింద ఉన్న పశువులో ఎవరికి రెక్కలు ఉన్నాయి?",
+                "ur": "مندرجہ ذیل جانوروں میں سے کون کون سی پرانی ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Elephant",
+                    "te": "ఏపిలంట్",
+                    "ur": "ہاتھی"
+                },
+                "B": {
+                    "en": "Butterfly",
+                    "te": "బటర్ఫ్లై",
+                    "ur": "تتلی"
+                },
+                "C": {
+                    "en": "Lion",
+                    "te": "సింహం",
+                    "ur": "شیر"
+                },
+                "D": {
+                    "en": "Tiger",
+                    "te": "పులి",
+                    "ur": "شیر"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Butterflies have wings that they use for flying.",
+                "te": "బటర్ఫ్లైస్ వారు పాడడానికి ఉపయోగించే రెక్కలు ఉన్నాయి.",
+                "ur": "تتلیوں کے پر ہوتے ہیں جو وہ پرواز کے لیے استعمال کرتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following animals live in water?",
+                "te": "తరువాత ప్రాణువులు ఏది నీటిలో ఉంటాయి?",
+                "ur": "میں سے کونسا جانور پانی میں رہتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Lion",
+                    "te": "సింహం",
+                    "ur": "شیر"
+                },
+                "B": {
+                    "en": "Fish",
+                    "te": "చేప",
+                    "ur": "مچھلی"
+                },
+                "C": {
+                    "en": "Elephant",
+                    "te": "ఏనుగు",
+                    "ur": "ہاتھی"
+                },
+                "D": {
+                    "en": "Giraffe",
+                    "te": "జిరాఫ్",
+                    "ur": "زرافہ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Fish are animals that live in water and breathe through gills.",
+                "te": "చేపలు నీటిలో ఉంటే మరియు గిల్లుల ద్వారా ఊపిరి ప్రాణము చేస్తాయి.",
+                "ur": "مچھلیاں وہ جانور ہیں جو پانی میں رہتے ہیں اور گلے کے ذریعے سانس لیتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following animals live in water?",
+                "te": "ఈ కింది వారు నీటిలో ఉంటారు?",
+                "ur": "میں سے کونسا جانور پانی میں رہتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Lion",
+                    "te": "సింహం",
+                    "ur": "شیر"
+                },
+                "B": {
+                    "en": "Fish",
+                    "te": "చేప",
+                    "ur": "مچھلی"
+                },
+                "C": {
+                    "en": "Elephant",
+                    "te": "ఏనుగు",
+                    "ur": "ہاتھی"
+                },
+                "D": {
+                    "en": "Monkey",
+                    "te": "కోతి",
+                    "ur": "بندر"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Fish live in water, while lion, elephant, and monkey live on land.",
+                "te": "చేపలు నీటిలో ఉంటాయి, సింహం, ఏనుగు మరియు కోతి భూమిలో ఉంటాయి.",
+                "ur": "مچھلی پانی میں رہتی ہے، جبکہ شیر، ہاتھی اور بندر زمین پر رہتے ہیں۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following animals lives in water?",
+                "te": "కింద ఉన్న పశువులో ఎవరు నీటిలో ఉంటారు?",
+                "ur": "میں سے کون سا جانور پانی میں رہتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Elephant",
+                    "te": "ఎలిఫంట్",
+                    "ur": "ہاتھی"
+                },
+                "B": {
+                    "en": "Fish",
+                    "te": "చేప",
+                    "ur": "مچھلی"
+                },
+                "C": {
+                    "en": "Lion",
+                    "te": "సింహం",
+                    "ur": "شیر"
+                },
+                "D": {
+                    "en": "Monkey",
+                    "te": "కోతి",
+                    "ur": "بندر"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Fish is the correct answer as they live in water.",
+                "te": "చేప నీటిలో ఉంటాయి కాబట్టి ఇది సరియిది.",
+                "ur": "مچھلی صحیح جواب ہے کیونکہ وہ پانی میں رہتی ہیں۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following animals live in water?",
+                "te": "కింద పేరును వరుసగా ఉండే జంతువులు ఏది?",
+                "ur": "میں سے کون سی جانور پانی میں رہتے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Lion",
+                    "te": "సింహం",
+                    "ur": "شیر"
+                },
+                "B": {
+                    "en": "Fish",
+                    "te": "చేప",
+                    "ur": "مچھلی"
+                },
+                "C": {
+                    "en": "Elephant",
+                    "te": "ఏనుగు",
+                    "ur": "ہاتھی"
+                },
+                "D": {
+                    "en": "Monkey",
+                    "te": "కోతి",
+                    "ur": "بندر"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Fish live in water, while lion, elephant, and monkey live on land.",
+                "te": "చేపలు నీటిలో ఉంటాయి, కానీ సింహం, ఏనుగు, మరియు కోతి భూమిలో ఉంటారు.",
+                "ur": "مچھلی پانی میں رہتی ہیں، جبکہ شیر، ہاتھی، اور بندر زمین پر رہتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following animals live in water?",
+                "te": "కింద ఉన్న వ్యక్తులు నీటిలో ఉంటారు?",
+                "ur": "میں سے کونسا جانور پانی میں رہتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Lion",
+                    "te": "సింహం",
+                    "ur": "شیر"
+                },
+                "B": {
+                    "en": "Fish",
+                    "te": "చేప",
+                    "ur": "مچھلی"
+                },
+                "C": {
+                    "en": "Elephant",
+                    "te": "ఆనె",
+                    "ur": "ہاتھی"
+                },
+                "D": {
+                    "en": "Monkey",
+                    "te": "కోతి",
+                    "ur": "بندر"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Fish live in water as they have gills to breathe underwater.",
+                "te": "చేపలు నీటిలో ఉంటాయి అందువల్ల అవారికి నీటి ఆడపులో ఊపుకోవడానికి చిగురులు ఉన్నాయి.",
+                "ur": "مچھلیاں پانی میں رہتی ہیں کیونکہ ان کے پاس پانی میں سانس لینے کے لئے ڈیم ہوتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following animals live in water?",
+                "te": "తరువాత ప్రాణువులు ఏది నీరులో ఉంటాయి?",
+                "ur": "میں سے کونسا جانور پانی میں رہتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Lion",
+                    "te": "సింహం",
+                    "ur": "شیر"
+                },
+                "B": {
+                    "en": "Fish",
+                    "te": "చేప",
+                    "ur": "مچھلی"
+                },
+                "C": {
+                    "en": "Elephant",
+                    "te": "ఆనె",
+                    "ur": "ہاتھی"
+                },
+                "D": {
+                    "en": "Monkey",
+                    "te": "కోతి",
+                    "ur": "بندر"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Fish live in water, while lion, elephant, and monkey live on land.",
+                "te": "చేపలు నీటిలో ఉంటాయి, సింహం, ఆనె, మరియు కోతి భూమిలో ఉంటాయి.",
+                "ur": "مچھلی پانی میں رہتی ہے، جبکہ شیر، ہاتھی، اور بندر زمین پر رہتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following animals live in water?",
+                "te": "తరువాత ప్రాణువులు ఎవరు నీటిలో ఉంటారు?",
+                "ur": "میں سے کونسے جانور پانی میں رہتے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Lion",
+                    "te": "సింహం",
+                    "ur": "شیر"
+                },
+                "B": {
+                    "en": "Fish",
+                    "te": "చేప",
+                    "ur": "مچھلی"
+                },
+                "C": {
+                    "en": "Elephant",
+                    "te": "ఏనుగు",
+                    "ur": "ہاتھی"
+                },
+                "D": {
+                    "en": "Monkey",
+                    "te": "కోతి",
+                    "ur": "بندر"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Fish live in water, whereas lion, elephant, and monkey live on land.",
+                "te": "చేపలు నీటిలో ఉంటాయి, అయితే సింహం, ఏనుగు మరియు కోతి భూమిలో ఉంటారు.",
+                "ur": "مچھلی پانی میں رہتی ہیں، جبکہ شیر، ہاتھی اور بندر زمین پر رہتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following animals live in water?",
+                "te": "కింద వ్యాప్తిలో ఉన్న పశువులు ఏది?",
+                "ur": "میں سے کون سے جانور پانی میں رہتے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Lion",
+                    "te": "సింహం",
+                    "ur": "شیر"
+                },
+                "B": {
+                    "en": "Fish",
+                    "te": "చేప",
+                    "ur": "مچھلی"
+                },
+                "C": {
+                    "en": "Elephant",
+                    "te": "ఆనె",
+                    "ur": "ہاتھی"
+                },
+                "D": {
+                    "en": "Monkey",
+                    "te": "కోతి",
+                    "ur": "بندر"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Fish live in water as they have gills to breathe underwater.",
+                "te": "చేపలు నీరులో ఉంటాయి అవి నీటిలో ఊపి స్వాస్థ్యం చేయడానికి గిల్లులు ఉంటాయి.",
+                "ur": "مچھلی پانی میں رہتی ہیں کیونکہ ان کے پاس پانی میں سانس لینے کے لئے کان ہوتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following animals live in water?",
+                "te": "కింద ఉన్న పశువులో ఎవరు నీటిలో ఉంటారు?",
+                "ur": "میں سے کونسا جانور پانی میں رہتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Lion",
+                    "te": "సింహం",
+                    "ur": "شیر"
+                },
+                "B": {
+                    "en": "Fish",
+                    "te": "చేప",
+                    "ur": "مچھلی"
+                },
+                "C": {
+                    "en": "Elephant",
+                    "te": "ఏరుగుడు",
+                    "ur": "ہاتھی"
+                },
+                "D": {
+                    "en": "Monkey",
+                    "te": "కోతి",
+                    "ur": "بندر"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Fish live in water bodies like rivers, lakes, and oceans.",
+                "te": "చేపలు నదులు, సరస్సులు మరియు సముద్రాలలో ఉంటాయి.",
+                "ur": "مچھلیاں ندیوں، جھیلوں، اور سمندر میں رہتی ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        }
+    ]
+}

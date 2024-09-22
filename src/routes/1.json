@@ -1,0 +1,304 @@
+{
+  "comprehensions": [
+    {
+      "comprehension": "Once upon a time, in a faraway kingdom, there lived a kind and wise king. He was loved by all his people. One day, he decided to take a journey across his kingdom to meet the people and listen to their needs. He traveled through villages and cities, helping those in need and ensuring that everyone was happy. On his return, the king threw a grand feast and promised to continue serving his people with kindness and wisdom.",
+      "questions": [
+        {
+          "question": "Where did the king live?",
+          "options": {
+            "A": "In a small village",
+            "B": "In a faraway kingdom",
+            "C": "In a grand castle",
+            "D": "In a nearby city"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage clearly mentions that the king lived in a faraway kingdom."
+        },
+        {
+          "question": "What was the king known for?",
+          "options": {
+            "A": "His bravery",
+            "B": "His kindness and wisdom",
+            "C": "His wealth",
+            "D": "His strength"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage describes the king as kind and wise, which is why he was loved by his people."
+        },
+        {
+          "question": "Why did the king travel across his kingdom?",
+          "options": {
+            "A": "To collect taxes",
+            "B": "To meet his people and listen to their needs",
+            "C": "To find a new palace",
+            "D": "To visit his relatives"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage says that the king traveled to meet his people and listen to their needs."
+        },
+        {
+          "question": "What did the king do after returning from his journey?",
+          "options": {
+            "A": "Built a new castle",
+            "B": "Threw a grand feast",
+            "C": "Declared war on a neighboring kingdom",
+            "D": "Went on another journey"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage mentions that the king threw a grand feast after returning from his journey."
+        },
+        {
+          "question": "What promise did the king make?",
+          "options": {
+            "A": "To continue serving his people with kindness and wisdom",
+            "B": "To never leave the kingdom again",
+            "C": "To reduce taxes",
+            "D": "To expand the kingdom"
+          },
+          "correct_answer": "A",
+          "explanation": "The passage ends with the king promising to continue serving his people with kindness and wisdom."
+        }
+      ]
+    },
+    {
+      "comprehension": "On a bright sunny day, Lucy decided to go for a walk in the park. The park was filled with blooming flowers and tall trees. She sat on a bench, watching the birds fly by. Suddenly, she heard a soft meow and saw a tiny kitten stuck in a tree. Lucy immediately called the park ranger, who came and rescued the kitten. Grateful, the kitten followed Lucy for the rest of the day.",
+      "questions": [
+        {
+          "question": "Where did Lucy decide to go?",
+          "options": {
+            "A": "To the beach",
+            "B": "To a friend's house",
+            "C": "To the park",
+            "D": "To the mountains"
+          },
+          "correct_answer": "C",
+          "explanation": "The passage states that Lucy decided to go for a walk in the park."
+        },
+        {
+          "question": "What did Lucy see in the park?",
+          "options": {
+            "A": "A dog running",
+            "B": "A kitten stuck in a tree",
+            "C": "A group of people",
+            "D": "A kite flying"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage describes how Lucy saw a kitten stuck in a tree."
+        },
+        {
+          "question": "Who did Lucy call for help?",
+          "options": {
+            "A": "Her friend",
+            "B": "The park ranger",
+            "C": "Her mother",
+            "D": "The police"
+          },
+          "correct_answer": "B",
+          "explanation": "Lucy called the park ranger to help rescue the kitten."
+        },
+        {
+          "question": "What happened after the kitten was rescued?",
+          "options": {
+            "A": "It ran away",
+            "B": "It followed Lucy",
+            "C": "It went back to the tree",
+            "D": "It went to sleep"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage explains that the grateful kitten followed Lucy for the rest of the day."
+        },
+        {
+          "question": "What kind of day was it?",
+          "options": {
+            "A": "Rainy",
+            "B": "Cloudy",
+            "C": "Windy",
+            "D": "Sunny"
+          },
+          "correct_answer": "D",
+          "explanation": "The passage begins by stating it was a bright sunny day."
+        }
+      ]
+    },
+    {
+      "comprehension": "Tim loved building things. He had a big collection of blocks at home. One day, he decided to build the tallest tower he could. He carefully stacked block after block, making sure they didn’t fall. When the tower was as tall as him, Tim cheered in excitement. But just as he was about to add the last block, the tower wobbled and fell to the ground. Tim wasn’t sad though. He smiled and started building again.",
+      "questions": [
+        {
+          "question": "What did Tim love to do?",
+          "options": {
+            "A": "Play video games",
+            "B": "Build things",
+            "C": "Draw pictures",
+            "D": "Read books"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage mentions that Tim loved building things."
+        },
+        {
+          "question": "What did Tim decide to build?",
+          "options": {
+            "A": "A car",
+            "B": "A house",
+            "C": "The tallest tower he could",
+            "D": "A castle"
+          },
+          "correct_answer": "C",
+          "explanation": "The passage says Tim decided to build the tallest tower he could."
+        },
+        {
+          "question": "What happened when Tim added the last block?",
+          "options": {
+            "A": "The tower stayed standing",
+            "B": "The tower wobbled and fell",
+            "C": "The tower broke in half",
+            "D": "The blocks disappeared"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage states that the tower wobbled and fell just as Tim was about to add the last block."
+        },
+        {
+          "question": "How did Tim react when the tower fell?",
+          "options": {
+            "A": "He cried",
+            "B": "He got angry",
+            "C": "He smiled and started building again",
+            "D": "He went to play something else"
+          },
+          "correct_answer": "C",
+          "explanation": "Tim wasn’t sad when the tower fell. He smiled and started building again."
+        },
+        {
+          "question": "What was Tim’s tower as tall as?",
+          "options": {
+            "A": "As tall as him",
+            "B": "As tall as a tree",
+            "C": "As tall as a chair",
+            "D": "As tall as a house"
+          },
+          "correct_answer": "A",
+          "explanation": "The passage states that the tower was as tall as Tim."
+        }
+      ]
+    },
+    {
+      "comprehension": "Mia had a garden full of beautiful flowers. Every day, she would water them and make sure they got plenty of sunlight. Her favorite flowers were the sunflowers, which grew taller than her. One morning, Mia noticed that some of the flowers were wilting. She quickly fetched her watering can and gave them extra water. By the next day, the flowers were looking bright and healthy again.",
+      "questions": [
+        {
+          "question": "What did Mia have?",
+          "options": {
+            "A": "A garden full of beautiful flowers",
+            "B": "A house full of pets",
+            "C": "A collection of books",
+            "D": "A basket of fruits"
+          },
+          "correct_answer": "A",
+          "explanation": "The passage states that Mia had a garden full of beautiful flowers."
+        },
+        {
+          "question": "What were Mia's favorite flowers?",
+          "options": {
+            "A": "Roses",
+            "B": "Tulips",
+            "C": "Sunflowers",
+            "D": "Daisies"
+          },
+          "correct_answer": "C",
+          "explanation": "The passage mentions that Mia’s favorite flowers were the sunflowers."
+        },
+        {
+          "question": "What did Mia do when the flowers were wilting?",
+          "options": {
+            "A": "Picked the flowers",
+            "B": "Watered them",
+            "C": "Moved them to the shade",
+            "D": "Cut them"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage says that Mia watered the flowers when she noticed they were wilting."
+        },
+        {
+          "question": "How did the flowers look the next day?",
+          "options": {
+            "A": "Wilted",
+            "B": "Bright and healthy",
+            "C": "Dried up",
+            "D": "Unchanged"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage mentions that by the next day, the flowers were looking bright and healthy."
+        },
+        {
+          "question": "What did Mia do every day?",
+          "options": {
+            "A": "Read books",
+            "B": "Played with her pets",
+            "C": "Watered her flowers",
+            "D": "Painted pictures"
+          },
+          "correct_answer": "C",
+          "explanation": "Mia watered her flowers every day, as stated in the passage."
+        }
+      ]
+    },
+    {
+      "comprehension": "Tommy had always dreamed of flying. He loved watching airplanes and birds soar through the sky. One day, his father took him to the local airshow. Tommy was thrilled! He saw planes of all shapes and sizes doing tricks in the air. His favorite moment was when a big red plane zoomed by, leaving trails of white smoke in the sky. Tommy decided that when he grew up, he would become a pilot and fly planes just like the ones he saw at the airshow.",
+      "questions": [
+        {
+          "question": "What did Tommy dream of doing?",
+          "options": {
+            "A": "Sailing a ship",
+            "B": "Flying",
+            "C": "Driving a car",
+            "D": "Riding a bike"
+          },
+          "correct_answer": "B",
+          "explanation": "The passage states that Tommy always dreamed of flying."
+        },
+        {
+          "question": "Where did Tommy's father take him?",
+          "options": {
+            "A": "To the zoo",
+            "B": "To a museum",
+            "C": "To an airshow",
+            "D": "To a concert"
+          },
+          "correct_answer": "C",
+          "explanation": "The passage says that Tommy’s father took him to the local airshow."
+        },
+        {
+          "question": "What was Tommy's favorite moment?",
+          "options": {
+            "A": "Watching birds fly",
+            "B": "Seeing a big red plane zoom by",
+            "C": "Meeting a pilot",
+            "D": "Eating ice cream"
+          },
+          "correct_answer": "B",
+          "explanation": "Tommy’s favorite moment was when a big red plane zoomed by, leaving trails of smoke."
+        },
+        {
+          "question": "What did Tommy decide to become when he grew up?",
+          "options": {
+            "A": "A teacher",
+            "B": "A doctor",
+            "C": "A pilot",
+            "D": "A chef"
+          },
+          "correct_answer": "C",
+          "explanation": "The passage mentions that Tommy decided to become a pilot when he grew up."
+        },
+        {
+          "question": "What did the big red plane leave in the sky?",
+          "options": {
+            "A": "Nothing",
+            "B": "Clouds",
+            "C": "White smoke trails",
+            "D": "Balloons"
+          },
+          "correct_answer": "C",
+          "explanation": "The passage says the big red plane left trails of white smoke in the sky."
+        }
+      ]
+    }
+  ]
+}

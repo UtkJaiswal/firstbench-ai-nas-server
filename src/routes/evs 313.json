@@ -1,0 +1,417 @@
+{
+    "subject": "I EVS(ENVIRONMENTAL SCIENCE)",
+    "grade": "3rd  grade",
+    "learning_outcome": "Observes rules in games (local, indoor, outdoor).",
+    "questions": [
+        {
+            "question": {
+                "en": "Which of the following is an outdoor game?",
+                "te": "కింద పేరులో ఏది బాహ్య ఆట?",
+                "ur": "مندرجہ ذیل میں سے کون سا باہر کا کھیل ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Chess",
+                    "te": "చదువు",
+                    "ur": "شطرنج"
+                },
+                "B": {
+                    "en": "Football",
+                    "te": "ఫుట్‌బాల్",
+                    "ur": "فٹ بال"
+                },
+                "C": {
+                    "en": "Carrom",
+                    "te": "క్యారం",
+                    "ur": "کیرم"
+                },
+                "D": {
+                    "en": "Ludo",
+                    "te": "లూడో",
+                    "ur": "لوڈو"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Football is an outdoor game that is played on a field or ground.",
+                "te": "ఫుట్‌బాల్ ఒక బాహ్య ఆటము మరియు అది ఒక ఫీల్డ్ లేదా భూమిలో ఆడతారు.",
+                "ur": "فٹ بال ایک باہری کھیل ہے جو ایک میدان یا زمین پر کھیلا جاتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an outdoor game?",
+                "te": "కింద వ్యాప్తంగా వ్యామ్సంలోని ఒకటి ఏది?",
+                "ur": "مندرجہ ذیل میں سے کون سا باہری کھیل ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Chess",
+                    "te": "చదువు",
+                    "ur": "شطرنج"
+                },
+                "B": {
+                    "en": "Hide and Seek",
+                    "te": "దాచి మరియు కనుగొను",
+                    "ur": "چھپانے اور ڈھونڈنے"
+                },
+                "C": {
+                    "en": "Carrom",
+                    "te": "క్యారమ్",
+                    "ur": "کیرم"
+                },
+                "D": {
+                    "en": "Ludo",
+                    "te": "లుడో",
+                    "ur": "لودو"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Hide and Seek is an outdoor game where players hide and others seek to find them.",
+                "te": "దాచి మరియు కనుగొను ఒక బాహ్య ఆట, ఖిలాడులు దాచి ఇతరులు వారిని కనుగొనుటకు శోధించుకుంటారు.",
+                "ur": "چھپانے اور ڈھونڈنے ایک باہری کھیل ہے جہاں کھلاڑی چھپتے ہیں اور دوسرے انہیں تلاش کرتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of an outdoor game?",
+                "te": "కింద పేరులో ఏది ఒక బాహ్య ఆట?",
+                "ur": "مندرجہ ذیل میں سے کون سا ایک باہری کھیل کا نمونہ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Chess",
+                    "te": "చదువు",
+                    "ur": "شطرنج"
+                },
+                "B": {
+                    "en": "Hide and Seek",
+                    "te": "దాచుకొని చూపి",
+                    "ur": "چھپان چھپی"
+                },
+                "C": {
+                    "en": "Carrom",
+                    "te": "క్యారం",
+                    "ur": "کیرم"
+                },
+                "D": {
+                    "en": "Ludo",
+                    "te": "లుడో",
+                    "ur": "لوڈو"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Hide and Seek is an outdoor game where players hide and others seek them.",
+                "te": "దాచుకొని చూపి ఒక బాహ్య ఆటకు ఆడుతుంది అంతేకాక Hide and Seek ఖేళాడులు దాచుకొని ఇతరులను చూస్తారు.",
+                "ur": "چھپان چھپی ایک باہری کھیل ہے جہاں کھلاڑی چھپتے ہیں اور دوسروں کو تلاش کرتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is an important rule to follow while playing indoor games?",
+                "te": "ఇండోర్ ఆటలు ఆడుటపై పాటు పాటు అనుసరించాల్సిన ముఖ్యమైన నియమం ఏమిటి?",
+                "ur": "انڈور کھیلوں کھیلتے وقت ایک اہم قاعدہ کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Wear shoes",
+                    "te": "షూజులు వేసుకోండి",
+                    "ur": "جوتے پہننا"
+                },
+                "B": {
+                    "en": "Respect opponents",
+                    "te": "ప్రతిద్వన్ద్వులను మానించండి",
+                    "ur": "مخالفین کا احترام کریں"
+                },
+                "C": {
+                    "en": "Eat during the game",
+                    "te": "ఆట ఆడుటలో తినండి",
+                    "ur": "کھیل کے دوران کھانا"
+                },
+                "D": {
+                    "en": "Ignore rules",
+                    "te": "నియమాలను పరిగణించండి",
+                    "ur": "قوانین کو نظرانداز کریں"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Respecting opponents is an important rule to follow while playing indoor games as it promotes fair play and sportsmanship.",
+                "te": "ప్రతిద్వన్ద్వులను మానించడం ఇండోర్ ఆటలు ఆడుటపై పాటు పాటు అనుసరించాల్సిన ముఖ్యమైన నియమం.",
+                "ur": "مخالفین کا احترام کرنا انڈور کھیلوں کھیلتے وقت ایک اہم قاعدہ ہے کیونکہ یہ منصفانہ کھیل اور کھلاڑی پن کو فروغ دیتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a rule in a local game?",
+                "te": "కింద పేర్కొనుటకు భారీగా ఏది ఒక నియమం?",
+                "ur": "مقامی کھیل میں سے کون سا قاعدہ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Wearing a helmet while cycling",
+                    "te": "సైకిల్ రైడర్లు హెల్మెట్ ధరించడం",
+                    "ur": "سائیکل چلاتے وقت ہیلمٹ پہننا"
+                },
+                "B": {
+                    "en": "Playing with sharp objects",
+                    "te": "తీరులతో ఆడడం",
+                    "ur": "تیز آلات کے ساتھ کھیلنا"
+                },
+                "C": {
+                    "en": "Following traffic signals",
+                    "te": "ట్రాఫిక్ సిగ్నల్స్ అనుసరించడం",
+                    "ur": "ٹریفک سگنلوں کا پیروی کرنا"
+                },
+                "D": {
+                    "en": "Ignoring safety rules",
+                    "te": "భద్రత నియమాలను పరిగణించడం",
+                    "ur": "سیفٹی قوانین کی نظر انداز کرنا"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Wearing a helmet while cycling is a safety rule in local games to protect the head from injuries.",
+                "te": "సైకిల్ రైడర్లు సైకిల్ చేస్తూ హెల్మెట్ ధరించటం తలను గాయముల నుండి రక్షించడానికి ఒక సురక్షా నియమం.",
+                "ur": "سائیکل چلاتے وقت ہیلمٹ پہننا مقامی کھیلوں میں سر کو زخموں سے بچانے کا ایک سیفٹی قاعدہ ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an outdoor game?",
+                "te": "కింద పేరులో ఏది బాహ్య ఆట?",
+                "ur": "مندرجہ ذیل میں سے کون سا باہری کھیل ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Chess",
+                    "te": "చెస్",
+                    "ur": "شطرنج"
+                },
+                "B": {
+                    "en": "Football",
+                    "te": "ఫుట్బాల్",
+                    "ur": "فٹ بال"
+                },
+                "C": {
+                    "en": "Carrom",
+                    "te": "క్యారమ్",
+                    "ur": "کیرم"
+                },
+                "D": {
+                    "en": "Ludo",
+                    "te": "లుడో",
+                    "ur": "لوڈو"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Football is an outdoor game that is played on a field or ground.",
+                "te": "ఫుట్బాల్ ఒక బాహ్య ఆటవారం అయినది, అది ఒక ఫీల్డ్ లో లేదా స్థలంలో ఆడుతారు.",
+                "ur": "فٹ بال ایک باہری کھیل ہے جو ایک میدان یا زمین پر کھیلا جاتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an outdoor game?",
+                "te": "కింద పేరులో ఏది బాహ్య ఆట?",
+                "ur": "مندرجہ ذیل میں سے کون سا باہری کھیل ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Chess",
+                    "te": "చెస్",
+                    "ur": "شطرنج"
+                },
+                "B": {
+                    "en": "Football",
+                    "te": "ఫుట్‌బాల్",
+                    "ur": "فٹ بال"
+                },
+                "C": {
+                    "en": "Carrom",
+                    "te": "క్యారం",
+                    "ur": "کیرم"
+                },
+                "D": {
+                    "en": "Ludo",
+                    "te": "లూడో",
+                    "ur": "لوڈو"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Football is an outdoor game that is played on a field.",
+                "te": "ఫుట్‌బాల్ ఒక బాహ్య ఆటవే అటువంటి ప్రదేశంలో ఆడబడుతుంది.",
+                "ur": "فٹ بال ایک باہری کھیل ہے جو کھیل کے میدان پر کھیلا جاتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of an outdoor game?",
+                "te": "కింద పేరులో ఏది ఒక బాహ్య ఆట?",
+                "ur": "مندرجہ ذیل میں سے کون سا ایک باہری کھیل کا نمونہ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Chess",
+                    "te": "చదువు",
+                    "ur": "شطرنج"
+                },
+                "B": {
+                    "en": "Hide and Seek",
+                    "te": "దాచుకుంటే కనుగు",
+                    "ur": "چھپان چھپی"
+                },
+                "C": {
+                    "en": "Carrom",
+                    "te": "క్యారం",
+                    "ur": "کیرم"
+                },
+                "D": {
+                    "en": "Ludo",
+                    "te": "లుడో",
+                    "ur": "لودو"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Hide and Seek is an example of an outdoor game where players hide and others seek them.",
+                "te": "దాచుకుంటే కనుగు ఖేళనాన్ని ఒక బాహ్య ఆట నమ్మకండి ప్రదర్శిస్తుంది స్థానాలు దాచి మరియు ఇతరులు అవినీతంగా అవినీతం చేయవచ్చు.",
+                "ur": "چھپان چھپی ایک باہری کھیل کا نمونہ ہے جہاں کھلاڑی چھپتے ہیں اور دوسرے انہیں تلاش کرتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of an outdoor game?",
+                "te": "కింద పేరులో ఏమిటి ఒక బాహ్య ఆట?",
+                "ur": "مندرجہ ذیل میں سے کون سا باہر کا کھیل کا مثال ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Chess",
+                    "te": "చదువు",
+                    "ur": "شطرنج"
+                },
+                "B": {
+                    "en": "Hide and Seek",
+                    "te": "దాచి చూపించు",
+                    "ur": "چھپانچھپائی"
+                },
+                "C": {
+                    "en": "Ludo",
+                    "te": "లుడో",
+                    "ur": "لڈو"
+                },
+                "D": {
+                    "en": "Carrom",
+                    "te": "క్యారమ్",
+                    "ur": "کیرم"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Hide and Seek is an outdoor game where players hide and others seek them.",
+                "te": "దాచి చూపించు ఒక బాహ్య ఆటా అయితే, ఆటాగారు దాచి మరియు ఇతరులు వారిని కనుగొనుటకు పోయినా ఆటాడటం ఉంటుంది.",
+                "ur": "چھپانچھپائی ایک باہر کا کھیل ہے جہاں کھلاڑی چھپتے ہیں اور دوسرے انہیں ڈھونڈتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of an outdoor game?",
+                "te": "కింద పేరులో ఏది ఒక బాహ్య ఆట?",
+                "ur": "مندرجہ ذیل میں سے کون سا ایک باہری کھیل کا نمونہ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Chess",
+                    "te": "చెస్",
+                    "ur": "شطرنج"
+                },
+                "B": {
+                    "en": "Hopscotch",
+                    "te": "హాప్‌స్కాచ్",
+                    "ur": "ہاپسکاچ"
+                },
+                "C": {
+                    "en": "Ludo",
+                    "te": "లూడో",
+                    "ur": "لودو"
+                },
+                "D": {
+                    "en": "Carrom",
+                    "te": "క్యారమ్",
+                    "ur": "کیرم"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Hopscotch is an example of an outdoor game where players hop on one foot and try to reach the end without stepping on the lines.",
+                "te": "హాప్‌స్కాచ్ ఒక బాహ్య ఆట ఉదాహరణగా ఉంది అంటే ఆటకుట్టువారు ఒక పాదమీద ఉడికి పోతుంటారు మరియు రేఖలపై పడకుండా ముగిసేందుకు ప్రయత్నిస్తారు.",
+                "ur": "ہاپسکاچ ایک باہری کھیل کا نمونہ ہے جہاں کھلاڑی ایک پائی کے اوپر اچھلتے ہیں اور لائنوں پر قدم نہ رکھ کر اختتام تک پہنچنے کی کوشش کرتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        }
+    ]
+}

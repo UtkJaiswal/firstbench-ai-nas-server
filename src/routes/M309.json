@@ -1,0 +1,417 @@
+{
+    "subject": "mathematics",
+    "grade": "3rd  grade",
+    "learning_outcome": "Identifies and makes 2D shapes by paper folding, paper cutting, and other dot grids using straight lines, etc.",
+    "questions": [
+        {
+            "question": {
+                "en": "Which shape can be made by folding a paper in half?",
+                "te": "పేపర్ను అర విభాగం చేసి ఏ ఆకారం చేసుకుంది?",
+                "ur": "ایک کاغذ کو آدھا کرکے کون سا شکل بنایا جا سکتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Square",
+                    "te": "చదరం",
+                    "ur": "مربع"
+                },
+                "B": {
+                    "en": "Rectangle",
+                    "te": "రెక్టంగులారు",
+                    "ur": "چوڑا"
+                },
+                "C": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "تکون"
+                },
+                "D": {
+                    "en": "Circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "When you fold a paper in half, it creates a symmetrical shape like a square.",
+                "te": "మీరు పేపర్ను అర విభాగం చేస్తే, అది చదరం వంటి సమమైన ఆకారం రూపొందిస్తుంది.",
+                "ur": "جب آپ ایک کاغذ کو آدھا کرتے ہیں، تو یہ مربع جیسا اتنطاری شکل بناتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape can be made by folding a piece of paper in half?",
+                "te": "ఒక పేపర్ ప్రతిస్థాపనం చేసినప్పుడు ఎన్ని ఆకారాలు చేసుకుంది?",
+                "ur": "ایک شیٹ کاغذ کو آدھا کرکے کون سا شکل بنایا جا سکتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "تکون"
+                },
+                "B": {
+                    "en": "Square",
+                    "te": "చదరం",
+                    "ur": "مربع"
+                },
+                "C": {
+                    "en": "Circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                },
+                "D": {
+                    "en": "Rectangle",
+                    "te": "అంగుళం ఆకారం",
+                    "ur": "چوکور"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "When you fold a piece of paper in half, you can make a square by aligning the edges.",
+                "te": "మీరు పేపర్ ప్రతిస్థాపించినప్పుడు, అవసరమైన అంగాలను అదేలా ఉంచి చదరాన్ని తయారు చేయవచ్చు.",
+                "ur": "جب آپ ایک شیٹ کاغذ کو آدھا کرتے ہیں، تو آپ کناروں کو ملاتے ہوئے ایک مربع بنا سکتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape can be made by folding a paper in half and cutting it along a straight line?",
+                "te": "పేపర్ను అర్ధం చేసి మీద ఒక సరళ రేఖతో కత్తి పెట్టి ఎన్ని ఆకారాలు చేయగలం?",
+                "ur": "کون سا شکل کاغذ کو آدھا کر کے اور ایک سیدھی لکیر کے ساتھ کاٹ کر بنایا جا سکتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "تکون"
+                },
+                "B": {
+                    "en": "Square",
+                    "te": "చదరం",
+                    "ur": "مربع"
+                },
+                "C": {
+                    "en": "Rectangle",
+                    "te": "అంగులం",
+                    "ur": "مستطیل"
+                },
+                "D": {
+                    "en": "Circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "When you fold a paper in half and cut along a straight line, you will get a triangle shape.",
+                "te": "మీరు పేపర్ను అర్ధం చేసి సరళ రేఖతో కత్తి పెట్టినప్పుడు, మీరు త్రిభుజం ఆకారానికి వచ్చినట్లుంది.",
+                "ur": "جب آپ کاغذ کو آدھا کر کے اور ایک سیدھی لکیر کے ساتھ کاٹیں، تو آپ کو تکون شکل ملے گی۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape can be made by folding a paper in half and cutting along the fold? ",
+                "te": "ఒక కాగజాన్ని అర్ధం చేసి అది ముందుకు కత్తి వేయితే ఏ ఆకారం రావచ్చు?",
+                "ur": "ایک کاغذ کو آدھا کرکے اور اس پر کاٹ کر کونسا شکل بنا سکتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Square",
+                    "te": "చదరం",
+                    "ur": "مربع"
+                },
+                "B": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "تکون"
+                },
+                "C": {
+                    "en": "Rectangle",
+                    "te": "అంగుళం ఆకారం",
+                    "ur": "چوکور"
+                },
+                "D": {
+                    "en": "Circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "When you fold a paper in half and cut along the fold, you get a symmetrical shape, which is a square.",
+                "te": "మీరు ఒక కాగజాన్ని అర్ధం చేసి అది ముందుకు కత్తి వేస్తే, మీరు సమవ్యాసాకారం పొందుతుంది, అది ఒక చదరం.",
+                "ur": "جب آپ ایک کاغذ کو آدھا کرکے اور اس پر کاٹ کرتے ہیں، تو آپ کو ایک تشاکلی شکل ملتی ہے، جو کہ مربع ہوتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape can be made by folding a paper in half and cutting along the folded line?",
+                "te": "పేపర్ను అర్ధం చేసి తరువాత అద్దాలు చేసినప్పుడు ఏ ఆకారం రూపొచ్చినటువంటి?",
+                "ur": "کس شکل کو نصف کر کے کاٹنے سے بنایا جا سکتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Square",
+                    "te": "చదరం",
+                    "ur": "مربع"
+                },
+                "B": {
+                    "en": "Rectangle",
+                    "te": "రిట్టికల్",
+                    "ur": "چوک"
+                },
+                "C": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "تکون"
+                },
+                "D": {
+                    "en": "Circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "When you fold a paper in half and cut along the folded line, you get a rectangle shape.",
+                "te": "మీరు పేపర్ను అర్ధం చేసి అద్దాలు చేస్తే, మీరు ఒక రిట్టికల్ ఆకారం పొందుతారు.",
+                "ur": "جب آپ کاغذ کو نصف کر کے کاٹتے ہیں، تو آپ کو چوک شکل ملتی ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape can be made by folding a paper in half?",
+                "te": "ఒక కాగజాన్ని అర్ధం చేసి ఎన్ని ఆకారాలు చేయవచ్చు?",
+                "ur": "ایک کاغذ کو آدھا کر کے کون سا شکل بنایا جا سکتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "تکون"
+                },
+                "B": {
+                    "en": "Square",
+                    "te": "చదరం",
+                    "ur": "مربع"
+                },
+                "C": {
+                    "en": "Circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                },
+                "D": {
+                    "en": "Rectangle",
+                    "te": "అంగులం",
+                    "ur": "مستطیل"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "When you fold a paper in half, you can make a square by joining the opposite edges.",
+                "te": "మీరు ఒక కాగజాన్ని అర్ధం చేసితే, విరుద్ధమైన అంగాలను జోడించి ఒక చదరం చేయవచ్చు.",
+                "ur": "جب آپ ایک کاغذ کو آدھا کرتے ہیں، تو آپ مخالف کناروں کو جوڑ کر ایک مربع بنا سکتے ہیں۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape can be made by folding a paper in half and cutting along the fold?",
+                "te": "పేపర్ను అర్ధం చేసి కత్తి వేయితే ఏ ఆకారం ఉంటుంది?",
+                "ur": "کس شکل بنایا جا سکتا ہے جب کاغذ کو آدھا کر کے کاٹا جائے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Circle",
+                    "te": "సర్కిల్",
+                    "ur": "دائرہ"
+                },
+                "B": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "تکون"
+                },
+                "C": {
+                    "en": "Square",
+                    "te": "చదరం",
+                    "ur": "مربع"
+                },
+                "D": {
+                    "en": "Rectangle",
+                    "te": "రెక్టంగులర్",
+                    "ur": "مستطیل"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "When you fold a paper in half and cut along the fold, you get a square shape.",
+                "te": "మీరు పేపర్ను అర్ధం చేసి కత్తి వేస్తే, మీరు చదరం ఆకారం పొందతారు.",
+                "ur": "جب آپ کاغذ کو آدھا کر کے کاٹتے ہیں، آپ کو مربع شکل ملتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape can be made by folding a paper in half and cutting along the fold?",
+                "te": "ఒక కాగజాన్ని అర్ధం చేసి ఆరంభంలో కట్టినప్పుడు ఏ ఆకారాన్ని తయారు చేయవచ్చు?",
+                "ur": "ایک کاغذ کو آدھا کرکے اور اس پر کاٹ کر کون سا شکل بنایا جا سکتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "تکون"
+                },
+                "B": {
+                    "en": "Rectangle",
+                    "te": "అంగులంలో",
+                    "ur": "مستطیل"
+                },
+                "C": {
+                    "en": "Square",
+                    "te": "చదరం",
+                    "ur": "مربع"
+                },
+                "D": {
+                    "en": "Circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "When a paper is folded in half and cut along the fold, it creates a rectangle shape.",
+                "te": "ఒక కాగజాన్ని అర్ధం చేసి కట్టినప్పుడు, అది ఒక అంగులం ఆకారాన్ని సృష్టించును.",
+                "ur": "ایک کاغذ کو آدھا کرکے اور اس پر کاٹنے پر، یہ ایک مستطیل شکل بناتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape can be made by folding a paper in half?",
+                "te": "ఒక కాగజాన్ని అర్ధమాత్రం విస్తరించి ఎన్ని ఆకారాలు రూపొచ్చి ఉంటాయి?",
+                "ur": "ایک کاغذ کو آدھا کر کے کون سا شکل بنایا جا سکتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజము",
+                    "ur": "تکون"
+                },
+                "B": {
+                    "en": "Square",
+                    "te": "చదరం",
+                    "ur": "مربع"
+                },
+                "C": {
+                    "en": "Circle",
+                    "te": "వృత్తము",
+                    "ur": "دائرہ"
+                },
+                "D": {
+                    "en": "Rectangle",
+                    "te": "ఆయతము",
+                    "ur": "مستطیل"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "When you fold a paper in half, you can create a square shape.",
+                "te": "మీరు ఒక కాగజాన్ని అర్ధమాత్రం విస్తరించినప్పుడు, మీరు చదరం ఆకారాన్ని రూపొచ్చవచ్చు.",
+                "ur": "جب آپ ایک کاغذ کو آدھا کرتے ہیں، آپ ایک مربع شکل بنا سکتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape can be made by folding a paper in half?",
+                "te": "పేపర్ను అర్ధం చేసి ఏ ఆకారం తయారు చేయగలం?",
+                "ur": "کس شکل کو نصف کرکے کاغذ میں بنایا جا سکتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "تکون"
+                },
+                "B": {
+                    "en": "Square",
+                    "te": "చదరం",
+                    "ur": "مربع"
+                },
+                "C": {
+                    "en": "Circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                },
+                "D": {
+                    "en": "Rectangle",
+                    "te": "అంగులం",
+                    "ur": "مستطیل"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "When folding a paper in half, it creates a square shape.",
+                "te": "పేపర్ను అర్ధం చేసినప్పుడు, అది చదరం ఆకారం తయారవుతుంది.",
+                "ur": "کاغذ کو نصف کرنے پر، یہ مربع شکل بناتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        }
+    ]
+}

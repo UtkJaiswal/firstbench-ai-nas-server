@@ -1,0 +1,417 @@
+{
+    "subject": "mathematics",
+    "grade": "3rd  grade",
+    "learning_outcome": "Explains the meaning of division facts by equal grouping/sharing and finds it by repeated subtraction.",
+    "questions": [
+        {
+            "question": {
+                "en": "If there are 15 candies and 3 friends want to share them equally, how many candies will each friend get?",
+                "te": "ఉండే 15 క్యాండీలు ఉన్నాయి మరియు 3 స్నేహితులు వాటిని సమానంగా భాగం చేయాలనుకుంటున్నారు, ప్రతి స్నేహితుడు ఏమి పొందుతాడు?",
+                "ur": "اگر 15 کینڈیاں ہوں اور 3 دوست برابر تقسیم کرنا چاہتے ہیں، تو ہر دوست کو کتنی کینڈیاں ملیں گی؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3 candies each",
+                    "te": "ప్రతి వ్యక్తికి 3 క్యాండీలు",
+                    "ur": "ہر شخص کو 3 کینڈیاں"
+                },
+                "B": {
+                    "en": "5 candies each",
+                    "te": "ప్రతి వ్యక్తికి 5 క్యాండీలు",
+                    "ur": "ہر شخص کو 5 کینڈیاں"
+                },
+                "C": {
+                    "en": "7 candies each",
+                    "te": "ప్రతి వ్యక్తికి 7 క్యాండీలు",
+                    "ur": "ہر شخص کو 7 کینڈیاں"
+                },
+                "D": {
+                    "en": "10 candies each",
+                    "te": "ప్రతి వ్యక్తికి 10 క్యాండీలు",
+                    "ur": "ہر شخص کو 10 کینڈیاں"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "To find out how many candies each friend will get, divide the total number of candies by the number of friends.",
+                "te": "ప్రతి స్నేహితుడు ఏమి పొందుతాడు అనుకున్నట్లు, క్యాండీల సంఖ్యను స్నేహితుల సంఖ్యతో భాగించండి.",
+                "ur": "ہر دوست کو کتنی کینڈیاں ملیں گی، اس کے لئے کینڈیوں کی کل تعداد کو دوستوں کی تعداد سے تقسیم کریں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is the result of 15 divided by 3?",
+                "te": "15 ను 3 తో భాగం చేస్తే ఫలితం ఏమిటి?",
+                "ur": "15 کو 3 سے تقسیم کرنے پر نتیجہ کیا ہوگا؟"
+            },
+            "options": {
+                "A": {
+                    "en": "5",
+                    "te": "5",
+                    "ur": "5"
+                },
+                "B": {
+                    "en": "3",
+                    "te": "3",
+                    "ur": "3"
+                },
+                "C": {
+                    "en": "4",
+                    "te": "4",
+                    "ur": "4"
+                },
+                "D": {
+                    "en": "6",
+                    "te": "6",
+                    "ur": "6"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "When dividing 15 by 3, you are essentially asking how many groups of 3 can fit into 15.",
+                "te": "15 ను 3 తో భాగించితే, మీరు అందరూ పొందడం అనే అర్ధంలో ఉంటుంది కొన్ని గుంపులు 15 లో ఉండవచ్చు.",
+                "ur": "15 کو 3 سے تقسیم کرتے وقت، آپ بنیادی طور پر پوچھ رہے ہیں کہ 15 میں کتنے گروہ 3 میں موزوں ہو سکتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "If there are 15 candies to be shared equally among 3 friends, how many candies will each friend get?",
+                "te": "3 స్నేహితులకు సమానంగా భాగం చేయడానికి 15 చాక్లెట్లు ఉన్నాయి, ఒక స్నేహితుడు ఎంత చాక్లెట్లు పొందుతాడు?",
+                "ur": "اگر 3 دوستوں کے بیچ برابر تقسیم کے لئے 15 کینڈیز ہیں، تو ہر دوست کو کتنی کینڈیز ملیں گی؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3",
+                    "te": "3",
+                    "ur": "3"
+                },
+                "B": {
+                    "en": "5",
+                    "te": "5",
+                    "ur": "5"
+                },
+                "C": {
+                    "en": "10",
+                    "te": "10",
+                    "ur": "10"
+                },
+                "D": {
+                    "en": "15",
+                    "te": "15",
+                    "ur": "15"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "When dividing 15 candies equally among 3 friends, each friend will get 5 candies.",
+                "te": "3 స్నేహితులకు సమానంగా 15 చాక్లెట్లు భాగం చేసేందుకు, ప్రతి స్నేహితుడు 5 చాక్లెట్లు పొందుతాడు.",
+                "ur": "15 کینڈیز کو 3 دوستوں کے بیچ برابر تقسیم کرنے پر، ہر دوست کو 5 کینڈیز ملیں گی۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "If there are 15 cookies and 3 friends want to share them equally, how many cookies will each friend get?",
+                "te": "ఒకటికీక్స్ ఉంటే మరియు 3 స్నేహితులు వాటిని సమానంగా పంచుకుంటుంటే, ప్రతి స్నేహితుడు ఎంత కుకీలు పొందగలదు?",
+                "ur": "اگر 15 کوکیز ہوں اور 3 دوست انہیں برابر تقسیم کرنا چاہتے ہیں، تو ہر دوست کو کتنی کوکیز ملیں گی؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3 cookies",
+                    "te": "3 కుకీలు",
+                    "ur": "3 کوکیز"
+                },
+                "B": {
+                    "en": "5 cookies",
+                    "te": "5 కుకీలు",
+                    "ur": "5 کوکیز"
+                },
+                "C": {
+                    "en": "10 cookies",
+                    "te": "10 కుకీలు",
+                    "ur": "10 کوکیز"
+                },
+                "D": {
+                    "en": "15 cookies",
+                    "te": "15 కుకీలు",
+                    "ur": "15 کوکیز"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "To find out how many cookies each friend will get, divide the total number of cookies by the number of friends.",
+                "te": "ప్రతి స్నేహితుడు ఎంత కుకీలు పొందగలడానికి, కుకీల సంఖ్యను స్నేహితుల సంఖ్యతో భాగించండి.",
+                "ur": "ہر دوست کو کتنی کوکیز ملیں گی، اس کے لئے کوکیز کی کل تعداد کو دوستوں کی تعداد سے تقسیم کریں۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "If there are 15 apples and 3 friends want to share them equally, how many apples will each friend get?",
+                "te": "15 ఆపిల్స్ ఉన్నాయి మరియు 3 స్నేహితులు విలీనం చేయాలనుకుంటున్నారు, ప్రతి స్నేహితుడు ఎంత ఆపిల్స్ పొందుతాడు?",
+                "ur": "اگر 15 سیب ہوں اور 3 دوست برابر تقسیم کرنا چاہتے ہیں، تو ہر دوست کو کتنے سیب ملیں گے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3 apples",
+                    "te": "3 ఆపిల్స్",
+                    "ur": "3 سیب"
+                },
+                "B": {
+                    "en": "5 apples",
+                    "te": "5 ఆపిల్స్",
+                    "ur": "5 سیب"
+                },
+                "C": {
+                    "en": "10 apples",
+                    "te": "10 ఆపిల్స్",
+                    "ur": "10 سیب"
+                },
+                "D": {
+                    "en": "15 apples",
+                    "te": "15 ఆపిల్స్",
+                    "ur": "15 سیب"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "By dividing 15 apples equally among 3 friends, each friend will get 5 apples.",
+                "te": "15 ఆపిల్స్ ని 3 స్నేహితులకు సమానంగా విభజించి, ప్రతి స్నేహితుడు 5 ఆపిల్స్ పొందుతాడు.",
+                "ur": "15 سیب کو 3 دوستوں میں برابر تقسیم کرتے ہوئے، ہر دوست کو 5 سیب ملیں گے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "If there are 15 apples and 3 friends want to share them equally, how many apples will each friend get?",
+                "te": "15 ఆపిల్స్ ఉన్నప్పుడు మూడు స్నేహితులు సమానంగా పండించాలనుకుంటున్నారు, ప్రతి స్నేహితుడు ఎంత ఆపిల్స్ పొందుతాడు?",
+                "ur": "اگر 15 سیب ہوں اور 3 دوست برابر تقسیم کرنا چاہتے ہیں، تو ہر دوست کو کتنے سیب ملیں گے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3",
+                    "te": "3",
+                    "ur": "3"
+                },
+                "B": {
+                    "en": "5",
+                    "te": "5",
+                    "ur": "5"
+                },
+                "C": {
+                    "en": "7",
+                    "te": "7",
+                    "ur": "7"
+                },
+                "D": {
+                    "en": "9",
+                    "te": "9",
+                    "ur": "9"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "To find out how many apples each friend will get, divide the total number of apples by the number of friends.",
+                "te": "ప్రతి స్నేహితుడు ఎంత ఆపిల్స్ పొందుతుందో కనుగొంటున్నారా, సామాన్య సంఖ్య ఆపిల్స్ సంఖ్యను స్నేహితుల సంఖ్యతో భాగించండి.",
+                "ur": "ہر دوست کو کتنے سیب ملیں گے، اس کا پتہ لگانے کے لئے کل سیبوں کو دوستوں کی تعداد سے تقسیم کریں۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following represents division by equal grouping?",
+                "te": "కొత్తిగా పొరపాటుతో భాగం చేయడానికి ఏమి సరిది?",
+                "ur": "مساوی گروپنگ کے ذریعہ تقسیم کو کون سے میں ظاہر کرتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "A x B = C",
+                    "te": "A x B = C",
+                    "ur": "A x B = C"
+                },
+                "B": {
+                    "en": "A - B = C",
+                    "te": "A - B = C",
+                    "ur": "A - B = C"
+                },
+                "C": {
+                    "en": "A ÷ B = C",
+                    "te": "A ÷ B = C",
+                    "ur": "A ÷ B = C"
+                },
+                "D": {
+                    "en": "A + B = C",
+                    "te": "A + B = C",
+                    "ur": "A + B = C"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "Division by equal grouping is represented by the symbol ÷, where A ÷ B represents A divided by B.",
+                "te": "సమాన గుంపుతో భాగం చేయడానికి చిహ్నాన్ని ÷ ద్వారా ప్రదర్శించబడుతుంది, అయితే A ÷ B అనేది A ను B ద్వారా భాగించడానికి ప్రతినిధిస్తుంది.",
+                "ur": "مساوی گروپنگ کے ذریعہ تقسیم کو علامت ÷ سے ظاہر کیا جاتا ہے، جہاں A ÷ B A کو B سے تقسیم کرنے کو ظاہر کرتا ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Sara has 15 candies. She wants to share them equally among 3 friends. How many candies will each friend get?",
+                "te": "సారాకు 15 క్యాండీస్ ఉన్నాయి. అవిని 3 స్నేహితులలో సమానంగా పంచుకుందాం. ప్రతి స్నేహితుడు ఎంత క్యాండీస్ పొందగలదు?",
+                "ur": "سارہ کے پاس 15 کینڈیز ہیں۔ انہیں 3 دوستوں میں برابر تقسیم کرنا چاہتی ہے۔ ہر دوست کو کتنی کینڈیز ملیں گی؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3 candies each",
+                    "te": "ప్రతిఒక్కరికొక్క 3 క్యాండీస్",
+                    "ur": "ہر ایک کو 3 کینڈیز"
+                },
+                "B": {
+                    "en": "5 candies each",
+                    "te": "ప్రతిఒక్కరికొక్క 5 క్యాండీస్",
+                    "ur": "ہر ایک کو 5 کینڈیز"
+                },
+                "C": {
+                    "en": "7 candies each",
+                    "te": "ప్రతిఒక్కరికొక్క 7 క్యాండీస్",
+                    "ur": "ہر ایک کو 7 کینڈیز"
+                },
+                "D": {
+                    "en": "10 candies each",
+                    "te": "ప్రతిఒక్కరికొక్క 10 క్యాండీస్",
+                    "ur": "ہر ایک کو 10 کینڈیز"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Since Sara has 15 candies and wants to share them equally among 3 friends, each friend will get 5 candies.",
+                "te": "సారాకు 15 క్యాండీస్ ఉన్నాయి మరియు అవిని 3 స్నేహితులలో సమానంగా పంచుకుందాం అని కోరుకుంటే, ప్రతి స్నేహితుడు 5 క్యాండీస్ పొందగలదు.",
+                "ur": "سارہ کے پاس 15 کینڈیز ہیں اور انہیں 3 دوستوں میں برابر تقسیم کرنا ہے، تو ہر دوست 5 کینڈیز لے گا۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 15 divided by 3?",
+                "te": "15 ను 3 తో భాగించడం ఏమిటి?",
+                "ur": "15 کو 3 سے تقسیم کریں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "2",
+                    "te": "2",
+                    "ur": "2"
+                },
+                "B": {
+                    "en": "4",
+                    "te": "4",
+                    "ur": "4"
+                },
+                "C": {
+                    "en": "5",
+                    "te": "5",
+                    "ur": "5"
+                },
+                "D": {
+                    "en": "6",
+                    "te": "6",
+                    "ur": "6"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "When you divide 15 by 3, you are essentially finding out how many groups of 3 can be made from 15.",
+                "te": "15 ను 3 తో భాగించడం అయితే, మీరు ప్రధానంగా 15 ను నుండి 3 గుంపులు ఎంత ఉంటాయో అనే విషయంలో ఉంటారు.",
+                "ur": "15 کو 3 سے تقسیم کرنے پر، آپ بنیادی طور پر یہ جاننے کی کوشش کر رہے ہیں کہ 15 سے کتنے 3 کے گروہ بنایا جا سکتا ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 15 divided by 3?",
+                "te": "15 ను 3 తో పంపించడానికి ఎంత?",
+                "ur": "15 کو 3 سے تقسیم کریں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "4",
+                    "te": "4",
+                    "ur": "4"
+                },
+                "B": {
+                    "en": "5",
+                    "te": "5",
+                    "ur": "5"
+                },
+                "C": {
+                    "en": "6",
+                    "te": "6",
+                    "ur": "6"
+                },
+                "D": {
+                    "en": "7",
+                    "te": "7",
+                    "ur": "7"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "When you divide 15 by 3, you are essentially asking how many groups of 3 can be made from 15.",
+                "te": "15 ను 3 తో పంపించడానికి, మీరు వినియోగిస్తున్నారు అందుకు అంత గుంపులు ఉంటాయి.",
+                "ur": "15 کو 3 سے تقسیم کرنے پر، آپ بنیادی طور پر پوچھ رہے ہیں کہ 15 سے کتنی 3 کی گروہ بنائی جا سکتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        }
+    ]
+}

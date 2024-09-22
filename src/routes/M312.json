@@ -1,0 +1,407 @@
+{
+    "subject": "mathematics",
+    "grade": "3rd  grade",
+    "learning_outcome": "Estimates and measures length and distance using standard units like centimeters or meters and identifies relationships.",
+    "questions": [
+        {
+            "question": {
+                "en": "Which unit of measurement is commonly used to measure the length of a pencil?",
+                "te": "పెన్సిల్ యొక్క నైపుణ్యం పెంపుడు అంకితం చేసేది ఏ యూనిట్?",
+                "ur": "پنسل کی لمبائی ناپنے کے لیے عام طور پر کونسی اکائی استعمال ہوتی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Kilometers",
+                    "te": "కిలోమీటర్లు",
+                    "ur": "کلومیٹر"
+                },
+                "B": {
+                    "en": "Centimeters",
+                    "te": "సెంటీమీటర్లు",
+                    "ur": "سینٹی میٹر"
+                },
+                "C": {
+                    "en": "Meters",
+                    "te": "మీటర్లు",
+                    "ur": "میٹر"
+                },
+                "D": {
+                    "en": "Inches",
+                    "te": "ఇంచులు",
+                    "ur": "انچ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Centimeters are commonly used to measure small lengths like the length of a pencil.",
+                "te": "సెంటీమీటర్లు పెన్సిల్ యొక్క పెంపుడు వంటి చిన్న పొడవులను అంకితం చేసేది.",
+                "ur": "سینٹی میٹر عام طور پر چھوٹی لمبائیوں کو ناپنے کے لیے استعمال ہوتی ہیں جیسے پنسل کی لمبائی۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which unit is commonly used to measure length in meters?",
+                "te": "మీటర్లు పొందిన పొదరి యూనిట్ ఏమిటి?",
+                "ur": "میٹرز میں لمبائی ناپنے کے لیے عام طور پر کون سا یونٹ استعمال ہوتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Inches",
+                    "te": "ఇంచీలు",
+                    "ur": "انچ"
+                },
+                "B": {
+                    "en": "Centimeters",
+                    "te": "సెంటీమీటర్లు",
+                    "ur": "سینٹی میٹر"
+                },
+                "C": {
+                    "en": "Feet",
+                    "te": "అడుగులు",
+                    "ur": "فیٹ"
+                },
+                "D": {
+                    "en": "Yards",
+                    "te": "యార్డులు",
+                    "ur": "گز"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Meters are commonly used to measure length as it provides a standard unit for comparison.",
+                "te": "పొదరిని అంచనా చేయడానికి మీటర్లు సాధారణంగా ఉపయోగిస్తారు మరియు తీరునా తీరు తో తులనా కోసం ఒక స్థదిక యూనిట్ అందిస్తుంది.",
+                "ur": "میٹرز عموماً لمبائی ناپنے کے لیے استعمال ہوتے ہیں کیونکہ یہ موازنہ کے لیے ایک معیاری یونٹ فراہم کرتا ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which unit of measurement is commonly used to measure the length of a pencil?",
+                "te": "ఈ లేఖికల పొడిను అంచనా చేయడానికి సాధారణంగా ఏ ఏకమాపన యూనిట్ ఉపయోగించబడుతుంది?",
+                "ur": "پینسل کی لمبائی کو ناپنے کے لیے عام طور پر کونسی اکائی استعمال ہوتی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Kilometers",
+                    "te": "కిలోమీటర్లు",
+                    "ur": "کلومیٹر"
+                },
+                "B": {
+                    "en": "Centimeters",
+                    "te": "సెంటీమీటర్లు",
+                    "ur": "سینٹی میٹر"
+                },
+                "C": {
+                    "en": "Meters",
+                    "te": "మీటర్లు",
+                    "ur": "میٹر"
+                },
+                "D": {
+                    "en": "Inches",
+                    "te": "ఇంచులు",
+                    "ur": "انچ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Centimeters are commonly used to measure small lengths like the length of a pencil.",
+                "te": "సెంటీమీటర్లు పేన్సిల్ యొక్క పొడిను పొడిని చేయడానికి సాధారణంగా ఉపయోగిస్తారు.",
+                "ur": "سینٹی میٹر عام طور پر پینسل جیسی چھوٹی لمبائی کو ناپنے کے لیے استعمال ہوتے ہیں۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is the relationship between centimeters and meters?",
+                "te": "సెంటీమీటర్లు మరియు మీటర్ల నడిమ?",
+                "ur": "سینٹی میٹر اور میٹر کے درمیان تعلق کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "1 meter = 10 centimeters",
+                    "te": "1 మీటర్ = 10 సెంటీమీటర్లు",
+                    "ur": "1 میٹر = 10 سینٹی میٹر"
+                },
+                "B": {
+                    "en": "1 meter = 100 centimeters",
+                    "te": "1 మీటర్ = 100 సెంటీమీటర్లు",
+                    "ur": "1 میٹر = 100 سینٹی میٹر"
+                },
+                "C": {
+                    "en": "1 meter = 50 centimeters",
+                    "te": "1 మీటర్ = 50 సెంటీమీటర్లు",
+                    "ur": "1 میٹر = 50 سینٹی میٹر"
+                },
+                "D": {
+                    "en": "1 meter = 25 centimeters",
+                    "te": "1 మీటర్ = 25 సెంటీమీటర్లు",
+                    "ur": "1 میٹر = 25 سینٹی میٹر"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "There are 100 centimeters in 1 meter. This is the relationship between centimeters and meters.",
+                "te": "1 మీటర్లో 100 సెంటీమీటర్లు ఉన్నాయి. ఈ సంబంధం సెంటీమీటర్లు మరియు మీటర్ల నడిమ.",
+                "ur": "1 میٹر میں 100 سینٹی میٹر ہوتے ہیں۔ یہ سینٹی میٹر اور میٹر کے درمیان تعلق ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which unit is commonly used to measure length in meters?",
+                "te": "మీటర్లు కొత్తిగా పొందినవి ఎవరు అంటే?",
+                "ur": "میٹر میں لمبائی ناپنے کے لئے عام طور پر کونسی اکائی استعمال ہوتی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Kilograms",
+                    "te": "కిలోగ్రాములు",
+                    "ur": "کلوگرام"
+                },
+                "B": {
+                    "en": "Meters",
+                    "te": "మీటర్లు",
+                    "ur": "میٹر"
+                },
+                "C": {
+                    "en": "Liters",
+                    "te": "లీటర్లు",
+                    "ur": "لیٹرز"
+                },
+                "D": {
+                    "en": "Grams",
+                    "te": "గ్రాములు",
+                    "ur": "گرام"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Meters are commonly used to measure length as a standard unit.",
+                "te": "మీటర్లు ఒక స్థానాన్ని పొందినవి మరియు లంబాయని పొందడానికి సాధారణంగా ఉపయోగించబడతాయి.",
+                "ur": "میٹر عام طور پر لمبائی کو ناپنے کے لئے استعمال ہوتی ہیں جیسے ایک معیاری اکائی۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which unit is commonly used to measure the length of a pencil?",
+                "te": "పెన్సిల్ పొడవును అంకించడానికి సాధారణంగా ఏ యూనిట్ ఉపయోగిస్తారు?",
+                "ur": "پنسل کی لمبائی کو ناپنے کے لئے عام طور پر کون سی یونٹ استعمال ہوتی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Kilometers",
+                    "te": "కిలోమీటర్లు",
+                    "ur": "کلومیٹر"
+                },
+                "B": {
+                    "en": "Centimeters",
+                    "te": "సెంటీమీటర్లు",
+                    "ur": "سینٹی میٹر"
+                },
+                "C": {
+                    "en": "Meters",
+                    "te": "మీటర్లు",
+                    "ur": "میٹر"
+                },
+                "D": {
+                    "en": "Inches",
+                    "te": "ఇంచీలు",
+                    "ur": "انچ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "The length of a pencil is commonly measured in centimeters, as it is a smaller unit suitable for measuring small objects.",
+                "te": "పెన్సిల్ పొడవు సాధారణంగా సెంటీమీటర్లలో అంకించబడుతుంది, ఇది చిన్న వస్తువులను అంకించడానికి అనుకూలమైన ఒక చిన్న యూనిట్.",
+                "ur": "پنسل کی لمبائی عام طور پر سینٹی میٹر میں ناپی جاتی ہے، کیونکہ یہ چھوٹی اشیاء کی ناپ کے لئے مناسب ایک چھوٹی یونٹ ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which unit is commonly used to measure length - centimeters or kilometers?",
+                "te": "పొడవును అంకరం చేయడానికి సాధారణంగా ఉపయోగించే యూనిట్ - సెంటీమీటర్లు లేదా కిలోమీటర్లు?",
+                "ur": "لمبائی کو ناپنے کے لئے عام طور پر کون سا اکائی استعمال ہوتا ہے - سینٹی میٹر یا کلومیٹر؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Centimeters",
+                    "te": "సెంటీమీటర్లు",
+                    "ur": "سینٹی میٹر"
+                },
+                "B": {
+                    "en": "Kilometers",
+                    "te": "కిలోమీటర్లు",
+                    "ur": "کلومیٹر"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Centimeters are commonly used to measure shorter lengths, while kilometers are used for longer distances.",
+                "te": "సెంటీమీటర్లు చిన్న పొడవులను అంకరించడానికి సాధారణంగా ఉపయోగిస్తారు, కానీ కిలోమీటర్లు దూరాలకు ఉపయోగిస్తారు.",
+                "ur": "عام طور پر سینٹی میٹر کو کم لمبائی کو ناپنے کے لئے استعمال کیا جاتا ہے، جبکہ کلومیٹر زیادہ فاصلوں کے لئے استعمال ہوتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which unit of measurement is commonly used to measure the length of a pencil?",
+                "te": "పెన్సిల్ పొడుపును అంచు చేయడానికి సాధారణంగా ఉపయోగించే అలావా?",
+                "ur": "پنسل کی لمبائی ناپنے کے لئے عام طور پر کونسا اکائی استعمال ہوتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Kilometers",
+                    "te": "కిలోమీటర్లు",
+                    "ur": "کلومیٹرز"
+                },
+                "B": {
+                    "en": "Centimeters",
+                    "te": "సెంటీమీటర్లు",
+                    "ur": "سینٹی میٹر"
+                },
+                "C": {
+                    "en": "Meters",
+                    "te": "మీటర్లు",
+                    "ur": "میٹرز"
+                },
+                "D": {
+                    "en": "Inches",
+                    "te": "ఇంచులు",
+                    "ur": "انچ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Centimeters are commonly used to measure the length of small objects like pencils.",
+                "te": "పెన్సిల్ వంటి చిన్న వస్తువుల పొడుపును అంచుచేయడానికి సెంటీమీటర్లు సాధారణంగా ఉపయోగించబడతాయి.",
+                "ur": "سینٹی میٹر عام طور پر پنسل جیسے چھوٹے اشیاء کی لمبائی ناپنے کے لئے استعمال ہوتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which unit is commonly used to measure length in meters?",
+                "te": "పొడవులను అంకరంగా పెంటీమీటర్లతో అంకించడానికి ఏ యూనిట్ సాధారణంగా ఉపయోగించబడుతుంది?",
+                "ur": "میٹر میں لمبائی کو ناپنے کے لئے عام طور پر کون سا یونٹ استعمال ہوتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Kilometer",
+                    "te": "కిలోమీటర్",
+                    "ur": "کلومیٹر"
+                },
+                "B": {
+                    "en": "Centimeter",
+                    "te": "సెంటీమీటర్",
+                    "ur": "سینٹی میٹر"
+                },
+                "C": {
+                    "en": "Millimeter",
+                    "te": "మిలీమీటర్",
+                    "ur": "ملی میٹر"
+                },
+                "D": {
+                    "en": "Inch",
+                    "te": "అంచు",
+                    "ur": "انچ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Meters are commonly used to measure length, with centimeters being a smaller unit within the meter.",
+                "te": "పొడవులను అంకరంగా అంకించడానికి సాధారణంగా మీటర్లు ఉపయోగించబడతాయి, సెంటీమీటర్లు మీటర్లో ఒక చిన్న యూనిట్ ఉండేది.",
+                "ur": "میٹر لمبائی ناپنے کے لئے عام طور پر استعمال ہوتا ہے، جس میں سینٹی میٹر ایک چھوٹا یونٹ ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which unit of measurement is commonly used to measure the length of a pencil?",
+                "te": "పెన్సిల్ పొడుగును అంకెలు చేయడానికి సాధారణంగా ఉపయోగించే మీకు అంకెలు యూనిట్ ఏది?",
+                "ur": "پنسل کی لمبائی کو ناپنے کے لئے عام طور پر کون سی اکائی استعمال ہوتی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Meters",
+                    "te": "మీటర్లు",
+                    "ur": "میٹرز"
+                },
+                "B": {
+                    "en": "Centimeters",
+                    "te": "సెంటీమీటర్లు",
+                    "ur": "سینٹی میٹر"
+                },
+                "C": {
+                    "en": "Kilometers",
+                    "te": "కిలోమీటర్లు",
+                    "ur": "کلومیٹر"
+                },
+                "D": {
+                    "en": "Inches",
+                    "te": "ఇంచులు",
+                    "ur": "انچ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "The length of a pencil is commonly measured in centimeters as it is a smaller unit suitable for measuring small objects.",
+                "te": "పెన్సిల్ పొడుగును అంకెలు చేయడానికి సాధారణంగా చిన్న వస్తువులను అంకెలు చేయడానికి అనుకూలమైన సాన్ని ఉపయోగించి సెంటీమీటర్లులో పెన్సిల్ పొడుగును అంకెలు చేస్తారు.",
+                "ur": "پنسل کی لمبائی عام طور پر سینٹی میٹر میں ناپی جاتی ہے کیونکہ یہ چھوٹی اشیاء کو ناپنے کے لئے مناسب اکائی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        }
+    ]
+}

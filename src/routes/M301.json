@@ -1,0 +1,417 @@
+{
+    "subject": "mathematics",
+    "grade": "3rd  grade",
+    "learning_outcome": "Reads and writes numbers up to 999 using place value.",
+    "questions": [
+        {
+            "question": {
+                "en": "Which number is represented by the digit 7 in the hundreds place in the number 734?",
+                "te": "734 నంబర్‌లో నంబర్‌ని నిరూపించే డిజిట్ 7 ఏమిటి?",
+                "ur": "734 میں ہزاروں کی جگہ پر 7 کونسا نمبر ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "7",
+                    "te": "7",
+                    "ur": "7"
+                },
+                "B": {
+                    "en": "70",
+                    "te": "70",
+                    "ur": "70"
+                },
+                "C": {
+                    "en": "700",
+                    "te": "700",
+                    "ur": "700"
+                },
+                "D": {
+                    "en": "7,000",
+                    "te": "7,000",
+                    "ur": "7,000"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "In the number 734, the digit 7 is in the hundreds place, which represents 700.",
+                "te": "734 నంబర్‌లో, డిజిట్ 7 నంబర్‌ని నిరూపించే సోము స్థానంలో ఉంది, అది 700ను సూచిస్తుంది.",
+                "ur": "734 میں، 7 کو ہزاروں کی جگہ پر ہے، جو 700 کو ظاہر کرتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number represents 500 in numeric form?",
+                "te": "సంఖ్య 500 ను సంఖ్యాత్మక రూపంలో ఏమిటి?",
+                "ur": "عدد 500 کو عددی شکل میں کونسی سنکھیاڈ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "5",
+                    "te": "5",
+                    "ur": "5"
+                },
+                "B": {
+                    "en": "50",
+                    "te": "50",
+                    "ur": "50"
+                },
+                "C": {
+                    "en": "500",
+                    "te": "500",
+                    "ur": "500"
+                },
+                "D": {
+                    "en": "505",
+                    "te": "505",
+                    "ur": "505"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The number 500 is represented by the digits 5, 0, and 0 in the hundreds, tens, and ones place respectively.",
+                "te": "సంఖ్య 500 ను నిర్దిష్టం చేయడానికి నాలుగు, పద్దు, ఒక స్థానాలో కరుణేలు 5, 0 మరియు 0 ఉన్నాయి.",
+                "ur": "عدد 500 کو صد، عشر، اور ایک کی جگہ پر بالترتیب 5، 0، اور 0 کے نمبرز سے ظاہر کیا جاتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is represented by 5 hundreds, 3 tens, and 7 ones?",
+                "te": "5 నూరులు, 3 పద్దులు, మరియు 7 ఒకటిల నుండి ఏ సంఖ్య?",
+                "ur": "5 سو, 3 دس اور 7 ایک کونوں کے ذریعے ظاہر کردی گئی سنت کون سی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "537",
+                    "te": "537",
+                    "ur": "537"
+                },
+                "B": {
+                    "en": "753",
+                    "te": "753",
+                    "ur": "753"
+                },
+                "C": {
+                    "en": "573",
+                    "te": "573",
+                    "ur": "573"
+                },
+                "D": {
+                    "en": "735",
+                    "te": "735",
+                    "ur": "735"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "To find the number represented by the given place values, simply combine the hundreds, tens, and ones.",
+                "te": "కొనసాగిన స్థానముల ద్వారా సూచించిన సంఖ్యను కనుగొనడానికి, నూరులు, పద్దులు మరియు ఒకటిలను కలిపి ఉంచండి.",
+                "ur": "دی گئی جگہ کی قیمتوں کو ظاہر کرنے والی سنت تلاش کرنے کے لئے، بس سو، دس اور ایک کو جمع کریں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is represented by the digit 7 in the number 378?",
+                "te": "378 లో డిజిట్ 7 ద్వారా ప్రదర్శితమైన సంఖ్య ఏది?",
+                "ur": "378 میں ڈیجٹ 7 کونسی عدد کو ظاہر کرتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "70",
+                    "te": "70",
+                    "ur": "70"
+                },
+                "B": {
+                    "en": "7",
+                    "te": "7",
+                    "ur": "7"
+                },
+                "C": {
+                    "en": "700",
+                    "te": "700",
+                    "ur": "700"
+                },
+                "D": {
+                    "en": "7",
+                    "te": "7",
+                    "ur": "7"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "In the number 378, the digit 7 is in the tens place, representing the number 70.",
+                "te": "378 లో, డిజిట్ 7 మూడు స్థానంలో ఉంది, సంఖ్య 70 ని ప్రదర్శిస్తుంది.",
+                "ur": "نمبر 378 میں، ڈیجٹ 7 دسوں کی جگہ میں ہے، جو عدد 70 کو ظاہر کرتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is written as 567 in digits?",
+                "te": "అంకెల్లో 567 అని ఎంత రూపంలో రాయబడింది?",
+                "ur": "567 کو انکھوں میں کیسے لکھا گیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Five hundred sixty-seven",
+                    "te": "ఐదు నూరు ఎనిమిది",
+                    "ur": "پانچ سو چھپانوے"
+                },
+                "B": {
+                    "en": "Five hundred seventy-six",
+                    "te": "ఐదు నూరు ఆరు",
+                    "ur": "پانچ سو چھہتر"
+                },
+                "C": {
+                    "en": "Five hundred sixty-seven",
+                    "te": "ఐదు నూరు ఎనిమిది",
+                    "ur": "پانچ سو چھپانوے"
+                },
+                "D": {
+                    "en": "Five hundred sixty-seven",
+                    "te": "ఐదు నూరు ఎనిమిది",
+                    "ur": "پانچ سو چھپانوے"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "In the number 567, the digit 5 is in the hundreds place, 6 is in the tens place, and 7 is in the ones place.",
+                "te": "567 అంకెల్లో, అంకం 5 నూరు స్థానంలో ఉంది, 6 నూరు ఒకటిలో ఉంది, మరియు 7 ఒక స్థానంలో ఉంది.",
+                "ur": "انکے 567 میں، 5 کا ہنڈریڈز کی جگہ ہے، 6 کا ٹینز کی جگہ ہے، اور 7 کا ایک کی جگہ ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is written as '325' in digits?",
+                "te": "డిజిట్ల్స్‌లో '325' గా ఎందుకు వ్రాయబడింది?",
+                "ur": "'325' کو ڈیجیٹس میں کس نمبر کے طور پر لکھا گیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Three hundred twenty-five",
+                    "te": "మూడు నూరు ఇరవైదు",
+                    "ur": "تین سو پچیس"
+                },
+                "B": {
+                    "en": "Two hundred fifty-three",
+                    "te": "ఇరువైదు నూరు మూడు",
+                    "ur": "دو سو پچیس تین"
+                },
+                "C": {
+                    "en": "Three hundred fifty-two",
+                    "te": "మూడు నూరు ఎరుపైదు",
+                    "ur": "تین سو پچیس دو"
+                },
+                "D": {
+                    "en": "Two hundred thirty-five",
+                    "te": "ఇరువైదు నూరు ఐదు",
+                    "ur": "دو سو پیتالیس"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "The number '325' is read as 'three hundred twenty-five' in digits.",
+                "te": "డిజిట్స్‌లో '325' నెంబర్‌ను 'మూడు నూరు ఇరవైదు' అని చదవడం సరి.",
+                "ur": "نمبر '325' ڈیجیٹس میں 'تین سو پچیس' کے طور پر پڑھا جاتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is written as '365'?",
+                "te": "'365' గా రాయబడింది ఏ సంఖ్య?",
+                "ur": "'365' کس عدد کو لکھا گیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "356",
+                    "te": "356",
+                    "ur": "356"
+                },
+                "B": {
+                    "en": "536",
+                    "te": "536",
+                    "ur": "536"
+                },
+                "C": {
+                    "en": "653",
+                    "te": "653",
+                    "ur": "653"
+                },
+                "D": {
+                    "en": "563",
+                    "te": "563",
+                    "ur": "563"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The number '365' is read as 'three hundred sixty-five' where the digits represent the hundreds, tens, and ones place.",
+                "te": "'365' సంఖ్యను 'మూడు నూరు ఆరువడి' అని చదవడం వల్ల అంకెలు నిల్వ, టెన్స్, మరియు ఒక స్థానాలను ప్రతినిల్వచేస్తాయి.",
+                "ur": "عدد '365' کو 'تین سو پینتالیس' کے طور پر پڑھا جاتا ہے جہاں ان انکوں کو سینٹیز، ٹینز، اور ونز پلیس کی نمائندگی کرتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is represented by 6 hundreds, 7 tens, and 8 ones?",
+                "te": "6 నూరులు, 7 వందలు, మరియు 8 ఒకటులు గణితంలో ఏ సంఖ్యను సూచిస్తుంది?",
+                "ur": "6 سینوں، 7 دسوں، اور 8 ایکوں سے موجودہ کونسی سندھی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "768",
+                    "te": "768",
+                    "ur": "768"
+                },
+                "B": {
+                    "en": "876",
+                    "te": "876",
+                    "ur": "876"
+                },
+                "C": {
+                    "en": "687",
+                    "te": "687",
+                    "ur": "687"
+                },
+                "D": {
+                    "en": "786",
+                    "te": "786",
+                    "ur": "786"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "To find the number represented by the given place values, combine the hundreds, tens, and ones digits.",
+                "te": "కొనుగోలును సూచించడానికి ఇచ్చిన స్థానములను కలిగించడానికి, నూరులు, వందలు, మరియు ఒకటులు అంకులను కలిపించు.",
+                "ur": "دیے گئے مقامات سے ظاہر کردہ نمبر تلاش کرنے کے لئے، سینوں، دسوں، اور ایکوں کو ملاوٹ کریں۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is written as '345'?",
+                "te": "ఎన్నికలో '345' అని రాయబడుతుంది?",
+                "ur": "'345' کس عدد کو لکھا گیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "435",
+                    "te": "435",
+                    "ur": "435"
+                },
+                "B": {
+                    "en": "354",
+                    "te": "354",
+                    "ur": "354"
+                },
+                "C": {
+                    "en": "543",
+                    "te": "543",
+                    "ur": "543"
+                },
+                "D": {
+                    "en": "453",
+                    "te": "453",
+                    "ur": "453"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The number '345' is read as three hundred forty-five.",
+                "te": "'345' సంఖ్యను మూడు నూరు మూడువ గణననుగా చదవండి.",
+                "ur": "عدد '345' تین سو پینتالیس کے طور پر پڑھا جاتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is written as '456'?",
+                "te": "'456' గా రాయబడే సంఖ్య ఏమిటి?",
+                "ur": "'456' کس عدد کو لکھا گیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "465",
+                    "te": "465",
+                    "ur": "465"
+                },
+                "B": {
+                    "en": "546",
+                    "te": "546",
+                    "ur": "546"
+                },
+                "C": {
+                    "en": "564",
+                    "te": "564",
+                    "ur": "564"
+                },
+                "D": {
+                    "en": "645",
+                    "te": "645",
+                    "ur": "645"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The number '456' is read as four hundred fifty-six, where the digit '4' represents 400, '5' represents 50, and '6' represents 6.",
+                "te": "'456' సంఖ్యను నాలుగు నూరు అరవైనదు అంటారు, అక్షరం '4' 400 ను సూచిస్తుంది, '5' 50 ను సూచిస్తుంది, మరియు '6' 6 ను సూచిస్తుంది.",
+                "ur": "عدد '456' چار سو پچاس چھ، جہاں ہندسہ '4' 400 کو ظاہر کرتا ہے، '5' 50 کو ظاہر کرتا ہے، اور '6' 6 کو ظاہر کرتا ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        }
+    ]
+}

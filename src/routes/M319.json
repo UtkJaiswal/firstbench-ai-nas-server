@@ -1,0 +1,417 @@
+{
+    "subject": "mathematics",
+    "grade": "3rd  grade",
+    "learning_outcome": "Records data using tally marks, represents it pictorially, and draws conclusions.",
+    "questions": [
+        {
+            "question": {
+                "en": "How many tally marks are needed to represent the number 5?",
+                "te": "5 నెంబర్ ను సూచించేందుకు ఎన్ని ట్యాలీ మార్కులు అవసరం?",
+                "ur": "نمبر 5 کو ظاہر کرنے کے لئے کتنے ٹیلی مارکس کی ضرورت ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3",
+                    "te": "3",
+                    "ur": "3"
+                },
+                "B": {
+                    "en": "4",
+                    "te": "4",
+                    "ur": "4"
+                },
+                "C": {
+                    "en": "5",
+                    "te": "5",
+                    "ur": "5"
+                },
+                "D": {
+                    "en": "6",
+                    "te": "6",
+                    "ur": "6"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "To represent the number 5 using tally marks, you need 4 tally marks.",
+                "te": "ట్యాలీ మార్కులను ఉపయోగించి 5 నెంబర్ ను సూచించడానికి, మీకు 4 ట్యాలీ మార్కులు అవసరం.",
+                "ur": "ٹیلی مارکس کا استعمال کرکے نمبر 5 کو ظاہر کرنے کے لئے، آپ کو 4 ٹیلی مارکس کی ضرورت ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "How many students prefer different colors in the class?",
+                "te": "తరాల్లో ఎంత విద్యార్థులు వివిధ రంగులను ఇష్టపడుతారు?",
+                "ur": "کلاس میں کتنے طلباء مختلف رنگوں کو ترجیح دیتے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "10",
+                    "te": "10",
+                    "ur": "10"
+                },
+                "B": {
+                    "en": "15",
+                    "te": "15",
+                    "ur": "15"
+                },
+                "C": {
+                    "en": "20",
+                    "te": "20",
+                    "ur": "20"
+                },
+                "D": {
+                    "en": "25",
+                    "te": "25",
+                    "ur": "25"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "To find out how many students prefer different colors, tally marks can be used to record the data and represent it pictorially.",
+                "te": "ఎంత విద్యార్థులు వివిధ రంగులను ఇష్టపడుతారు అనే విషయం కోసం, డేటాను రికార్డ్ చేయడానికి ట్యాలీ మార్కులు ఉపయోగించవచ్చు మరియు పిక్చరియల్లి ప్రదర్శించవచ్చు.",
+                "ur": "مختلف رنگوں کو ترجیح دینے والے طلباء کتنے ہیں، اس معلومات کو ریکارڈ کرنے اور تصویری طریقے سے پیش کرنے کے لئے ٹیلی مارکس کا استعمال کیا جا سکتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "A class conducted a survey of favorite colors and recorded the data using tally marks. What color was chosen the most?",
+                "te": "ఒక తరగతి అభిమత రంగుల కోసం ఒక సర్వే చేసి అంకితం చేసింది. ఎందుకు అత్యధికంగా ఎన్ని రంగు ఎంచుకుందారు?",
+                "ur": "ایک کلاس نے پسندیدہ رنگوں کا سروے کیا اور اس ڈیٹا کو تالی مارکس کے ذریعے ریکارڈ کیا۔ سب سے زیادہ کونسا رنگ منتخب کیا گیا؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Red",
+                    "te": "ఎరుపు",
+                    "ur": "سرخ"
+                },
+                "B": {
+                    "en": "Blue",
+                    "te": "నీలం",
+                    "ur": "نیلا"
+                },
+                "C": {
+                    "en": "Green",
+                    "te": "ఆకుపచ్చ",
+                    "ur": "سبز"
+                },
+                "D": {
+                    "en": "Yellow",
+                    "te": "పసుపు",
+                    "ur": "پیلا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "The color chosen the most is the one with the highest number of tally marks in the survey data.",
+                "te": "అత్యధిక సంఖ్యతలు కలుపులు ఉన్న రంగు అంచనా డేటాలో ఎన్నికలో అత్యధికంగా ఎంచబడింది.",
+                "ur": "سب سے زیادہ منتخب کیا گیا رنگ وہ ہے جس میں سروے ڈیٹا میں تالی مارکس کی سب سے زیادہ تعداد ہوتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "How many students prefer different colors in the class?",
+                "te": "తరల రంగులను ఎంత విద్యార్థులు ఇష్టపడుతారు?",
+                "ur": "کلاس میں کتنے طلباء مختلف رنگوں کو ترجیح دیتے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "12",
+                    "te": "12",
+                    "ur": "12"
+                },
+                "B": {
+                    "en": "15",
+                    "te": "15",
+                    "ur": "15"
+                },
+                "C": {
+                    "en": "18",
+                    "te": "18",
+                    "ur": "18"
+                },
+                "D": {
+                    "en": "20",
+                    "te": "20",
+                    "ur": "20"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "To find out how many students prefer different colors, tally marks can be used to record each student's choice and then represent it pictorially.",
+                "te": "తరల రంగులను ఎంత విద్యార్థులు ఇష్టపడుతారు అనుకుంటే, ప్రతి విద్యార్థిని ఎంచుకోవడానికి ట్యాలీ మార్కులను ఉపయోగించవచ్చు మరియు ఆకారశాస్త్రముగా ప్రతి విద్యార్థిని ప్రదర్శించడానికి.",
+                "ur": "مختلف رنگوں کو ترجیح دینے والے طلباء کی تعداد معلوم کرنے کے لئے، ٹیلی مارکس کا استعمال کرکے ہر طالب علم کی پسندیدہ چیز کو ریکارڈ کرنے کے لئے اور پھر اسے تصویری طور پر ظاہر کرنے کے لئے کر سکتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "How many apples were recorded using tally marks in the picture?",
+                "te": "చిత్రంలో ఎంత ఆకులు ట్యాలీ మార్కులను ఉపయోగించి నమోదు చేసారు?",
+                "ur": "تصویر میں کتنے سیب ٹیلی مارکس کا استعمال کر کے ریکارڈ کیے گئے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "5",
+                    "te": "5",
+                    "ur": "5"
+                },
+                "B": {
+                    "en": "7",
+                    "te": "7",
+                    "ur": "7"
+                },
+                "C": {
+                    "en": "9",
+                    "te": "9",
+                    "ur": "9"
+                },
+                "D": {
+                    "en": "11",
+                    "te": "11",
+                    "ur": "11"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "In the picture, there are 9 apples recorded using tally marks.",
+                "te": "చిత్రంలో, ట్యాలీ మార్కులను ఉపయోగించి 9 ఆకులు నమోదు చేసారు.",
+                "ur": "تصویر میں، ٹیلی مارکس کا استعمال کر کے 9 سیب ریکارڈ کیے گئے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "How many students prefer apples over oranges?",
+                "te": "కివీలను ఆరంభికరించిన విద్యార్థుల సంఖ్య ఎంతుగా ఉంది?",
+                "ur": "کتنے طلباء سیب ناں کو ترجیح دیتے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "10",
+                    "te": "10",
+                    "ur": "10"
+                },
+                "B": {
+                    "en": "15",
+                    "te": "15",
+                    "ur": "15"
+                },
+                "C": {
+                    "en": "20",
+                    "te": "20",
+                    "ur": "20"
+                },
+                "D": {
+                    "en": "25",
+                    "te": "25",
+                    "ur": "25"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "To find the number of students who prefer apples over oranges, tally marks can be used to record the data and draw conclusions.",
+                "te": "కివీలను ఆరంభికరించిన విద్యార్థుల సంఖ్యను కనుగొనుటకు, డేటాను రికార్డు చేయడానికి ట్యాలీ మార్కులను ఉపయోగించవచ్చు.",
+                "ur": "سیب ناں کو ترجیح دینے والے طلباء کی تعداد تلاش کرنے کے لئے، ٹیلی مارکس کا استعمال کرکے ڈیٹا کو ریکارڈ کرنا اور نتیجے نکالنا ممکن ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "How many students prefer different colors and can you represent the data using tally marks?",
+                "te": "ఎంత విద్యార్థులు విభిన్న రంగులను ఆదరిస్తారు మరియు మీరు డేటాను ట్యాలీ మార్కులను ఉపయోగించి ప్రతినిధించవచ్చారా?",
+                "ur": "کتنے طلباء مختلف رنگوں کو ترجیح دیتے ہیں اور آپ کو ڈیٹا کو ٹیلی مارکس کا استعمال کر کے ظاہر کرنا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Yes",
+                    "te": "అవును",
+                    "ur": "ہاں"
+                },
+                "B": {
+                    "en": "No",
+                    "te": "కాదు",
+                    "ur": "نہیں"
+                },
+                "C": {
+                    "en": "Maybe",
+                    "te": "కానీ",
+                    "ur": "شاید"
+                },
+                "D": {
+                    "en": "Not sure",
+                    "te": "ఖచ్చితంగా లేదు",
+                    "ur": "یقینی نہیں"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "If the number of students preferring different colors is recorded using tally marks, it can be represented pictorially to draw conclusions.",
+                "te": "విభిన్న రంగులను మెరుపుతున్న విద్యార్థుల సంఖ్యను ట్యాలీ మార్కులను ఉపయోగించి నమూనాను రూపొందించడం చేస్తే, నిర్ణయాలను తీసుకోవచ్చు.",
+                "ur": "اگر مختلف رنگوں کو ترجیح دینے والے طلباء کی تعداد کو ٹیلی مارکس کا استعمال کر کے ریکارڈ کیا جاتا ہے، تو یہ تصویری طور پر ظاہر کیا جا سکتا ہے تاکہ نتیجے نکالے جا سکیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "How many students prefer different colors in the class?",
+                "te": "తరహా రంగులను మెరుగుపరుచుకున్న విద్యార్థులు ఎన్ని?",
+                "ur": "کلاس میں مختلف رنگوں کو پسند کرنے والے طلباء کتنے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "10",
+                    "te": "10",
+                    "ur": "10"
+                },
+                "B": {
+                    "en": "15",
+                    "te": "15",
+                    "ur": "15"
+                },
+                "C": {
+                    "en": "20",
+                    "te": "20",
+                    "ur": "20"
+                },
+                "D": {
+                    "en": "25",
+                    "te": "25",
+                    "ur": "25"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "To find out how many students prefer different colors, we need to record their choices using tally marks and represent them pictorially.",
+                "te": "విద్యార్థులు ఎన్ని రంగులను మెరుగుపరుచుకున్నారు ఎందుకు కనుగులను ఉపయోగించి రికార్డు చేయాలి మరియు పటికలను రూపొందించాలి.",
+                "ur": "مختلف رنگوں کو پسند کرنے والے طلباء کی تعداد معلوم کرنے کے لئے ہمیں ان کی پسندیدہ رنگوں کو تالی مارکس کا استعمال کر کے ریکارڈ کرنا ہوگا اور انہیں تصویری طریقے سے ظاہر کرنا ہوگا۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "How many students prefer different colors in the class?",
+                "te": "తరహా రంగులను ఎందుకు ఇష్టపడుతున్నారు?",
+                "ur": "کلاس میں کتنے طلباء مختلف رنگوں کو ترجیح دیتے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "10",
+                    "te": "10",
+                    "ur": "10"
+                },
+                "B": {
+                    "en": "15",
+                    "te": "15",
+                    "ur": "15"
+                },
+                "C": {
+                    "en": "20",
+                    "te": "20",
+                    "ur": "20"
+                },
+                "D": {
+                    "en": "25",
+                    "te": "25",
+                    "ur": "25"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "To find out how many students prefer different colors, tally marks can be used to record the data and represent it pictorially.",
+                "te": "తరహా రంగులను ఎందుకు ఇష్టపడుతున్నారు అనే విషయంలో ఎంత విద్యార్థులు ఉన్నారు అనేది కనుగొనడానికి గణనా గుర్తులు ఉపయోగించి డేటాను రికార్డు చేయటానికి మరియు పటికలాగా ప్రతిపాదించటానికి ట్యాలీ గుర్తులను ఉపయోగించవచ్చు.",
+                "ur": "مختلف رنگوں کو ترجیح دینے والے طلباء کی تعداد معلوم کرنے کے لئے، ٹیلی مارکس کا استعمال کرکے ڈیٹا کو ریکارڈ کرنا اور تصویری طور پر نمائندہ کرنا ممکن ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "How many students prefer different colors in the class?",
+                "te": "తరహా రంగులను మెరుగుతున్న ఎంతో విద్యార్థులు ఉన్నారు?",
+                "ur": "کلاس میں مختلف رنگوں کو کتنے طلباء ترجیح دیتے ہیں؟"
+            },
+            "options": {
+                "A": {
+                    "en": "15",
+                    "te": "15",
+                    "ur": "15"
+                },
+                "B": {
+                    "en": "20",
+                    "te": "20",
+                    "ur": "20"
+                },
+                "C": {
+                    "en": "25",
+                    "te": "25",
+                    "ur": "25"
+                },
+                "D": {
+                    "en": "30",
+                    "te": "30",
+                    "ur": "30"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "To find the total number of students preferring different colors, tally the data and represent it pictorially.",
+                "te": "తరహా రంగులను మెరుగుతున్న విద్యార్థుల మొత్తం సంఖ్యను కనుగొనడానికి, డేటాను ట్యాలీ చేయండి మరియు పిక్చరియల్లీ ప్రదర్శించండి.",
+                "ur": "مختلف رنگوں کو ترجیح دینے والے طلباء کی کل تعداد تلاش کرنے کے لئے، ڈیٹا کو ٹیلی کریں اور اسے تصویری طریقے سے ظاہر کریں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        }
+    ]
+}

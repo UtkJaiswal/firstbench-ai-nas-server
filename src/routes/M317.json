@@ -1,0 +1,417 @@
+{
+    "subject": "mathematics",
+    "grade": "3rd  grade",
+    "learning_outcome": "Reads the time correctly to the hour using a clock/watch.",
+    "questions": [
+        {
+            "question": {
+                "en": "What time is shown on the clock?",
+                "te": "గడియారం ఏ సమయం చూపిస్తుంది?",
+                "ur": "گھڑی پر کتنا وقت ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3:15",
+                    "te": "3:15",
+                    "ur": "3:15"
+                },
+                "B": {
+                    "en": "4:30",
+                    "te": "4:30",
+                    "ur": "4:30"
+                },
+                "C": {
+                    "en": "5:45",
+                    "te": "5:45",
+                    "ur": "5:45"
+                },
+                "D": {
+                    "en": "6:00",
+                    "te": "6:00",
+                    "ur": "6:00"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "The time shown on the clock is 4:30. The short hand points to the 4, and the long hand points to the 6.",
+                "te": "గడియారంలో చూపించిన సమయం 4:30 ఉంది. చిన్న చేతి 4 ను చూపిస్తుంది, మరియు పొడవు చేతి 6 ను చూపిస్తుంది.",
+                "ur": "گھڑی پر دکھایا گیا وقت 4:30 ہے۔ چھوٹی سوئی 4 کی طرف اشارہ کرتی ہے، اور لمبی سوئی 6 کی طرف اشارہ کرتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What time is it when the clock shows 3 o'clock?",
+                "te": "గడియారం 3 గంటలు చూపిస్తే ఎంత సమయం?",
+                "ur": "گھڑی کتنے بجے ہوتی ہے جب 3 بجے دکھاتی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "2:00 PM",
+                    "te": "2:00 అపరాహ్నం",
+                    "ur": "2:00 بعد از ظہر"
+                },
+                "B": {
+                    "en": "3:00 AM",
+                    "te": "3:00 ఉదయం",
+                    "ur": "3:00 صبح"
+                },
+                "C": {
+                    "en": "6:00 PM",
+                    "te": "6:00 అపరాహ్నం",
+                    "ur": "6:00 بعد از ظہر"
+                },
+                "D": {
+                    "en": "9:00 AM",
+                    "te": "9:00 ఉదయం",
+                    "ur": "9:00 صبح"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "When the clock shows 3 o'clock, it is 3:00 AM.",
+                "te": "గడియారం 3 గంటలు చూపిస్తే, అది 3:00 ఉదయం.",
+                "ur": "جب گھڑی 3 بجے دکھاتی ہے، تو وقت 3:00 صبح ہوتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What time is shown on the clock?",
+                "te": "గడియారంలో ఏమి సూచించబడింది?",
+                "ur": "گھڑی پر کتنا وقت دکھایا گیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3:30",
+                    "te": "3:30",
+                    "ur": "3:30"
+                },
+                "B": {
+                    "en": "4:45",
+                    "te": "4:45",
+                    "ur": "4:45"
+                },
+                "C": {
+                    "en": "5:15",
+                    "te": "5:15",
+                    "ur": "5:15"
+                },
+                "D": {
+                    "en": "6:00",
+                    "te": "6:00",
+                    "ur": "6:00"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The clock shows the time as 5:15, which is fifteen minutes past five.",
+                "te": "గడియారం 5:15 గా చూపించింది, ఇది ఐదు నిమిషాల తర్వాత పందేల కాలం.",
+                "ur": "گھڑی پانچ بج کر پندرہ منٹ کا وقت 5:15 دکھاتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What time is shown on the clock?",
+                "te": "గడియారంలో ఏమి సూచించారు?",
+                "ur": "کلاک پر کتنا وقت دکھایا گیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3:15",
+                    "te": "3:15",
+                    "ur": "3:15"
+                },
+                "B": {
+                    "en": "4:30",
+                    "te": "4:30",
+                    "ur": "4:30"
+                },
+                "C": {
+                    "en": "2:45",
+                    "te": "2:45",
+                    "ur": "2:45"
+                },
+                "D": {
+                    "en": "5:00",
+                    "te": "5:00",
+                    "ur": "5:00"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The time shown on the clock is 2:45, as the hour hand is pointing to 2 and the minute hand is at 9.",
+                "te": "గడియారంలో చూపించిన సమయం 2:45 ఉంది, ఏకైనా గంటా చూపించిన స్థానం 2 కు చూపించింది మరియు నిమిషాన్ని సూచించిన కై 9 లో ఉంది.",
+                "ur": "کلاک پر دکھایا گیا وقت 2:45 ہے، کیونکہ گھڑی کا ہاتھ 2 کی طرف اشارہ کر رہا ہے اور منٹ کا ہاتھ 9 پر ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What time is shown on the clock?",
+                "te": "గడియారంలో ఏ సమయం చూపించారు?",
+                "ur": "گھڑی پر کتنا وقت دکھایا گیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3:00",
+                    "te": "3:00",
+                    "ur": "3:00"
+                },
+                "B": {
+                    "en": "6:00",
+                    "te": "6:00",
+                    "ur": "6:00"
+                },
+                "C": {
+                    "en": "9:00",
+                    "te": "9:00",
+                    "ur": "9:00"
+                },
+                "D": {
+                    "en": "12:00",
+                    "te": "12:00",
+                    "ur": "12:00"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The clock shows the time as 9:00.",
+                "te": "గడియారం 9:00 గంటను చూపిస్తుంది.",
+                "ur": "گھڑی نے وقت 9:00 کو دکھایا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What time is shown on the clock?",
+                "te": "గడియారం ఏ సమయం చూపిస్తుంది?",
+                "ur": "گھڑی پر کتنا وقت ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "2:30",
+                    "te": "2:30",
+                    "ur": "2:30"
+                },
+                "B": {
+                    "en": "3:45",
+                    "te": "3:45",
+                    "ur": "3:45"
+                },
+                "C": {
+                    "en": "4:15",
+                    "te": "4:15",
+                    "ur": "4:15"
+                },
+                "D": {
+                    "en": "5:00",
+                    "te": "5:00",
+                    "ur": "5:00"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The time shown on the clock is 4:15, as the hour hand is pointing at 4 and the minute hand is pointing at 3.",
+                "te": "గడియారం చూపిస్తున్న సమయం 4:15 ఉంది, ఏకంగా గడియార చూపుట సమయం 4 ను చూపుట ఉంది మరియు నిమిషాంకనం 3 ను చూపుట ఉంది.",
+                "ur": "گھڑی پر دکھایا گیا وقت 4:15 ہے، کیونکہ گھڑی کا ہنڈ 4 کی طرف اشارہ کر رہا ہے اور منٹ کا ہنڈ 3 کی طرف اشارہ کر رہا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What time is shown on the clock?",
+                "te": "గడియారంలో ఎంత సమయం చూపించింది?",
+                "ur": "گھڑی پر کتنا وقت دکھایا گیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "1:30",
+                    "te": "1:30",
+                    "ur": "1:30"
+                },
+                "B": {
+                    "en": "2:45",
+                    "te": "2:45",
+                    "ur": "2:45"
+                },
+                "C": {
+                    "en": "3:15",
+                    "te": "3:15",
+                    "ur": "3:15"
+                },
+                "D": {
+                    "en": "4:00",
+                    "te": "4:00",
+                    "ur": "4:00"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The time shown on the clock is 3:15, as the hour hand is pointing at 3 and the minute hand is at 3.",
+                "te": "గడియారంలో చూపించిన సమయం 3:15 గా ఉంది, ఏటకు మూడు సమయం చూపించింది మరియు నిమిషానికి మూడు ఉంది.",
+                "ur": "گھڑی پر دکھایا گیا وقت 3:15 ہے، کیونکہ گھڑی کی سوئی 3 پر ہے اور منٹ کی سوئی 3 پر ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What time is shown on the clock?",
+                "te": "గడియారం ఏ సమయంలో చూపిస్తుంది?",
+                "ur": "گھڑی پر کتنی بجی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3:00",
+                    "te": "3:00",
+                    "ur": "3:00"
+                },
+                "B": {
+                    "en": "6:00",
+                    "te": "6:00",
+                    "ur": "6:00"
+                },
+                "C": {
+                    "en": "9:00",
+                    "te": "9:00",
+                    "ur": "9:00"
+                },
+                "D": {
+                    "en": "12:00",
+                    "te": "12:00",
+                    "ur": "12:00"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The clock shows the time as 9:00, which is the correct answer.",
+                "te": "గడియారం 9:00 గంటలో సమయం చూపిస్తుంది, ఇది సరిగా ఉంది.",
+                "ur": "گھڑی پر وقت 9:00 کے طور پر دکھایا جاتا ہے، جو صحیح جواب ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What time is shown on the clock?",
+                "te": "గడియారంలో ఏ సమయం చూపించబడింది?",
+                "ur": "گھڑی پر کتنا وقت دکھایا گیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3:00",
+                    "te": "3:00",
+                    "ur": "3:00"
+                },
+                "B": {
+                    "en": "4:30",
+                    "te": "4:30",
+                    "ur": "4:30"
+                },
+                "C": {
+                    "en": "5:45",
+                    "te": "5:45",
+                    "ur": "5:45"
+                },
+                "D": {
+                    "en": "6:15",
+                    "te": "6:15",
+                    "ur": "6:15"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The time shown on the clock is 5:45, as the minute hand is on the 9 and the hour hand is between the 5 and 6.",
+                "te": "గడియారంలో చూపిన సమయం 5:45 ఉంది, కారణం నిమిషం చూపిన 9 లో ఉంది మరియు గంటలు 5 మరియు 6 ల నడిమల లో ఉంది.",
+                "ur": "گھڑی پر دکھایا گیا وقت 5:45 ہے، کیونکہ منٹ کی ہینڈ 9 پر ہے اور گھنٹی کا ہینڈ 5 اور 6 کے درمیان ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What time is shown on the clock?",
+                "te": "గడియారంలో ఏది సమయం చూపించింది?",
+                "ur": "گھڑی پر کتنا وقت دکھایا گیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "3:00",
+                    "te": "3:00",
+                    "ur": "3:00"
+                },
+                "B": {
+                    "en": "6:00",
+                    "te": "6:00",
+                    "ur": "6:00"
+                },
+                "C": {
+                    "en": "9:00",
+                    "te": "9:00",
+                    "ur": "9:00"
+                },
+                "D": {
+                    "en": "12:00",
+                    "te": "12:00",
+                    "ur": "12:00"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "The clock shows 9:00, which is the correct time to the hour.",
+                "te": "గడియారం 9:00 చూపిస్తుంది, ఇది సమయం సరియైనది.",
+                "ur": "گھڑی 9:00 دکھاتی ہے، جو گھنٹے کا صحیح وقت ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        }
+    ]
+}

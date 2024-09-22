@@ -1,0 +1,417 @@
+{
+    "subject": "mathematics",
+    "grade": "3rd  grade",
+    "learning_outcome": "Constructs and uses multiplication facts (uphill 10) in daily life situations.",
+    "questions": [
+        {
+            "question": {
+                "en": "What is 7 x 8?",
+                "te": "7 x 8 ఎంత?",
+                "ur": "7 x 8 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "45",
+                    "te": "45",
+                    "ur": "45"
+                },
+                "B": {
+                    "en": "56",
+                    "te": "56",
+                    "ur": "56"
+                },
+                "C": {
+                    "en": "63",
+                    "te": "63",
+                    "ur": "63"
+                },
+                "D": {
+                    "en": "72",
+                    "te": "72",
+                    "ur": "72"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "To find the product of 7 and 8, you multiply the two numbers together...",
+                "te": "7 మరియు 8 యొక్క ఉత్పాదనను కనుగొనడానికి, మీరు రెండు సంఖ్యలను కలుపుతారు...",
+                "ur": "7 اور 8 کے ضرب کو تلاش کرنے کے لئے، آپ دونوں اعداد کو ضرب کرتے ہیں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 5 x 8?",
+                "te": "5 x 8 ఎంత?",
+                "ur": "5 x 8 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "35",
+                    "te": "35",
+                    "ur": "35"
+                },
+                "B": {
+                    "en": "40",
+                    "te": "40",
+                    "ur": "40"
+                },
+                "C": {
+                    "en": "45",
+                    "te": "45",
+                    "ur": "45"
+                },
+                "D": {
+                    "en": "50",
+                    "te": "50",
+                    "ur": "50"
+                }
+            },
+            "correct_answer": {
+                "en": "D"
+            },
+            "explanation": {
+                "en": "To find the product of 5 and 8, you multiply the two numbers together...",
+                "te": "5 మరియు 8 యొక్క గుణం కనుగొన్నప్పుడు, మీరు రెండు సంఖ్యలను గుణిస్తారు...",
+                "ur": "5 اور 8 کے ضرب کو تلاش کرنے کے لئے، آپ دونوں اعداد کو آپس میں ضرب کرتے ہیں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 5 x 8?",
+                "te": "5 x 8 ఎంత?",
+                "ur": "5 x 8 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "35",
+                    "te": "35",
+                    "ur": "35"
+                },
+                "B": {
+                    "en": "40",
+                    "te": "40",
+                    "ur": "40"
+                },
+                "C": {
+                    "en": "45",
+                    "te": "45",
+                    "ur": "45"
+                },
+                "D": {
+                    "en": "48",
+                    "te": "48",
+                    "ur": "48"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "To find the product of 5 and 8, you multiply the numbers together...",
+                "te": "5 మరియు 8 యొక్క గుణాకారం కనుగొనడానికి, మీరు సంఖ్యలను గుణిస్తారు...",
+                "ur": "5 اور 8 کا حاصل ضرب معلوم کرنے کے لئے، آپ نمبرز کو آپس میں ضرب کریں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 5 x 8?",
+                "te": "5 x 8 ఎంత?",
+                "ur": "5 x 8 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "35",
+                    "te": "35",
+                    "ur": "35"
+                },
+                "B": {
+                    "en": "40",
+                    "te": "40",
+                    "ur": "40"
+                },
+                "C": {
+                    "en": "45",
+                    "te": "45",
+                    "ur": "45"
+                },
+                "D": {
+                    "en": "50",
+                    "te": "50",
+                    "ur": "50"
+                }
+            },
+            "correct_answer": {
+                "en": "D"
+            },
+            "explanation": {
+                "en": "To find the product of 5 x 8, you multiply 5 by 8 to get 40.",
+                "te": "5 x 8 ఉత్పాదనను కనుగొనుటకు, 5 ను 8 తో గుణించండి, మళ్ళీ 40 కొత్తండి.",
+                "ur": "5 x 8 کا حاصل ضرب معلوم کرنے کے لئے، آپ 5 کو 8 سے ضرب دیتے ہیں تاکہ 40 ملے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 5 x 8?",
+                "te": "5 x 8 ఎంత?",
+                "ur": "5 x 8 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "35",
+                    "te": "35",
+                    "ur": "35"
+                },
+                "B": {
+                    "en": "40",
+                    "te": "40",
+                    "ur": "40"
+                },
+                "C": {
+                    "en": "45",
+                    "te": "45",
+                    "ur": "45"
+                },
+                "D": {
+                    "en": "50",
+                    "te": "50",
+                    "ur": "50"
+                }
+            },
+            "correct_answer": {
+                "en": "D"
+            },
+            "explanation": {
+                "en": "To find the product of 5 and 8, you multiply the two numbers together...",
+                "te": "5 మరియు 8 యొక్క ఉత్పాదనను కనుగొనుటకు, మీరు రెండు సంఖ్యలను గుణించుకోవాలి...",
+                "ur": "5 اور 8 کے ضرب کو تلاش کرنے کے لئے، آپ دونوں اعداد کو آپس میں ضرب کرتے ہیں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 5 x 8?",
+                "te": "5 x 8 ఎంత?",
+                "ur": "5 x 8 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "35",
+                    "te": "35",
+                    "ur": "35"
+                },
+                "B": {
+                    "en": "40",
+                    "te": "40",
+                    "ur": "40"
+                },
+                "C": {
+                    "en": "45",
+                    "te": "45",
+                    "ur": "45"
+                },
+                "D": {
+                    "en": "50",
+                    "te": "50",
+                    "ur": "50"
+                }
+            },
+            "correct_answer": {
+                "en": "D"
+            },
+            "explanation": {
+                "en": "To find the product of 5 x 8, you multiply 5 by 8 which equals 40.",
+                "te": "5 x 8 యొక్క ఉత్పాదనను కనుగొనడానికి, 5 ను 8 తో గుణించండి అని కనుగొనుటకు 40 వస్తుంది.",
+                "ur": "5 x 8 کے حاصل ضرب کو تلاش کرنے کے لئے، آپ 5 کو 8 سے ضرب دیتے ہیں جو 40 کے برابر ہوتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 5 x 7?",
+                "te": "5 x 7 ఏమిటి?",
+                "ur": "5 x 7 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "30",
+                    "te": "30",
+                    "ur": "30"
+                },
+                "B": {
+                    "en": "35",
+                    "te": "35",
+                    "ur": "35"
+                },
+                "C": {
+                    "en": "40",
+                    "te": "40",
+                    "ur": "40"
+                },
+                "D": {
+                    "en": "45",
+                    "te": "45",
+                    "ur": "45"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "To find the product of 5 and 7, you multiply the two numbers together...",
+                "te": "5 మరియు 7 యొక్క గుణాకారం కనుగొనడానికి, మీరు రెండు సంఖ్యలను గుణిస్తారు...",
+                "ur": "5 اور 7 کا حاصل ضرب معلوم کرنے کے لئے، آپ دونوں اعداد کو ضرب کرتے ہیں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 5 x 8?",
+                "te": "5 x 8 ఎంత?",
+                "ur": "5 x 8 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "30",
+                    "te": "30",
+                    "ur": "30"
+                },
+                "B": {
+                    "en": "35",
+                    "te": "35",
+                    "ur": "35"
+                },
+                "C": {
+                    "en": "40",
+                    "te": "40",
+                    "ur": "40"
+                },
+                "D": {
+                    "en": "45",
+                    "te": "45",
+                    "ur": "45"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "To find the product of 5 and 8, you multiply them together...",
+                "te": "5 మరియు 8 గుణంలో, మీరు వ్యాపారాన్ని కలుపుతారు...",
+                "ur": "5 اور 8 کا ضرب کرنے کے لئے، آپ انہیں اکٹھا ضرب کرتے ہیں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 5 x 8?",
+                "te": "5 x 8 ఎంత?",
+                "ur": "5 x 8 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "35",
+                    "te": "35",
+                    "ur": "35"
+                },
+                "B": {
+                    "en": "40",
+                    "te": "40",
+                    "ur": "40"
+                },
+                "C": {
+                    "en": "45",
+                    "te": "45",
+                    "ur": "45"
+                },
+                "D": {
+                    "en": "50",
+                    "te": "50",
+                    "ur": "50"
+                }
+            },
+            "correct_answer": {
+                "en": "D"
+            },
+            "explanation": {
+                "en": "When multiplying 5 and 8, you count 5 groups of 8...",
+                "te": "5 మరియు 8 గుంపులను గణన చేసినప్పుడు, మీరు 8 గుంపులను లెక్కించండి...",
+                "ur": "5 اور 8 کو ضرب دینے پر، آپ 8 گروہوں کی تعداد کرتے ہیں..."
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 5 x 8?",
+                "te": "5 x 8 ఎంత?",
+                "ur": "5 x 8 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "35",
+                    "te": "35",
+                    "ur": "35"
+                },
+                "B": {
+                    "en": "40",
+                    "te": "40",
+                    "ur": "40"
+                },
+                "C": {
+                    "en": "45",
+                    "te": "45",
+                    "ur": "45"
+                },
+                "D": {
+                    "en": "50",
+                    "te": "50",
+                    "ur": "50"
+                }
+            },
+            "correct_answer": {
+                "en": "D"
+            },
+            "explanation": {
+                "en": "To find the product of 5 and 8, you multiply the two numbers together.",
+                "te": "5 మరియు 8 యొక్క గుణకారంను కనుగొన్నప్పుడు, మీరు రెండు సంఖ్యలను గుణించవచ్చు.",
+                "ur": "5 اور 8 کا حاصل ضرب معلوم کرنے کے لئے، آپ دونوں اعداد کو آپس میں ضرب کرتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        }
+    ]
+}

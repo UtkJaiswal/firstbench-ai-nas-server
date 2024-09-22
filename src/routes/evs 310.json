@@ -1,0 +1,417 @@
+{
+    "subject": "I EVS(ENVIRONMENTAL SCIENCE)",
+    "grade": "3rd  grade",
+    "learning_outcome": "Guesses properties, estimates quantities of materials/activities in daily life, and verifies them using symbols/non-standard units (e.g., hand spans, spoon/mugs, etc.).",
+    "questions": [
+        {
+            "question": {
+                "en": "Which of the following is a non-standard unit used to measure length?",
+                "te": "కంటేను పొడవులను పొదవులు కలుపుటకు ఉపయోగించే అనుకూల ఒకటి ఏది?",
+                "ur": "نیچے دیؓ گئی کون سی غیر معیاری اکائی لمبائی ناپنے کے لئے استعمال ہوتی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Inch",
+                    "te": "ఇంచు",
+                    "ur": "انچ"
+                },
+                "B": {
+                    "en": "Foot",
+                    "te": "అడుగు",
+                    "ur": "پاؤں"
+                },
+                "C": {
+                    "en": "Hand span",
+                    "te": "చేతి వ్యాసం",
+                    "ur": "ہاتھ کا فاصلہ"
+                },
+                "D": {
+                    "en": "Meter",
+                    "te": "మీటర్",
+                    "ur": "میٹر"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "A hand span is a non-standard unit used to measure length, typically the width of a hand from the tip of the thumb to the tip of the little finger.",
+                "te": "చేతి వ్యాసం పొదవులను కలుపుటకు ఉపయోగించే ఒక గైరాజ్యమైన యూనిట్, సాధారణంగా వ్యాసం కలుపుటకు చేతి యొక్క ముడి నుండి చిన్న వాయిద వరకు విస్తరించడం.",
+                "ur": "ہاتھ کا فاصلہ ایک غیر معیاری اکائی ہے جو لمبائی ناپنے کے لئے استعمال ہوتی ہے، عام طور پر ٹھمب سے انگلی کے نوک کے درمیان ہاتھ کی چوڑائی کو ناپنے کے لئے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following can be used as a non-standard unit to measure the length of a table?",
+                "te": "కట్టడి యొక్క నీళ్లను అంచనా చేయడానికి ఏమి ఉపయోగించవచ్చు?",
+                "ur": "میز کی لمبائی کو نا معمولی اکائی قیاس کرنے کے لئے مندرجہ ذیل میں سے کون سا استعمال کیا جا سکتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Hand span",
+                    "te": "చేతి వ్యాసం",
+                    "ur": "ہاتھ کا فاصلہ"
+                },
+                "B": {
+                    "en": "Foot length",
+                    "te": "పాదాల పొడవు",
+                    "ur": "پائوں کی لمبائی"
+                },
+                "C": {
+                    "en": "Meter",
+                    "te": "మీటర్",
+                    "ur": "میٹر"
+                },
+                "D": {
+                    "en": "Kilogram",
+                    "te": "కిలోగ్రాం",
+                    "ur": "کلوگرام"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "A hand span can be used as a non-standard unit to measure the length of a table because it gives a rough estimate based on the size of the person's hand.",
+                "te": "కట్టడి యొక్క నీళ్లను అంచనా చేయడానికి చేతి వ్యాసం ఉపయోగించవచ్చు కాబట్టి ఇది వ్యక్తి చేతి పరిమాణాల ఆధారంగా మీకు ఒక సీమాంకనాన్ని ఇస్తుంది.",
+                "ur": "ایک میز کی لمبائی کو نا معمولی اکائی قیاس کرنے کے لئے ہاتھ کا فاصلہ استعمال کیا جا سکتا ہے کیونکہ یہ انسان کے ہاتھ کے سائز پر مبنی ایک خاکہ فراہم کرتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of using non-standard units to estimate quantities?",
+                "te": "కానీ కాంతిక యూనిట్లను ఉపయోగించడానికి ఒక ఉదాహరణ ఏమిటి?",
+                "ur": "مندرجہ ذیل میں سے کون سا غیر معیاری یونٹس کا استعمال مقداروں کا تخمین لگانے کا مثال ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Measuring a room using hand spans",
+                    "te": "హస్త వ్యాసాలను ఉపయోగించి ఒక గదిని అంచనా చేయడం",
+                    "ur": "ہاتھ کی چوڑائیوں کا استعمال کرکے کمرے کا پیمانہ لینا"
+                },
+                "B": {
+                    "en": "Using a ruler to measure a table",
+                    "te": "ఒక పట్టిని ఉపయోగించి ఒక టేబుల్ను అంచనా చేయడం",
+                    "ur": "ایک رولر کا استعمال کرکے ایک میز کا پیمانہ لینا"
+                },
+                "C": {
+                    "en": "Estimating the weight of a book using a weighing scale",
+                    "te": "తగిన స్కేల్ను ఉపయోగించి ఒక పుస్తకంలో భారాన్ని అంచనా చేయడం",
+                    "ur": "ایک ترازو کا استعمال کرکے ایک کتاب کی وزن کا تخمینہ لگانا"
+                },
+                "D": {
+                    "en": "Counting the number of pencils using a measuring tape",
+                    "te": "అంచనా టేపును ఉపయోగించి పెన్సిల్లు సంఖ్యను లెక్కించడం",
+                    "ur": "ایک پیمائشی تپ کا استعمال کرکے پنسلوں کی تعداد کا حساب لگانا"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Measuring a room using hand spans is an example of using non-standard units to estimate quantities.",
+                "te": "హస్త వ్యాసాలను ఉపయోగించి ఒక గదిని అంచనా చేయడం మొత్తాన్ని అంచనా చేయడానికి ఒక ఉదాహరణము.",
+                "ur": "ہاتھ کی چوڑائیوں کا استعمال کرکے کمرے کا پیمانہ لینا مقداروں کا تخمین لگانے کے لئے غیر معیاری یونٹس کا استعمال کرنے کا ایک مثال ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of using non-standard units for measuring length?",
+                "te": "కొన్ని లంబం అళవు చేసేది యొక్క ఉదాహరణలో ఏమిటి?",
+                "ur": "مندرجہ ذیل میں سے کون سی غیر معیاری اکائیوں کا استعمال لمبائی ناپنے کا مثال ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Using a ruler",
+                    "te": "ఒక రూలర్ ఉపయోగించడం",
+                    "ur": "ایک رولر کا استعمال"
+                },
+                "B": {
+                    "en": "Measuring the length of a table using hand spans",
+                    "te": "హేతువుల ఉపయోగించి ఒక టేబుల్ యొక్క లంబాన్ని అళ్లడం",
+                    "ur": "ہینڈ اسپینز کا استعمال کرکے ایک میز کی لمبائی ناپنا"
+                },
+                "C": {
+                    "en": "Using a tape measure",
+                    "te": "ఒక టేపు పరిమాణం ఉపయోగించడం",
+                    "ur": "ایک ٹیپ میجر کا استعمال"
+                },
+                "D": {
+                    "en": "Estimating the weight of a book using a weighing scale",
+                    "te": "భారం అంచు ఉపయోగించి ఒక పుస్తకం యొక్క పరిమాణాన్ని అంచనా",
+                    "ur": "ایک وزن پیمانے کا استعمال کرکے ایک کتاب کی وزن کا تخمین"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Measuring the length of a table using hand spans is an example of using non-standard units for measuring length.",
+                "te": "హేతువుల ఉపయోగించి ఒక టేబుల్ యొక్క లంబాన్ని అళ్లడం లంబం అళ్లడితే ఒక ఉదాహరణం.",
+                "ur": "ہینڈ اسپینز کا استعمال کرکے ایک میز کی لمبائی ناپنا لمبائی ناپنے کے لیے غیر معیاری اکائیوں کا استعمال کرنے کا ایک مثال ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a non-standard unit of measurement?",
+                "te": "కింద పేరుకు అనుసారం యూనిట్ మీద ప్రశ్నించబడినది ఏది?",
+                "ur": "مندرجہ ذیل کیا غیر معیاری اکائی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Meter",
+                    "te": "మీటర్",
+                    "ur": "میٹر"
+                },
+                "B": {
+                    "en": "Hand span",
+                    "te": "హాండ్ స్పాన్",
+                    "ur": "ہاتھ کا پھیلاو"
+                },
+                "C": {
+                    "en": "Gram",
+                    "te": "గ్రాము",
+                    "ur": "گرام"
+                },
+                "D": {
+                    "en": "Liter",
+                    "te": "లీటర్",
+                    "ur": "لیٹر"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "A hand span is a non-standard unit of measurement that is based on the width of a person's hand.",
+                "te": "హాండ్ స్పాన్ ఒక మనిషి చేతి వెయితీన ఆధారంగా ఉంటుంది మరియు అది ఒక అనుసారి యూనిట్.",
+                "ur": "ہاتھ کا پھیلاو ایک غیر معیاری اکائی ہے جو ایک شخص کے ہاتھ کی چوڑا؈ پر مبنی ہوتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of estimating quantities using non-standard units?",
+                "te": "కింద పేరుగా ఏది అనిపిస్తోంది మీరు అంతా మాత్రలను అందుకున్నట్లు చేయడం ఉదాహరించుకోండి?",
+                "ur": "مندرجہ ذیل میں سے کون سا مثال غیر معمولی اکائیوں کا استعمال کرکے مقدار کی تخمین لگانے کا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Measuring the length of a table using a ruler",
+                    "te": "ఒక రూలర్ ఉపయోగించి ఒక టేబులో పొడవును అంచనా చేయడం",
+                    "ur": "ایک رولر کا استعمال کرکے ایک میز کی لمبائی ناپنا"
+                },
+                "B": {
+                    "en": "Estimating the weight of fruits using a hand scale",
+                    "te": "ఒక హస్త స్కేల్ ఉపయోగించి పండ్ల బరువును అంచనా చేయడం",
+                    "ur": "ایک ہاتھ پیمانے کا استعمال کرکے پھلوں کی وزن کی تخمین لگانا"
+                },
+                "C": {
+                    "en": "Counting the number of books on a shelf",
+                    "te": "ఒక షెల్ఫ్ మీద ఉన్న పుస్తకాల సంఖ్యను ఎంచుకున్నట్లు",
+                    "ur": "شیلف پر کتب کی تعداد کو شمار کرنا"
+                },
+                "D": {
+                    "en": "Measuring the volume of water using a measuring cup",
+                    "te": "మెజరింగ్ కప్ ఉపయోగించి నీటి ప్రామాణికతను అంచనా చేయడం",
+                    "ur": "ایک پیمانے کے کپ کا استعمال کرکے پانی کے حجم کو ناپنا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Estimating the weight of fruits using a hand scale is an example of estimating quantities using non-standard units.",
+                "te": "హస్త స్కేల్ ఉపయోగించి పండ్ల బరువును అంచనా చేయడం అందమైన మాత్రలను అందుకున్నట్లు చేసే ఒక ఉదాహరణ.",
+                "ur": "ایک ہاتھ پیمانے کا استعمال کرکے پھلوں کی وزن کی تخمین لگانا غیر معمولی اکائیوں کا استعمال کرکے مقدار کی تخمین کا ایک مثال ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a non-standard unit of measurement?",
+                "te": "కింద ఉన్నవి ఏది అనారిక యూనిట్?",
+                "ur": "مندرجہ ذیل میں سے کون سی غیر معیاری اکائی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Meter",
+                    "te": "మీటర్",
+                    "ur": "میٹر"
+                },
+                "B": {
+                    "en": "Hand span",
+                    "te": "హ్యాండ్ స్పాన్",
+                    "ur": "ہاتھ کا فاصلہ"
+                },
+                "C": {
+                    "en": "Kilogram",
+                    "te": "కిలోగ్రాం",
+                    "ur": "کلوگرام"
+                },
+                "D": {
+                    "en": "Liter",
+                    "te": "లీటర్",
+                    "ur": "لیٹر"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "A hand span is a non-standard unit of measurement that is based on the width of a person's hand.",
+                "te": "హ్యాండ్ స్పాన్ ఒక అనారిక మీరుపరిమాణ యూనిట్ అయినది, వ్యక్తి చేతి వెయిడ్ ఆధారితంగా ఉంది.",
+                "ur": "ہاتھ کا فاصلہ ایک غیر معیاری اکائی ہے جو ایک شخص کے ہاتھ کی چوڑا؈ پر مبنی ہوتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of using non-standard units to measure length?",
+                "te": "కొన్ని లంబాలను అందించడానికి గైర్-స్టాండర్డ్ యూనిట్లను ఉపయోగించే ఉదాహరణను ఎవరు అంచనారు?",
+                "ur": "کون سا ذیلی میں سے لمبائی ناپنے کے لئے غیر معیاری اکائیوں کا استعمال کرنے کا مثال ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Using a ruler in inches",
+                    "te": "ఇంచుల లో రూలర్ ఉపయోగించడం",
+                    "ur": "ایک انچ میں رولر کا استعمال کرنا"
+                },
+                "B": {
+                    "en": "Measuring a table using hand spans",
+                    "te": "చేతి వ్యాసాలను ఉపయోగించి ఒక టేబుల్ ను కలుపుటుండటం",
+                    "ur": "ہینڈ اسپین کا استعمال کرکے ایک میز ناپنا"
+                },
+                "C": {
+                    "en": "Using a meter stick to measure a room",
+                    "te": "ఒక గజం స్టిక్ ను ఉపయోగించి ఒక గదిలో లెంతుంది",
+                    "ur": "ایک میٹر اسٹک کا استعمال کرکے ایک کمرہ ناپنا"
+                },
+                "D": {
+                    "en": "Estimating weight using kilograms",
+                    "te": "కిలోగ్రాములను ఉపయోగించి భారాన్ని అంచనాడటం",
+                    "ur": "کلو گرام استعمال کرکے وزن کا تخمینہ لگانا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Measuring a table using hand spans is an example of using non-standard units to measure length.",
+                "te": "చేతి వ్యాసాలను ఉపయోగించి ఒక టేబుల్ ను కలుపుటుండటం లంబాన్ని అంచనాడడం గైర్-స్టాండర్డ్ యూనిట్లను ఉపయోగించే ఉదాహరణం.",
+                "ur": "ہینڈ اسپین کا استعمال کرکے ایک میز ناپنا لمبائی ناپنے کے لئے غیر معیاری اکائیوں کا استعمال کرنے کا ایک مثال ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of estimating quantities using non-standard units?",
+                "te": "తప్పుడు దిగుమతులను అందించడానికి అన్ని ఉదాహరణల లో ఏది ఉదాహరించబడతారు?",
+                "ur": "مندرجہ ذیل میں کون سا مثال غیر معیاری اکائیوں کا استعمال کرکے مقداروں کا تخمین ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Measuring the length of a table using a ruler",
+                    "te": "ఒక రూలర్ ఉపయోగించి ఒక టేబుల్ పొడవును అంచనం చేయడం",
+                    "ur": "ایک رولر کا استعمال کرکے ایک میز کی لمبائی ناپنا"
+                },
+                "B": {
+                    "en": "Estimating the weight of a fruit using your hand",
+                    "te": "మీ చేతితో ఒక పండును భారాను అంచనం చేయడం",
+                    "ur": "آپ کے ہاتھ کا استعمال کرکے ایک پھل کا وزن تخمیناً کرنا"
+                },
+                "C": {
+                    "en": "Using a weighing scale to measure the volume of water",
+                    "te": "నీటి పొరికను అంచనం చేయడానికి భారము తీసుకోవడం",
+                    "ur": "پانی کے حجم کا اندازہ لگانے کے لئے ترازو استعمال کرنا"
+                },
+                "D": {
+                    "en": "Counting the number of books on a shelf",
+                    "te": "ఒక శెల్ఫ్ని మీకు ఉన్న పుస్తకాల సంఖ్యను లెక్కించడం",
+                    "ur": "ایک شیلف پر کتابوں کی تعداد کو شمار کرنا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Estimating the weight of a fruit using your hand is an example of estimating quantities using non-standard units.",
+                "te": "మీ చేతితో ఒక పండును భారాను అంచనం చేయడం ఒక అందించిన మాత్రల అంచనం ఉపయోగించడానికి ఒక ఉదాహరణ.",
+                "ur": "آپ کے ہاتھ کا استعمال کرکے ایک پھل کا وزن تخمیناً کرنا غیر معیاری اکائیوں کا استعمال کرکے مقداروں کا تخمین کرنے کا ایک مثال ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of using non-standard units to measure quantity?",
+                "te": "క్వాంటిటీని అంచనా చేయడానికి పాఠ్యాంశాలను అందించే కింది ఏది ఒక ఉదాహరణ?",
+                "ur": "مقدار کو نا معیاری اکائیوں کا استعمال کرنے کا مثال کون سی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Measuring the length of a table using a ruler",
+                    "te": "ఒక రూలర్ ఉపయోగించి ఒక టేబుల్ పొడవు అంచనా చేయడం",
+                    "ur": "ایک رولر کا استعمال کرکے ایک میز کی لمبائی ناپنا"
+                },
+                "B": {
+                    "en": "Estimating the weight of a fruit using hand spans",
+                    "te": "చేతుల వ్యాసాలను ఉపయోగించి ఒక పండువి బరువు అంచనా చేయడం",
+                    "ur": "ہاتھ کے پھیلاؤ کا استعمال کرکے ایک پھل کی وزن کا تخمینہ لگانا"
+                },
+                "C": {
+                    "en": "Measuring the volume of water using a measuring cup",
+                    "te": "మెట్రింగ్ కప్ ఉపయోగించి నీరు యొక్క ప్రామాణికతను అంచనా చేయడం",
+                    "ur": "ایک میپنگ کپ کا استعمال کرکے پانی کا حجم ناپنا"
+                },
+                "D": {
+                    "en": "Counting the number of chairs in a classroom",
+                    "te": "ఒక క్లాస్‌రూంలో కుర్సుల సంఖ్యను ఎంచుకోవడం",
+                    "ur": "ایک کلاس روم میں کرسیوں کی تعداد کا حساب رکھنا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Estimating the weight of a fruit using hand spans is an example of using non-standard units to measure quantity.",
+                "te": "చేతుల వ్యాసాలను ఉపయోగించి ఒక పండువి బరువు అంచనా చేయడం క్వాంటిటీని అంచనా చేయడానికి ఒక ఉదాహరణం.",
+                "ur": "ہاتھ کے پھیلاؤ کا استعمال کرکے ایک پھل کی وزن کا تخمینہ لگانا، مقدار کو نا معیاری اکائیوں کا استعمال کرنے کا ایک مثال ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        }
+    ]
+}

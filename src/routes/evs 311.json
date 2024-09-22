@@ -1,0 +1,417 @@
+{
+    "subject": "I EVS(ENVIRONMENTAL SCIENCE)",
+    "grade": "3rd  grade",
+    "learning_outcome": "Records observations, experiences, and information on objects/activities/places visited in different ways and predicts patterns (e.g., shapes of the moon, seasons).",
+    "questions": [
+        {
+            "question": {
+                "en": "Which observation can help predict the changing seasons?",
+                "te": "మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు మారుతులు",
+                "ur": "کون سی مشاہدہ تبدیل ہونے والے موسموں کی پیشگوئی میں مدد کر سکتی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Observing the color of leaves changing",
+                    "te": "పట్టల రంగు మారుతున్నట్లు పరిశీలిస్తే",
+                    "ur": "پتے رنگ بدلتے دیکھنا"
+                },
+                "B": {
+                    "en": "Noting the shapes of clouds in the sky",
+                    "te": "ఆకాశంలో మేఘాకారాల ఆకారాలను గమనించడం",
+                    "ur": "آسمان میں بادلوں کے شکلوں کا نوٹ لینا"
+                },
+                "C": {
+                    "en": "Watching the behavior of birds migrating",
+                    "te": "పక్షుల ప్రవాసము చేస్తున్న వర్తనను చూస్తున్నట్లు",
+                    "ur": "پرندوں کے مہاجرتی رویے کا مشاہدہ کرنا"
+                },
+                "D": {
+                    "en": "Noticing the length of daylight changing",
+                    "te": "ఉజ్వాలత పొడవుతోందని గమనించడం",
+                    "ur": "روشنی کی لمبائی بدلتی دیکھنا"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Observing the color of leaves changing can help predict the changing seasons as different colors indicate different seasons.",
+                "te": "పట్టల రంగు మారుతున్నట్లు పరిశీలిస్తే వివిధ రంగాలు వివిధ ఋతువులను సూచించడం. కాబట్టి మారుతున్న పట్టల రంగు మూలంగా మారుతున్న ఋతువులను పూర్వకంగా ఊహించడం.",
+                "ur": "پتے رنگ بدلتے دیکھنا تبدیل ہونے والے موسموں کی پیشگوئی میں مدد کر سکتا ہے کیونکہ مختلف رنگ مختلف موسمات کو ظاہر کرتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape does the moon resemble most?",
+                "te": "చంద్రుడు అత్యంత సమానంగా ఉంది ఎన్నికలో?",
+                "ur": "چاند کس شکل کی طرح زیادہ مشابہ ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Square",
+                    "te": "చదరం",
+                    "ur": "مربع"
+                },
+                "B": {
+                    "en": "Circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                },
+                "C": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "تکون"
+                },
+                "D": {
+                    "en": "Rectangle",
+                    "te": "చదరం",
+                    "ur": "مستطیل"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "The moon is round like a circle in shape.",
+                "te": "చంద్రుడు వృత్తం యొక్క ఆకారంలో ఉంది.",
+                "ur": "چاند دائرہ کی شکل میں گول ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape does the moon have?",
+                "te": "చంద్రుడు ఏ ఆకృతిని కలుగుంది?",
+                "ur": "چاند کس شکل کا ہوتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Square",
+                    "te": "వర్గం",
+                    "ur": "مربع"
+                },
+                "B": {
+                    "en": "Circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                },
+                "C": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "تکون"
+                },
+                "D": {
+                    "en": "Star",
+                    "te": "నక్షత్రం",
+                    "ur": "ستارہ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "The moon is round in shape, like a circle.",
+                "te": "చంద్రుడు వృత్తాకారముగా ఉంటుంది, వృత్తం వంటి.",
+                "ur": "چاند دائرہ کی شکل میں ہوتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What shape does the moon have?",
+                "te": "చంద్రుడు ఏ ఆకారం ఉంది?",
+                "ur": "چاند کا کون سا شکل ہوتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Square",
+                    "te": "చదరం",
+                    "ur": "مربع"
+                },
+                "B": {
+                    "en": "Circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                },
+                "C": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "مثلث"
+                },
+                "D": {
+                    "en": "Star",
+                    "te": "నక్షత్రం",
+                    "ur": "ستارہ"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "The moon has a circular shape in the sky.",
+                "te": "ఆకాశంలో చంద్రుడు వృత్తాకారం ఉంది.",
+                "ur": "چاند کا آسمان میں دائرہ نما شکل ہوتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which shape does the moon appear to be during a full moon?",
+                "te": "పూర్ణచంద్ర ప్రదర్శిస్తున్నప్పుడు చంద్రుడు ఎలా ఉంటుంది?",
+                "ur": "پورے چاند پر چاند کی شکل کیسی ہوتی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Circle",
+                    "te": "వృత్తం",
+                    "ur": "دائرہ"
+                },
+                "B": {
+                    "en": "Half-circle",
+                    "te": "అర్ధవృత్తం",
+                    "ur": "آدھا دائرہ"
+                },
+                "C": {
+                    "en": "Crescent",
+                    "te": "అర్ధచంద్రం",
+                    "ur": "ہلال"
+                },
+                "D": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "تکون"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "During a full moon, the moon appears as a complete circle in the sky.",
+                "te": "పూర్ణచంద్రం కాలంలో, చంద్రుడు ఆకాశంలో పూర్ణవృత్తంగా కనిపిస్తుంది.",
+                "ur": "پورے چاند کی دوران، چاند آسمان میں ایک مکمل دائرہ کی طرح نظر آتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which observation can help predict the change in seasons?",
+                "te": "మొదటి తరం మారుతోంది అని భవిష్యత్తును అంచనా చేసే యొక్క నిలువు ఏమిటి?",
+                "ur": "موسموں میں تبدیلی کی پیشگوئی کرنے میں کون سی مشاہدہ مدد کرے گی؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Observing the shape of the moon",
+                    "te": "చంద్రుడి ఆకారాన్ని అంచనా చేయుట",
+                    "ur": "چاند کی شکل کا مشاہدہ"
+                },
+                "B": {
+                    "en": "Counting the number of stars in the sky",
+                    "te": "ఆకాశంలో నక్షత్రాల సంఖ్యను పెంచుట",
+                    "ur": "آسمان میں تاروں کی تعداد کو شمار کرنا"
+                },
+                "C": {
+                    "en": "Measuring the temperature using a thermometer",
+                    "te": "థర్మామీటర్ ఉపయోగించి తాపమీటర్ అంచనా చేయుట",
+                    "ur": "تھرمامیٹر کا استعمال کرکے درجہ حرارت ناپنا"
+                },
+                "D": {
+                    "en": "Identifying different types of clouds in the sky",
+                    "te": "ఆకాశంలో వివిధ రకాల మేఘాలను గుర్తుచేయుట",
+                    "ur": "آسمان میں مختلف قسم کے بادلوں کی شناخت"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "Observing the shape of the moon can help predict the change in seasons as the moon's shape changes throughout the month.",
+                "te": "చంద్రుడి ఆకారాన్ని అంచనా చేయుట మాసంలో చంద్రుడి ఆకారం మారిపోతుంది కాబట్టి మొదటి తరం మారుతోంది అని అంచనా చేయడం సహాయపడగలదు.",
+                "ur": "چاند کی شکل کا مشاہدہ کرنے سے موسموں میں تبدیلی کی پیشگوئی کرنے میں مدد مل سکتی ہے کیونکہ چاند کی شکل مہینے کے دوران تبدیل ہوتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is an example of predicting patterns?",
+                "te": "కనిష్ట ఏది ముందుకు ప్రవేశించడం ఒక మూలం ఉదాహరణ?",
+                "ur": "مندرجہ ذیل کون سا نمونہ پیشگوئی کرنے کا مثال ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Identifying different shapes of clouds",
+                    "te": "మేఘాల వివిధ ఆకారాలను గుర్తించడం",
+                    "ur": "بادلوں کے مختلف شکلوں کی شناخت"
+                },
+                "B": {
+                    "en": "Counting the number of flowers in a garden",
+                    "te": "ఒక తోటంలో పువ్వుల సంఖ్యను గణన చేయడం",
+                    "ur": "باغ میں پھولوں کی تعداد کا حساب لینا"
+                },
+                "C": {
+                    "en": "Observing the changes in the shape of the moon",
+                    "te": "చంద్రుడి ఆకారంలో మార్పులను అవీక్షించడం",
+                    "ur": "چاند کی شکل میں تبدیلیوں کا مشاہدہ"
+                },
+                "D": {
+                    "en": "Measuring the length of a river",
+                    "te": "నదియొక్క నీటిని పరిమాణించడం",
+                    "ur": "دریا کی لمبائی کا پیمائش"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "Predicting patterns involves observing and understanding recurring changes or sequences, such as the phases of the moon.",
+                "te": "ప్రవేశించడం ఆకారాలను అవీక్షించడం మరియు అవిరత మార్పులను అర్థం చేస్తుంది, ఉదాహరణకు చంద్రుడి మూలాలు.",
+                "ur": "پیشگوئی کرنے کا نمونہ مکرر تبدیلیوں یا تسلسلوں کو مشاہدہ اور سمجھنے کو شامل کرتا ہے، جیسے چاند کے مراحل۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following best describes how the shape of the moon changes over time?",
+                "te": "కొన్ని కారణాల మధ్య చంద్రుడి ఆకారం ఎలా మారుతుంది?",
+                "ur": "میں سے کون سا بہترین طریقے سے بتاتا ہے کہ چاند کا شکل وقت کے ساتھ کیسے تبدیل ہوتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "It remains the same shape all the time",
+                    "te": "అది ఎలాగైనా సమయంలో ఒక ఆకారంగా ఉంటుంది",
+                    "ur": "یہ ہمیشہ ایک ہی شکل میں رہتا ہے"
+                },
+                "B": {
+                    "en": "It changes from a full circle to a crescent shape and back to a full circle",
+                    "te": "అది పూర్తి వృత్తాకారం నుండి అర్ధచంద్రాకారం వరకు మారుతుంది మరియు పూర్తి వృత్తాకారం కోసం తిరిగి రావడం",
+                    "ur": "یہ پورے دائرے سے نکل کر نیم چاند کی شکل میں تبدیل ہوتا ہے اور پھر پورے دائرے میں واپس آتا ہے"
+                },
+                "C": {
+                    "en": "It changes from a crescent shape to a full circle and back to a crescent shape",
+                    "te": "అది అర్ధచంద్రాకారం నుండి పూర్తి వృత్తాకారం వరకు మారుతుంది మరియు అర్ధచంద్రాకారం కోసం తిరిగి రావడం",
+                    "ur": "یہ نیم چاند کی شکل سے پورے دائرے کی شکل میں تبدیل ہوتا ہے اور پھر نیم چاند کی شکل میں واپس آتا ہے"
+                },
+                "D": {
+                    "en": "It changes randomly and has no specific pattern",
+                    "te": "అది యాదృచ్ఛికంగా మారిపోతుంది మరియు యావుల నియమం లేదు",
+                    "ur": "یہ اتفاقی طور پر تبدیل ہوتا ہے اور کوئی مخصوص نقش نہیں ہوتا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "The shape of the moon changes from a full circle to a crescent shape and back due to its orbit around the Earth.",
+                "te": "చంద్రుడి ఆకారం భూమి సుత్తుకు వ్యాసం కారణంగా పూర్తి వృత్తాకారం నుండి అర్ధచంద్రాకారం వరకు మారుతుంది.",
+                "ur": "چاند کا شکل پورے دائرے سے نکل کر نیم چاند کی شکل میں تبدیل ہوتا ہے اور پھر بھی بھومی کے گرد گھومنے کی وجہ سے پورے دائرے میں واپس آتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which pattern is formed by the changing shapes of the moon?",
+                "te": "చంద్రుని మారుతున్న ఆకృతుల మీద ఏ నమూనా రూపొందిస్తుంది?",
+                "ur": "چاند کی تبدیل ہوتی شکلوں سے کونسا نمونہ بنتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Circle",
+                    "te": "సర్కిల్",
+                    "ur": "دائرہ"
+                },
+                "B": {
+                    "en": "Crescent",
+                    "te": "క్రెసెంట్",
+                    "ur": "ہلال"
+                },
+                "C": {
+                    "en": "Triangle",
+                    "te": "త్రిభుజం",
+                    "ur": "تکون"
+                },
+                "D": {
+                    "en": "Square",
+                    "te": "స్క్వేర్",
+                    "ur": "مربع"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "The changing shapes of the moon form a crescent pattern as it goes through its phases.",
+                "te": "చంద్రుని మారుతున్న ఆకృతులు తన భావాలను పూర్తి చేస్తూ ఒక హిలాల్ నమూనా రూపొందిస్తాయి.",
+                "ur": "چاند کی تبدیل ہوتی شکلیں اپنے مراحل سے گزرتی ہوئی ایک ہلالی نمونہ بناتی ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What shape does the moon appear in the sky during a full moon phase?",
+                "te": "పూర్ణచంద్ర అవస్థలో ఆకాశంలో చంద్రుడు ఎలా కనిపిస్తుంది?",
+                "ur": "پورے چاند کی حالت میں آسمان میں چاند کی کون سی شکل آتی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Circular",
+                    "te": "వృత్తాకారం",
+                    "ur": "دائرہ نما"
+                },
+                "B": {
+                    "en": "Half moon",
+                    "te": "అర్ధచంద్రమా",
+                    "ur": "آدھا چاند"
+                },
+                "C": {
+                    "en": "Crescent",
+                    "te": "క్రెసెంట్",
+                    "ur": "ہلال"
+                },
+                "D": {
+                    "en": "Square",
+                    "te": "వర్గం",
+                    "ur": "مربع"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "During a full moon phase, the moon appears in a circular shape in the sky.",
+                "te": "పూర్ణచంద్ర అవస్థలో, చంద్రుడు ఆకాశంలో వృత్తాకారంలో కనిపిస్తుంది.",
+                "ur": "پورے چاند کی حالت میں، چاند آسمان میں دائرہ نما شکل میں آتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        }
+    ]
+}

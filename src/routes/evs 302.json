@@ -1,0 +1,417 @@
+{
+    "subject": "I EVS(ENVIRONMENTAL SCIENCE)",
+    "grade": "3rd  grade",
+    "learning_outcome": "Identify simple features (e.g., movement, at place found, kept, eating habits, sounds) of animals and birds in the immediate surroundings.",
+    "questions": [
+        {
+            "question": {
+                "en": "What is a common eating habit of birds?",
+                "te": "పక్షుల సామాన్య ఆహార పద్ధతి ఏమిటి?",
+                "ur": "پرندوں کی عام کھانے کی عادت کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Drinking milk",
+                    "te": "పాలు తాగడం",
+                    "ur": "دودھ پینا"
+                },
+                "B": {
+                    "en": "Eating insects",
+                    "te": "కీటకాలు తినడం",
+                    "ur": "کیڑے کھانا"
+                },
+                "C": {
+                    "en": "Eating grass",
+                    "te": "గడ్డి తినడం",
+                    "ur": "گھاس کھانا"
+                },
+                "D": {
+                    "en": "Eating sweets",
+                    "te": "టీపీలు తినడం",
+                    "ur": "میٹھا کھانا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Birds commonly eat insects as part of their diet.",
+                "te": "పక్షులు వారి ఆహార భాగంగా కీటకాలను సామాన్యంగా తినటం చేస్తారు.",
+                "ur": "پرندے عام طور پر اپنے خوراک کا حصہ طور پر کیڑے کھاتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a feature of animals and birds?",
+                "te": "కాకిపక్షుల మరియు పక్షుల లక్షణాలు ఏది?",
+                "ur": "جانوروں اور پرندوں کی کون سی خصوصیت ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Color of feathers",
+                    "te": "గల్లుల రంగు",
+                    "ur": "پر کا رنگ"
+                },
+                "B": {
+                    "en": "Type of tree",
+                    "te": "చెట్టు రకము",
+                    "ur": "درخت کی قسم"
+                },
+                "C": {
+                    "en": "Sound they make",
+                    "te": "వారు చేసే ధ్వని",
+                    "ur": "وہ کیا آواز نکالتے ہیں"
+                },
+                "D": {
+                    "en": "Size of their nest",
+                    "te": "వారి గూడిద పరిమాణం",
+                    "ur": "ان کے گھوسلے کا سائز"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "Animals and birds can be identified by the sounds they make, such as chirping or squawking.",
+                "te": "పక్షులు మరియు పక్షులు చేసే ధ్వనిలోని వల్ల గుర్తుచేయవచ్చు.",
+                "ur": "جانوروں اور پرندوں کو ان کی آوازوں سے پہچانا جا سکتا ہے، جیسے کے چرچراہٹ یا چیخنا"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following animals is known for its long trunk and tusks?",
+                "te": "కాంతికి మూడు చెంచులు ఉన్న ఎనైమల్ ఏది?",
+                "ur": "کون سا جانور اپنی لمبی ناک اور ہاتھی دانت کے لئے مشہور ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Lion",
+                    "te": "సింహం",
+                    "ur": "شیر"
+                },
+                "B": {
+                    "en": "Elephant",
+                    "te": "ఏనుగు",
+                    "ur": "ہاتھی"
+                },
+                "C": {
+                    "en": "Tiger",
+                    "te": "పులి",
+                    "ur": "شیر"
+                },
+                "D": {
+                    "en": "Giraffe",
+                    "te": "జిరాఫ్",
+                    "ur": "جراف"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Elephants are known for their long trunks and tusks, which they use for various purposes.",
+                "te": "ఏనుగులు పొడముల మరియు చెంచులకు తెలియాయి, వారు వివిధ ఉద్దేశాలకు ఉపయోగిస్తారు.",
+                "ur": "ہاتھی اپنی لمبی ناک اور دانتوں کے لئے مشہور ہیں، جنہیں وہ مختلف مقاصد کے لئے استعمال کرتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a feature of animals and birds?",
+                "te": "కాకిని మరియు పక్షుల లక్షణాలలో ఏది?",
+                "ur": "جانوروں اور پرندوں کی خصوصیت میں سے کون سی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Color of feathers",
+                    "te": "గులాబీ రంగు",
+                    "ur": "پر کا رنگ"
+                },
+                "B": {
+                    "en": "Number of legs",
+                    "te": "కాలుల సంఖ్య",
+                    "ur": "ٹانگوں کی تعداد"
+                },
+                "C": {
+                    "en": "Favorite food",
+                    "te": "ఇష్టమైన ఆహారం",
+                    "ur": "پسندیدہ کھانا"
+                },
+                "D": {
+                    "en": "Sound they make",
+                    "te": "వారు చేసే ధ్వని",
+                    "ur": "آواز جو وہ نکالتے ہیں"
+                }
+            },
+            "correct_answer": {
+                "en": "D"
+            },
+            "explanation": {
+                "en": "Animals and birds can be identified by the sounds they make.",
+                "te": "జంతువులు మరియు పక్షులు వారు చేసే ధ్వని ద్వారా గుర్తుంచబడతాయి.",
+                "ur": "جانوروں اور پرندوں کو ان کی آواز سے پہچانا جا سکتا ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is a common eating habit of birds?",
+                "te": "పక్షుల సాధారణ భోజన అభ్యాసం ఏమిటి?",
+                "ur": "پرندوں کی عام کھانے کی عادت کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Eating grass",
+                    "te": "గడ్డి తినుట",
+                    "ur": "گھاس کھانا"
+                },
+                "B": {
+                    "en": "Eating insects",
+                    "te": "కీటకాలు తినుట",
+                    "ur": "کیڑے کھانا"
+                },
+                "C": {
+                    "en": "Eating rocks",
+                    "te": "రాక్స్ తినుట",
+                    "ur": "پتھر کھانا"
+                },
+                "D": {
+                    "en": "Eating paper",
+                    "te": "కాగజు తినుట",
+                    "ur": "کاغذ کھانا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Birds commonly eat insects as a part of their diet.",
+                "te": "పక్షులు అవాస్థవిలో కీటకాలు భోజనం చేస్తాయి.",
+                "ur": "پرندے عام طور پر اپنے خوراک کا حصہ طور پر کیڑے کھاتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is a common eating habit of birds?",
+                "te": "పక్షుల సాధారణ ఆహార అభ్యాసం ఏమిటి?",
+                "ur": "پرندوں کی عام کھانے کی عادت کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Eating grass",
+                    "te": "గడ్డి తినడం",
+                    "ur": "گھاس کھانا"
+                },
+                "B": {
+                    "en": "Eating insects",
+                    "te": "పురుగులను తినడం",
+                    "ur": "کیڑے کھانا"
+                },
+                "C": {
+                    "en": "Eating rocks",
+                    "te": "రాకులను తినడం",
+                    "ur": "پتھر کھانا"
+                },
+                "D": {
+                    "en": "Eating paper",
+                    "te": "కాగజు తినడం",
+                    "ur": "کاغذ کھانا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Birds commonly eat insects as part of their diet.",
+                "te": "పక్షులు అవిశిష్టమైన ఆహారం భాగంగా పురుగులను తినడం సామాన్యంగా చేస్తారు.",
+                "ur": "پرندے عام طور پر اپنے خوراک کا حصہ کے طور پر کیڑے کھاتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is a common eating habit of birds?",
+                "te": "పక్షుల సామాన్య ఆహార పెద్దతనం ఏమిటి?",
+                "ur": "پرندوں کی عام کھانے کی عادت کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Eating only fruits",
+                    "te": "కేవలం పండులను తింటుంది",
+                    "ur": "صرف پھل کھانا"
+                },
+                "B": {
+                    "en": "Eating insects and worms",
+                    "te": "కీటకాలు మరియు పొడులు తింటుంది",
+                    "ur": "کیڑے اور کیڑے کھانا"
+                },
+                "C": {
+                    "en": "Drinking milk",
+                    "te": "పాలు తాగుతూ",
+                    "ur": "دودھ پینا"
+                },
+                "D": {
+                    "en": "Eating cooked food",
+                    "te": "వంటి ఆహారాన్ని తింటుంది",
+                    "ur": "پکا ہوا کھانا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Birds commonly eat insects and worms as part of their diet.",
+                "te": "పక్షులు అక్కడ తమ ఆహారంలో కీటకాలు మరియు పొడులు తింటారు.",
+                "ur": "پرندے عام طور پر اپنے خوراک کا حصہ مخصوص کیڑے اور کیڑے کھاتے ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following is a feature of animals and birds?",
+                "te": "కానీ పశువులు మరియు పక్షుల లక్షణం ఏది?",
+                "ur": "مندرجہ ذیل میں سے کون سی خصوصیت جانوروں اور پرندوں کی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Color",
+                    "te": "రంగు",
+                    "ur": "رنگ"
+                },
+                "B": {
+                    "en": "Eating habits",
+                    "te": "ఆహార ఆచరణలు",
+                    "ur": "کھانے کی عادات"
+                },
+                "C": {
+                    "en": "Shape",
+                    "te": "ఆకారం",
+                    "ur": "شکل"
+                },
+                "D": {
+                    "en": "Size",
+                    "te": "పరిమాణం",
+                    "ur": "سائز"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Eating habits are one of the features that help identify animals and birds.",
+                "te": "ఆహార ఆచరణాలు పశువులు మరియు పక్షులను గుర్తించడానికి సహాయపడే లక్షణాలలో ఒకటి.",
+                "ur": "کھانے کی عادات ایک خصوصیت ہیں جو جانوروں اور پرندوں کی شناخت میں مدد فراہم کرتی ہیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which feature helps us identify animals and birds based on their eating habits?",
+                "te": "ప్రాణువులు మరియు పక్షులను తమ ఆహార అభ్యాసాల ఆధారంగా గుర్తించడానికి ఏ లక్షణం సహాయపడుతుంది?",
+                "ur": "جانوروں اور پرندوں کی پہچان کرنے میں کون سی خصوصیت ان کے کھانے کی عادات پر مبنی ہوتی ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "Movement",
+                    "te": "గతి",
+                    "ur": "حرکت"
+                },
+                "B": {
+                    "en": "At place found",
+                    "te": "స్థానంలో కనిపించిన",
+                    "ur": "جگہ پر پایا"
+                },
+                "C": {
+                    "en": "Kept",
+                    "te": "ఉంచిన",
+                    "ur": "رکھا ہوا"
+                },
+                "D": {
+                    "en": "Eating habits",
+                    "te": "ఆహార అభ్యాసాలు",
+                    "ur": "کھانے کی عادات"
+                }
+            },
+            "correct_answer": {
+                "en": "D"
+            },
+            "explanation": {
+                "en": "Identifying animals and birds based on their eating habits helps us understand their dietary preferences and behavior.",
+                "te": "అవిశేషాలకు ఆధారంగా ప్రాణువులు మరియు పక్షులను గుర్తుంచడం వల్ల మాకు వారి ఆహార ప్రియతా మరియు నడవడానికి సహాయపడుతుంది.",
+                "ur": "ان کی کھانے کی عادات پر مبنی جانوروں اور پرندوں کی پہچان ہمیں ان کی غذائی ترجیحات اور رویہ سمجھنے میں مدد فراہم کرتی ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which of the following animals is known for its loud roar?",
+                "te": "కింద పేరు చెప్పబడుతున్న పశువులలో ఎవరు తమ పెద్ద గర్జనను గుర్తించబడినట్లుంది?",
+                "ur": "مندرجہ ذیل جانوروں میں سے کون اپنی زوردار چیخ کے لیے مشہور ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "A. Elephant",
+                    "te": "A. ఏనుగు",
+                    "ur": "A. ہاتھی"
+                },
+                "B": {
+                    "en": "B. Lion",
+                    "te": "B. సింహం",
+                    "ur": "B. شیر"
+                },
+                "C": {
+                    "en": "C. Giraffe",
+                    "te": "C. జిరాఫ్",
+                    "ur": "C. زرافہ"
+                },
+                "D": {
+                    "en": "D. Kangaroo",
+                    "te": "D. కంగారూ",
+                    "ur": "D. کنگرو"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "Lions are known for their loud roar, which is a distinctive feature of this majestic animal.",
+                "te": "సింహాలు తమ పెద్ద గర్జనతో గుర్తించబడతాయి, ఇది ఈ వెలుగులో ఒక విశిష్ట లక్షణం.",
+                "ur": "شیر اپنی زوردار چیخ کے لیے مشہور ہیں، جو اس شاندار جانور کی ایک خصوصیت ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        }
+    ]
+}

@@ -1,0 +1,417 @@
+{
+    "subject": "mathematics",
+    "grade": "3rd  grade",
+    "learning_outcome": "Solves simple daily life problems using addition and subtraction of 3-digit numbers with and without regrouping.",
+    "questions": [
+        {
+            "question": {
+                "en": "What is 245 + 137?",
+                "te": "245 + 137 ఎంత?",
+                "ur": "245 + 137 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "372",
+                    "te": "372",
+                    "ur": "372"
+                },
+                "B": {
+                    "en": "382",
+                    "te": "382",
+                    "ur": "382"
+                },
+                "C": {
+                    "en": "392",
+                    "te": "392",
+                    "ur": "392"
+                },
+                "D": {
+                    "en": "402",
+                    "te": "402",
+                    "ur": "402"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "When adding 245 and 137, you add the ones place first...",
+                "te": "245 మరియు 137 కలుపుటలో, మీరు మొదట ఒక స్థానాన్ని కలుపుతారు...",
+                "ur": "245 اور 137 کو جمع کرنے پر، پہلے ایک جگہ شامل کریں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 256 - 134?",
+                "te": "256 - 134 ఎంత?",
+                "ur": "256 - 134 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "112",
+                    "te": "112",
+                    "ur": "112"
+                },
+                "B": {
+                    "en": "122",
+                    "te": "122",
+                    "ur": "122"
+                },
+                "C": {
+                    "en": "142",
+                    "te": "142",
+                    "ur": "142"
+                },
+                "D": {
+                    "en": "152",
+                    "te": "152",
+                    "ur": "152"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "When subtracting 134 from 256, you subtract the ones place first...",
+                "te": "256 నుండి 134 ని తీసుకుని, మీరు మొదట ఒక స్థానాన్ని తీసుకున్నారు...",
+                "ur": "256 سے 134 منفی کرتے وقت، پہلے ایک جگہ منفی کریں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 256 + 143?",
+                "te": "256 + 143 ఎంత?",
+                "ur": "256 + 143 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "389",
+                    "te": "389",
+                    "ur": "389"
+                },
+                "B": {
+                    "en": "399",
+                    "te": "399",
+                    "ur": "399"
+                },
+                "C": {
+                    "en": "409",
+                    "te": "409",
+                    "ur": "409"
+                },
+                "D": {
+                    "en": "419",
+                    "te": "419",
+                    "ur": "419"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "When adding 256 and 143, you add the ones place first...",
+                "te": "256 మరియు 143 కలుపుటలో, మీరు మొదట ఒక స్థానాన్ని కలుపుతారు...",
+                "ur": "256 اور 143 کو جمع کرنے پر، پہلے ایک جگہ شامل کریں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 356 - 187?",
+                "te": "356 - 187 ఏంటి?",
+                "ur": "356 - 187 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "159",
+                    "te": "159",
+                    "ur": "159"
+                },
+                "B": {
+                    "en": "169",
+                    "te": "169",
+                    "ur": "169"
+                },
+                "C": {
+                    "en": "169",
+                    "te": "169",
+                    "ur": "169"
+                },
+                "D": {
+                    "en": "169",
+                    "te": "169",
+                    "ur": "169"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "When subtracting 187 from 356, you subtract the ones place first...",
+                "te": "356 నుండి 187 ను తీసుకోటానికి, మీరు మొదట ఒక స్థానాన్ని తీసుకోవాలి...",
+                "ur": "356 سے 187 منفی کرتے وقت، پہلے ایک جگہ منفی کریں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 256 - 138?",
+                "te": "256 - 138 ఎంత?",
+                "ur": "256 - 138 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "118",
+                    "te": "118",
+                    "ur": "118"
+                },
+                "B": {
+                    "en": "118",
+                    "te": "118",
+                    "ur": "118"
+                },
+                "C": {
+                    "en": "118",
+                    "te": "118",
+                    "ur": "118"
+                },
+                "D": {
+                    "en": "118",
+                    "te": "118",
+                    "ur": "118"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "When subtracting 138 from 256, you subtract the ones place first...",
+                "te": "256 నుండి 138 ని తీసుకోటానికి, మీరు మొదట ఒక స్థానాన్ని తీసుకోవాలి...",
+                "ur": "256 سے 138 منفی کرنے پر، پہلے ایک جگہ منفی کریں..."
+            },
+            "difficulty_level": 0.8,
+            "confidence_score": 0.7,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 365 - 187?",
+                "te": "365 - 187 ఎంత?",
+                "ur": "365 - 187 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "178",
+                    "te": "178",
+                    "ur": "178"
+                },
+                "B": {
+                    "en": "178",
+                    "te": "178",
+                    "ur": "178"
+                },
+                "C": {
+                    "en": "178",
+                    "te": "178",
+                    "ur": "178"
+                },
+                "D": {
+                    "en": "178",
+                    "te": "178",
+                    "ur": "178"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "When subtracting 187 from 365, you start with the ones place...",
+                "te": "365 నుండి 187 తో గట్టించడంలో, మీరు మొదట ఒక స్థానాన్ని గట్టించండి...",
+                "ur": "365 سے 187 منفی کرنے پر، آپ پہلے ایک جگہ سے شروع کرتے ہیں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 356 - 189?",
+                "te": "356 - 189 ఎంత?",
+                "ur": "356 - 189 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "167",
+                    "te": "167",
+                    "ur": "167"
+                },
+                "B": {
+                    "en": "167",
+                    "te": "167",
+                    "ur": "167"
+                },
+                "C": {
+                    "en": "167",
+                    "te": "167",
+                    "ur": "167"
+                },
+                "D": {
+                    "en": "167",
+                    "te": "167",
+                    "ur": "167"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "When subtracting 189 from 356, you subtract the ones place first...",
+                "te": "356 నుండి 189 తో తగినప్పుడు, మీరు మొదట ఒక స్థానాన్ని తగినారు...",
+                "ur": "356 سے 189 کم کرنے پر، پہلے ایک جگہ کم کریں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 345 - 187?",
+                "te": "345 - 187 ఎంత?",
+                "ur": "345 - 187 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "158",
+                    "te": "158",
+                    "ur": "158"
+                },
+                "B": {
+                    "en": "158",
+                    "te": "158",
+                    "ur": "158"
+                },
+                "C": {
+                    "en": "158",
+                    "te": "158",
+                    "ur": "158"
+                },
+                "D": {
+                    "en": "158",
+                    "te": "158",
+                    "ur": "158"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "When subtracting 187 from 345, you start with the rightmost digits...",
+                "te": "345 నుండి 187 ను తీసుకున్నప్పుడు, మీరు సరైన స్థానాన్ని మొదటిగా తీసుకున్నారు...",
+                "ur": "345 سے 187 منفی کرتے وقت، آپ سب سے دائیں سے شروع کرتے ہیں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 356 - 187?",
+                "te": "356 - 187 ఎంత?",
+                "ur": "356 - 187 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "169",
+                    "te": "169",
+                    "ur": "169"
+                },
+                "B": {
+                    "en": "169",
+                    "te": "169",
+                    "ur": "169"
+                },
+                "C": {
+                    "en": "169",
+                    "te": "169",
+                    "ur": "169"
+                },
+                "D": {
+                    "en": "169",
+                    "te": "169",
+                    "ur": "169"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "When subtracting 187 from 356, you subtract the ones place first...",
+                "te": "356 నుండి 187 ను వదిలితే, మీరు మొదట ఒక స్థానాన్ని వదిలితే...",
+                "ur": "356 سے 187 منفی کرنے پر، پہلے ایک جگہ منفی کریں..."
+            },
+            "difficulty_level": 0.8,
+            "confidence_score": 0.7,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "What is 248 + 135?",
+                "te": "248 + 135 ఎంత?",
+                "ur": "248 + 135 کیا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "363",
+                    "te": "363",
+                    "ur": "363"
+                },
+                "B": {
+                    "en": "383",
+                    "te": "383",
+                    "ur": "383"
+                },
+                "C": {
+                    "en": "413",
+                    "te": "413",
+                    "ur": "413"
+                },
+                "D": {
+                    "en": "423",
+                    "te": "423",
+                    "ur": "423"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "When adding 248 and 135, you add the ones place first...",
+                "te": "248 మరియు 135 కలుపుటలో, మీరు మొదట ఒక స్థానాన్ని కలుపుతారు...",
+                "ur": "248 اور 135 کو جمع کرنے پر، پہلے ایک جگہ شامل کریں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        }
+    ]
+}

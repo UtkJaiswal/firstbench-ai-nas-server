@@ -1,0 +1,417 @@
+{
+    "subject": "mathematics",
+    "grade": "3rd  grade",
+    "learning_outcome": "Compares numbers up to 999 based on their place values.",
+    "questions": [
+        {
+            "question": {
+                "en": "Which number has the largest value based on its place value?",
+                "te": "ప్రాంతం విలువ ఆధారంగా ఎక్కువ విలువ ఉంది ఎందుకు?",
+                "ur": "کون سا عدد اپنی جگہ کی قیمت کے مطابق سب سے زیادہ قیمت رکھتا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "543",
+                    "te": "543",
+                    "ur": "543"
+                },
+                "B": {
+                    "en": "435",
+                    "te": "435",
+                    "ur": "435"
+                },
+                "C": {
+                    "en": "354",
+                    "te": "354",
+                    "ur": "354"
+                },
+                "D": {
+                    "en": "453",
+                    "te": "453",
+                    "ur": "453"
+                }
+            },
+            "correct_answer": {
+                "en": "A"
+            },
+            "explanation": {
+                "en": "In this case, the number 543 has the largest value as the digit in the hundreds place is the highest.",
+                "te": "ఈ ప్రస్తుతం, 543 నెంబర్‌కు అత్యధిక విలువ ఉంది ఏమిటి సైనికి సైనికి స్థానం ఉచితంగా ఉంది.",
+                "ur": "اس معاملے میں، نمبر 543 کی قیمت سب سے زیادہ ہے کیونکہ سینٹریز کی جگہ کی ہندسہ سب سے زیادہ ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is greater: 325 or 532?",
+                "te": "ఏది పెద్దది: 325 లేదా 532?",
+                "ur": "کونسا نمبر بڑا ہے: 325 یا 532؟"
+            },
+            "options": {
+                "A": {
+                    "en": "325",
+                    "te": "325",
+                    "ur": "325"
+                },
+                "B": {
+                    "en": "532",
+                    "te": "532",
+                    "ur": "532"
+                },
+                "C": {
+                    "en": "They are equal",
+                    "te": "వారు సమానం",
+                    "ur": "وہ برابر ہیں"
+                },
+                "D": {
+                    "en": "Cannot determine",
+                    "te": "తనిఖీ చేయలేరు",
+                    "ur": "تعین نہیں کیا جا سکتا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "532 is greater than 325 because the digit in the hundreds place is larger in 532.",
+                "te": "532 అందరూ పెద్దది కాబట్టి 325 కంటె ఎక్కువ ఉంది.",
+                "ur": "532 325 سے بڑا ہے کیونکہ ہنڈریڈ کی جگہ پر 532 میں بڑا ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is greater based on their place values: 487, 574, 645?",
+                "te": "ప్రాంత మౌల్యాల ఆధారంగా ఎన్నికలో ఎంత మంది ఎక్కువవి: 487, 574, 645?",
+                "ur": "ان کی جگہ کی قیمتوں کے مبادلے پر کون سا عدد بڑا ہے: 487، 574، 645؟"
+            },
+            "options": {
+                "A": {
+                    "en": "487",
+                    "te": "487",
+                    "ur": "487"
+                },
+                "B": {
+                    "en": "574",
+                    "te": "574",
+                    "ur": "574"
+                },
+                "C": {
+                    "en": "645",
+                    "te": "645",
+                    "ur": "645"
+                },
+                "D": {
+                    "en": "All are equal",
+                    "te": "అన్నింటినీ సమానం",
+                    "ur": "سب برابر ہیں"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "In this case, 645 is the greatest number as it has the highest value in the hundreds place.",
+                "te": "ఈ ప్రస్తుతం, 645 గరిమలో అత్యధిక మౌల్యం ఉన్నది కాబట్టి ఇది గరితమైన సంఖ్య.",
+                "ur": "اس معاملے میں، 645 سب سے بڑا عدد ہے کیونکہ اس کی قیمت سینٹس کی جگہ پر سب سے زیادہ ہے۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is greater: 385 or 538?",
+                "te": "ఏది ఎక్కువ: 385 లేదా 538?",
+                "ur": "کون سا عدد بڑا ہے: 385 یا 538؟"
+            },
+            "options": {
+                "A": {
+                    "en": "385",
+                    "te": "385",
+                    "ur": "385"
+                },
+                "B": {
+                    "en": "538",
+                    "te": "538",
+                    "ur": "538"
+                },
+                "C": {
+                    "en": "They are equal",
+                    "te": "వారు సమానంగా ఉన్నారు",
+                    "ur": "وہ برابر ہیں"
+                },
+                "D": {
+                    "en": "Cannot be determined",
+                    "te": "తనిఖీ చేయబడదు",
+                    "ur": "فیصلہ نہیں کیا جا سکتا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "In comparing numbers based on place values, the digit in the hundreds place is the most significant. In this case, 538 is greater than 385 because the digit in the hundreds place (5) is greater in 538 than in 385.",
+                "te": "స్థానం విలువలపై ఆధారపడి సంఖ్యలను తీసుకోవడంలో, నంబర్లో వారి స్థానం అత్యధికమైనది. ఈ ప్రస్తుతం, 538 లో ఉండే నంబర్ 385 కంటే ఎక్కువగా ఉంది కాబట్టి వారి స్థానం (5) 538 లో 385 కంటే ఎక్కువగా ఉంది.",
+                "ur": "مقامی اقدار پر مبنی اعداد کی تولید میں، سینٹی میں ڈیجٹ سب سے اہم ہے۔ اس معاملے میں، 538 385 سے زیادہ ہے کیونکہ سینٹی میں ڈیجٹ (5) 538 میں 385 سے زیادہ ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is greater based on their place values: 456 or 549?",
+                "te": "ప్లేస్ వ్యాల్యూస్ ప్రకారం ఎందుకు ఎక్కువమైన సంఖ్య: 456 లేదా 549?",
+                "ur": "ان کی جگہ کی قیمتوں کے اساس پر کون سی سنکی ہے: 456 یا 549؟"
+            },
+            "options": {
+                "A": {
+                    "en": "456",
+                    "te": "456",
+                    "ur": "456"
+                },
+                "B": {
+                    "en": "549",
+                    "te": "549",
+                    "ur": "549"
+                },
+                "C": {
+                    "en": "Both are equal",
+                    "te": "రెండూ సమానం",
+                    "ur": "دونوں برابر ہیں"
+                },
+                "D": {
+                    "en": "Cannot be determined",
+                    "te": "తనిఖీ చేయబడదు",
+                    "ur": "تعین نہیں کیا جا سکتا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "In this case, 549 is greater than 456 because the hundreds place value is higher in 549.",
+                "te": "ఈ ప్రకారం, 549 ఎక్కువమైనది కాబట్టి 456 కంటే ఎక్కువది.",
+                "ur": "اس معاملے میں، 549 456 سے زیادہ ہے کیونکہ 549 میں سینٹیز کی قیمت زیادہ ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is greater: 456 or 546?",
+                "te": "ఎందుకు పెద్దది: 456 లేదా 546?",
+                "ur": "کونسا عدد بڑا ہے: 456 یا 546؟"
+            },
+            "options": {
+                "A": {
+                    "en": "456",
+                    "te": "456",
+                    "ur": "456"
+                },
+                "B": {
+                    "en": "546",
+                    "te": "546",
+                    "ur": "546"
+                },
+                "C": {
+                    "en": "Both are equal",
+                    "te": "రెండూ సమానం",
+                    "ur": "دونوں برابر ہیں"
+                },
+                "D": {
+                    "en": "Cannot be determined",
+                    "te": "తీసుకోలేదు",
+                    "ur": "یہ تعین نہیں کیا جا سکتا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "To compare 456 and 546, look at the hundreds place value...",
+                "te": "456 మరియు 546 ని తీసుకొనడానికి, నిలవడానికి నాలుగు స్థానం చూడండి...",
+                "ur": "456 اور 546 کا موازنہ کرنے کے لئے، سینوں کی قیمت دیکھیں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is greater: 526 or 652?",
+                "te": "526 లేదా 652 ఏది పెద్దది?",
+                "ur": "526 یا 652 میں کون بڑا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "526",
+                    "te": "526",
+                    "ur": "526"
+                },
+                "B": {
+                    "en": "652",
+                    "te": "652",
+                    "ur": "652"
+                },
+                "C": {
+                    "en": "They are equal",
+                    "te": "వీరి సమానం",
+                    "ur": "یہ برابر ہیں"
+                },
+                "D": {
+                    "en": "Cannot be determined",
+                    "te": "తనిఖీ చేయబడదు",
+                    "ur": "تعین نہیں کیا جا سکتا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "To compare 526 and 652, look at the hundreds place first...",
+                "te": "526 మరియు 652 ను తనిఖీ చేయడానికి, మీరు మొదటి స్థానంను చూడండి...",
+                "ur": "526 اور 652 کا موازنہ کرنے کے لئے، سب سے پہلے سینٹری پلیس دیکھیں..."
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 1.0,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number has the highest value in the hundreds place?",
+                "te": "ముందుమాత్రలో అత్యధిక విలువ ఎవరిది?",
+                "ur": "سینٹس میں سب سے زیادہ قیمت والا نمبر کون سا ہے؟"
+            },
+            "options": {
+                "A": {
+                    "en": "423",
+                    "te": "423",
+                    "ur": "423"
+                },
+                "B": {
+                    "en": "586",
+                    "te": "586",
+                    "ur": "586"
+                },
+                "C": {
+                    "en": "719",
+                    "te": "719",
+                    "ur": "719"
+                },
+                "D": {
+                    "en": "354",
+                    "te": "354",
+                    "ur": "354"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "To compare numbers based on their place values, look at the digit in the hundreds place.",
+                "te": "అవకాశాల ఆధారంగా సంఖ్యలను తీసుకోవడానికి, ముందుమాత్రలో అంకంని చూడండి.",
+                "ur": "مقام کی قیمتوں پر مبنی اعداد کا موازنہ کرنے کے لئے، سینٹس کی جگہ پر ڈیجٹ دیکھیں۔"
+            },
+            "difficulty_level": 0.6,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is greater based on their place values: 456, 548, 645?",
+                "te": "ప్రాంత మౌలికతల ఆధారంగా ఎందుకు అధికమైన సంఖ్య: 456, 548, 645?",
+                "ur": "ان کی جگہی قیمتوں کے مبادلے پر کون سی سنکیا زیادہ ہے: 456، 548، 645؟"
+            },
+            "options": {
+                "A": {
+                    "en": "456",
+                    "te": "456",
+                    "ur": "456"
+                },
+                "B": {
+                    "en": "548",
+                    "te": "548",
+                    "ur": "548"
+                },
+                "C": {
+                    "en": "645",
+                    "te": "645",
+                    "ur": "645"
+                },
+                "D": {
+                    "en": "They are all equal",
+                    "te": "వారు అన్నీ సమానంగా ఉన్నారు",
+                    "ur": "وہ سب برابر ہیں"
+                }
+            },
+            "correct_answer": {
+                "en": "C"
+            },
+            "explanation": {
+                "en": "In this case, 645 is the greatest number as it has the highest digit in the hundreds place.",
+                "te": "ఈ ప్రస్తుతం, 645 అత్యధిక సంఖ్య అయినది, ఇది ముఖ్యమైన సంఖ్యలో గరిక స్థానంలో అత్యధిక అంకం ఉన్నది.",
+                "ur": "اس معاملے میں، 645 سب سے بڑی سنکیا ہے کیونکہ اس میں سینٹیز پلیس میں سب سے زیادہ ڈیجٹ ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        },
+        {
+            "question": {
+                "en": "Which number is greater: 456 or 546?",
+                "te": "ఎందుకు పెద్దది: 456 లేదా 546?",
+                "ur": "کونسا نمبر بڑا ہے: 456 یا 546؟"
+            },
+            "options": {
+                "A": {
+                    "en": "456",
+                    "te": "456",
+                    "ur": "456"
+                },
+                "B": {
+                    "en": "546",
+                    "te": "546",
+                    "ur": "546"
+                },
+                "C": {
+                    "en": "Both are equal",
+                    "te": "రెండూ సమానం",
+                    "ur": "دونوں برابر ہیں"
+                },
+                "D": {
+                    "en": "Cannot be determined",
+                    "te": "తనిఖీ చేయబడదు",
+                    "ur": "تعین نہیں کیا جا سکتا"
+                }
+            },
+            "correct_answer": {
+                "en": "B"
+            },
+            "explanation": {
+                "en": "In this case, 546 is greater than 456 because the digit in the hundreds place is larger in 546.",
+                "te": "ఈ ప్రస్తుతం, 546 ఇంకొ 456 కంటె పెద్దది కాబట్టి, ఇది అంశం పెద్దది.",
+                "ur": "اس معاملے میں، 546 456 سے بڑا ہے کیونکہ ہنڈرڈز کی جگہ میں ڈیجٹ 546 میں زیادہ ہے۔"
+            },
+            "difficulty_level": 0.7,
+            "confidence_score": 0.8,
+            "relevance_score": 0.9,
+            "content_appropriateness": true
+        }
+    ]
+}
